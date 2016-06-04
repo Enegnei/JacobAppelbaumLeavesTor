@@ -12,11 +12,15 @@ On the 24th of May, one day before Appelbaum allegedly stepped down, core Tor de
 
 > [@puellavulnerata](https://archive.is/V0hZw): Precommitment revealed: sha256("It seems one rapist is one rapist too many\n")
 
+(To verify this yourself using OpenSSL, type `echo It seems one rapist is one rapist too many | openssl sha256`, the output of which should be `(stdin)= bfb9a7c833a5fc8f5a938d816b1bbc4acaa06519fdb1af4c8632719596807dac`).
+
 As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after Meredith Patterson ([@maradydd](https://archive.is/1FYbO)) [tweeted about the brevity of Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
 
 > [blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project](https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) is a gross disservice to the Tor community. People deserve to know why Tor evicted its resident sociopath. You don't just kick sociopaths down the road and play like you've done the necessary. That's extending their social license to operate. Tor had the chance to nip this in the bud back when Jake was just a plagiarist. They ignored it, and he graduated to sexual assault... Jake finally raped enough people that Tor as an organisation couldn't ignore it anymore.
 
-The majority of those who responded were [shocked and/ or asked for more information](https://web.archive.org/web/20160604033907/https://twitter.com/maradydd/status/738801590333624320), both about the rape allegations and the circumstances of Appelbaum stepping down. As of yet, no one from Tor has been directly forthcoming about the details.
+The majority of those who responded were [shocked and/ or asked for more information](https://web.archive.org/web/20160604033907/https://twitter.com/maradydd/status/738801590333624320), both about the rape allegations and the circumstances of Appelbaum stepping down; however none of the people who made the allegations offered more details.
+
+On June 4th, Steele [released a longer public statement](https://archive.is/uOTpp) about the situation. Though it did confirm that the allegations led to Appelbaum stepping down, it did not reveal who or how many victims there allegedly are, only that the matter was being investigated with the help of "a legal firm that specializes in employment issues including sexual misconduct."
 
 **Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he has a "[story forthcoming](https://archive.is/aGbcD)" on this event. According to a [screenshot of an email](https://archive.is/No8pV), the Tor Project is investigating the allegations.
 
