@@ -2,3 +2,24 @@
 An investigation into the circumstances of Jacob Appelbaum leaving the Tor Project
 
 ***
+On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
+
+> Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
+
+Jacob Appelbaum officially [joined the Tor Project in 2008](https://web.archive.org/web/20150926185057/https://blog.torproject.org/blog/jacob-and-matt-join-tor-project) as part of the translation team, improving documentation for non-technical users, and advocacy for the Tor network in general. He also runs one of Tor's [directory authorities](https://archive.is/7jFmj#selection-4563.0-4569.364), a special server which maintains a list of all verified exit nodes and helps Tor clients find relays in the network (there were 8 of these in 2012; there are now 10).
+
+On the 24th of May, one day before Appelbaum allegedly stepped down, core Tor developer [Andrea Shepard](https://archive.is/Q2TTK#selection-739.0-739.25) tweeted [a commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
+
+> [@puellavulnerata](https://archive.is/V0hZw): Precommitment revealed: sha256("It seems one rapist is one rapist too many\n")
+
+As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after Meredith Patterson ([@maradydd](https://archive.is/1FYbO)) [tweeted about the brevity of Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
+
+> [blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project](https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) is a gross disservice to the Tor community. People deserve to know why Tor evicted its resident sociopath. You don't just kick sociopaths down the road and play like you've done the necessary. That's extending their social license to operate. Tor had the chance to nip this in the bud back when Jake was just a plagiarist. They ignored it, and he graduated to sexual assault... Jake finally raped enough people that Tor as an organisation couldn't ignore it anymore.
+
+The majority of those who responded were [shocked and/ or asked for more information](https://web.archive.org/web/20160604033907/https://twitter.com/maradydd/status/738801590333624320), both about the rape allegations and the circumstances of Appelbaum stepping down. As of yet, no one from Tor has been directly forthcoming about the details.
+
+**Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he has a "[story forthcoming](https://archive.is/aGbcD)" on this event. According to a [screenshot of an email](https://archive.is/No8pV), the Tor Project is investigating the allegations.
+
+![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
+
+`Note: Though surname & email address are blacked out, 'Kate' is likely Communications Director Kate Krauss.`
