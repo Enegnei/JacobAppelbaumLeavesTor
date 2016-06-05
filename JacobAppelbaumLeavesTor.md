@@ -46,7 +46,7 @@ A Twitter account, previously going by the handle "[@TimetoDieJake](https://arch
 
 `Warning: The following stories have not been authenticated. They are here only to document accusations.`
 
-The website profiles eight separate claims of sexual misconduct, though at the moment half of them are marked as "placeholders" (Alice, Briar, Pheonix, and Sam) and all are purposely under vague names. The only way of determining their gender is through the content of the stories themselves. The GitHub copies of the entries also supply the same date of December 31st, 2015; it is unclear what it signifies but it is most likely a date of submission. The non-placeholder entries are as follows:
+The website profiles eight separate claims of sexual misconduct, though at the moment half of them are marked as "placeholders" (Alice, Briar, Pheonix, and Sam) and all are purposely under vague names. The GitHub copies of the entries also supply the same date of December 31st, 2015; it is unclear what it signifies, but if anything it is most likely a date of submission. The non-placeholder entries are as follows:
 
 + "[Daniel](https://archive.is/R6nDq)," who was dating someone in the Tor community and says Appelbaum violated their privacy and propositioned them for sex.
 + "[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping.
