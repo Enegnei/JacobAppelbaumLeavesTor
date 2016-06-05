@@ -24,6 +24,12 @@ The majority of those who responded were [shocked and/ or asked for more informa
 
 On June 4th, Steele [released a longer public statement](https://archive.is/uOTpp) about the situation. Though it did confirm that *the allegations led to Appelbaum stepping down*, it did not reveal who or how many victims there allegedly are, only that the matter was being investigated with the help of "a legal firm that specializes in employment issues including sexual misconduct."
 
+> Over the past several days, a number of people have made serious, public allegations of sexual mistreatment by former Tor Project employee Jacob Appelbaum. These types of allegations were not entirely new to everybody at Tor; they were consistent with rumors some of us had been hearing for some time. That said, the most recent allegations are much more serious and concrete than anything we had heard previously. We are deeply troubled by these accounts.
+
+> We do not know exactly what happened here. We don't have all the facts, and we are undertaking several actions to determine them as best as possible. We're also not an investigatory body, and we are uncomfortable making judgments about people's private behaviors.
+
+> That said, after we talked with some of the complainants, and after extensive internal deliberation and discussion, Jacob stepped down from his position as an employee of The Tor Project.
+
 **Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he has a "[story forthcoming](https://archive.is/aGbcD)" on this event. According to a [screenshot of an email](https://archive.is/No8pV), the Tor Project is investigating the allegations.
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
