@@ -30,7 +30,7 @@ On June 4th, Steele [released a longer public statement](https://archive.is/uOTp
 
 > That said, after we talked with some of the complainants, and after extensive internal deliberation and discussion, Jacob stepped down from his position as an employee of The Tor Project.
 
-**Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he has a "[story forthcoming](https://archive.is/aGbcD)" on this event. According to a [screenshot of an email](https://archive.is/No8pV), the Tor Project is investigating the allegations.
+**Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he has a "[story forthcoming](https://archive.is/aGbcD)" on this event. A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
 
