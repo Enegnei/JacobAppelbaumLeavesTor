@@ -54,4 +54,4 @@ The website profiles eight separate claims of sexual misconduct. Initially, half
 + "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted.
 + "[West](https://archive.is/TjhUQ)," who was kissed without consent by Appelbaum at a hacker event.
 
-
+Only [one person](https://archive.is/9kjWs) claiming to be a victim of Appelbaum has publicly come forward and said they submitted a story to the site. So far they have alleged one incident (or possibly a span of incidents) of harassment which occured during the Chaos Communication Congress event in 2013 (30c3). As far as I can tell, the only story which matches would be "West" (hacker event), though because his submission was more recent it likely hasn't been added yet.
