@@ -42,7 +42,7 @@ Meanwhile, a website (which may have [belonged to Appelbaum at some point](https
 
 A Twitter account, previously going by the handle "[@TimetoDieJake](https://archive.is/ucuwA)", has been changed to "[@VictimsOfJake](https://archive.is/tHhxh)" and is promoting the site. However, as no one has publicly claimed the site or the Twitter account, no one seems to know who is behind them or even if they're the same person. Shepard is the widely suspected creator of the site, though she tweeted that it was not her "[choice to keep the sources this vague, but frankly, people are afraid of retaliation](https://archive.is/V0hZw#selection-3557.1-3557.98)." Besides the alleged victim stories themselves, the most alarming aspect of the website is the lack of good faith displayed by the tweet button at the bottom which prompts people to share the website as if it was owned and controlled by Appelbaum:
 
-> I just read on @ioerror's homepage https://ioerrror.github.io/jacobappelbaum.net that he has sexually assaulted many people in #tech. #wtf
+> I just read on [@ioerror](https://twitter.com/ioerror)'s homepage https://ioerrror.github.io/jacobappelbaum.net that he has sexually assaulted many people in #tech. #wtf
 
 `Warning: The following stories have not been authenticated. They are here only to document accusations.`
 
