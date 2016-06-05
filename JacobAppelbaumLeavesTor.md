@@ -46,11 +46,12 @@ A Twitter account, previously going by the handle "[@TimetoDieJake](https://arch
 
 `Warning: The following stories have not been authenticated. They are here only to document accusations.`
 
-The website profiles eight separate claims of sexual misconduct, though at the moment half of them are marked as "placeholders" (Alice, Briar, Pheonix, and Sam) and all are purposely under vague names. The GitHub copies of the entries also supply the same date of December 31st, 2015; it is unclear what it signifies, but if anything it is most likely a date of submission. The non-placeholder entries are as follows:
+The website profiles eight separate claims of sexual misconduct. Initially, half of them were marked as "placeholders" (Alice, Briar, Pheonix, and Sam), but since then the story for Sam has also been added. All are purposely under vague (i.e. anonymized) names. The GitHub copies of the entries are PNG images which also supply the same date of December 31st, 2015; it is unclear what it signifies, but if anything it is most likely a date of submission. The non-placeholder entries are as follows:
 
 + "[Daniel](https://archive.is/R6nDq)," who was dating someone in the Tor community and says Appelbaum violated their privacy and propositioned them for sex.
 + "[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping.
 + "[River](https://archive.is/0jbVl)," who was romantically involved with him, propositioned for group sex and while intoxicated was subjected to unwanted sexual advances by him and at least one of his friends at a party.
++ "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted.
 + "[West](https://archive.is/TjhUQ)," who was kissed without consent by Appelbaum at a hacker event.
 
 
