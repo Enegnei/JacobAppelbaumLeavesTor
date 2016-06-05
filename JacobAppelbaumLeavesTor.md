@@ -1,5 +1,8 @@
 # Jacob Appelbaum Leaves the Tor Project
-An investigation into the circumstances of Jacob Appelbaum leaving the Tor Project
+
+![Jacob Appelbaum](https://archive.li/dnJFU/e10f994aecc6a142cced73bcb8b42710d406bcf5.jpg)
+
+**Disclaimer: This is a place for me to collect evidence and news on the story. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here.**
 
 ***
 On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
@@ -54,4 +57,4 @@ The website profiles eight separate claims of sexual misconduct. Initially, half
 + "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted.
 + "[West](https://archive.is/TjhUQ)," who was kissed without consent by Appelbaum at a hacker event.
 
-Only [one person](https://archive.is/9kjWs) claiming to be a victim of Appelbaum has publicly come forward and said they submitted a story to the site. So far they have alleged one incident (or possibly a span of incidents) of harassment which occured during the Chaos Communication Congress event in 2013 (30c3). As far as I can tell, the only story which matches would be "West" (hacker event), though because his submission was more recent it likely hasn't been added yet.
+Only [one person](https://archive.is/9kjWs) claiming to be a victim of Appelbaum has publicly come forward and said they submitted a story to the site. So far they have alleged one incident (or possibly a span of incidents) of harassment which occured during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page). As far as I can tell, the only story which matches would be "West" (hacker event), though because his submission was more recent it likely hasn't been added yet.
