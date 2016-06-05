@@ -18,6 +18,8 @@ As people responded to the news about Appelbaum as well as these mysterious twee
 
 > [blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project](https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) is a gross disservice to the Tor community. People deserve to know why Tor evicted its resident sociopath. You don't just kick sociopaths down the road and play like you've done the necessary. That's extending their social license to operate. Tor had the chance to nip this in the bud back when Jake was just a plagiarist. They ignored it, and he graduated to sexual assault... Jake finally raped enough people that Tor as an organisation couldn't ignore it anymore.
 
+As background to her assertion that he "graduated [from plagiarist] to sexual assault," it would be relevant to note that Patterson and Appelbaum have a history of plagarism disputes extending back prior to Len Sassaman's death (her husband, mentioned in [this thread](https://twitter.com/ioerror/status/302261054497509376) as "Len") in 2011.
+
 The majority of those who responded were [shocked and/ or asked for more information](https://web.archive.org/web/20160604033907/https://twitter.com/maradydd/status/738801590333624320), both about the rape allegations and the circumstances of Appelbaum stepping down; however none of the people who made the allegations offered more details.
 
 On June 4th, Steele [released a longer public statement](https://archive.is/uOTpp) about the situation. Though it did confirm that *the allegations led to Appelbaum stepping down*, it did not reveal who or how many victims there allegedly are, only that the matter was being investigated with the help of "a legal firm that specializes in employment issues including sexual misconduct."
