@@ -36,7 +36,7 @@ On June 4th, Steele [released a longer public statement](https://archive.is/uOTp
 
 `Note: Though surname & email address are blacked out, 'Kate' is likely Communications Director Kate Krauss.`
 
-Meanwhile, a website (which may have [belonged to Appelbaum at some point](https://twitter.com/absinthol/status/739148659418402820)) appears to have been repurposed as a victim story bulletin board with an attached [GitHub repository](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*): [jacobappelbaum.net](https://archive.is/8m4Yk). (Note that his official website is listed on his Twitter profile as [appelbaum.net](https://archive.is/bPSlT#selection-1045.1-1045.15)). According to the [registration information](https://archive.is/nMT7M#selection-1219.0-1219.29), it was created on May 27th, two days after Appelbaum reportedly stepped down.
+Meanwhile, a website (which may have [belonged to Appelbaum at some point](https://twitter.com/absinthol/status/739148659418402820)) appears to have been repurposed as a victim story bulletin board with an attached [GitHub repository](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*): [jacobappelbaum.net](https://archive.is/8m4Yk). (Note that his official website is listed on his Twitter profile as [appelbaum.net](https://archive.is/bPSlT#selection-1045.1-1045.15)). According to the [registration](https://archive.is/VMYhK) [information](https://archive.is/nMT7M#selection-1219.0-1219.29), it was created on May 27th, two days after Appelbaum reportedly stepped down.
 
 ![site registration](https://crypto.quebec/wp-content/uploads/2016/06/Capture.png)
 
