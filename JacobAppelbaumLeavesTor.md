@@ -2,7 +2,7 @@
 
 ![Jacob Appelbaum](https://archive.li/dnJFU/e10f994aecc6a142cced73bcb8b42710d406bcf5.jpg)
 
-**Disclaimer: This is a place for me to collect evidence and news on the story. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here.**
+**Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here.**
 
 ***
 On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
