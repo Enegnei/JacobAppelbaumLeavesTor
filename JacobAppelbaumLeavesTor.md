@@ -41,7 +41,7 @@ Appelbaum's last message, prior to these allegations going public, was a tweet o
 
 His publicist, [Claudia Tomassini](https://archive.is/eHxMD), told **WIRED** that his "[legal team is working on an injunction against these monstrous and factually incorrect accusations](https://archive.is/pCaSd#selection-1511.239-1511.444)."
 
-**Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he had a "[story forthcoming](https://archive.is/aGbcD)" on this event, which was then [published the next day](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/). A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
+**Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) said he had a "[story forthcoming](https://archive.is/aGbcD)" on this event. He has since published two, the [first](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) summarizing the allegations and Tor's response, the [second](https://archive.is/v9tPj) on Appelbaum's response. A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
 
