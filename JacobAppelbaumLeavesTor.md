@@ -17,7 +17,7 @@ On the 24th of May, one day before Appelbaum allegedly stepped down, core Tor de
 
 (To verify this yourself using OpenSSL, type `echo It seems one rapist is one rapist too many | openssl sha256`, the output of which should be `(stdin)= bfb9a7c833a5fc8f5a938d816b1bbc4acaa06519fdb1af4c8632719596807dac`).
 
-As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after Meredith Patterson ([@maradydd](https://archive.is/1FYbO)) [tweeted about the lack of explanation in Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
+As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after technology researcher and writer [Meredith Patterson](https://web.archive.org/web/20160325052441/http://www.thesmartpolitenerd.com/aboutme.html) ([@maradydd](https://archive.is/1FYbO)) tweeted about [the lack of explanation in Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
 
 > [blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project](https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) is a gross disservice to the Tor community. People deserve to know why Tor evicted its resident sociopath. You don't just kick sociopaths down the road and play like you've done the necessary. That's extending their social license to operate. Tor had the chance to nip this in the bud back when Jake was just a plagiarist. They ignored it, and he graduated to sexual assault... Jake finally raped enough people that Tor as an organisation couldn't ignore it anymore.
 
