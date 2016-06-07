@@ -79,7 +79,9 @@ In **The Daily Dot** interview he gives far more detail, including what the girl
 
 > Tan said afterwards he spoke briefly with the woman. He asked if she wanted to file a police report, but she was unwilling. She left the hotel before any of the witnesses learned who she was. The incident was never reported to police or to the Tor Project.
 
-Tan also mentions seeing Appelbaum "[trying to take upskirt photos of women" and "making lewd comments and allegations of threesomes with various members of the privacy community](https://archive.is/K2tdt#selection-1379.28-1379.233)." Shephard adds that once when Appelbaum was "good drunk" in a bar in July of 2013, he "discussed how he would ‘use my ass’."
+Tan posted the story on his Facebook page, saying that even though he didn't know who the girl was he had submitted it to Steele as part of the investigaton. He also mentions seeing Appelbaum "[trying to take upskirt photos of women" and "making lewd comments and allegations of threesomes with various members of the privacy community](https://archive.is/K2tdt#selection-1379.28-1379.233)." Shephard added that once when Appelbaum was "good drunk" in a bar in July of 2013, he "discussed how he would ‘use my ass’."
+
+![Tan's Facebook posts](https://pbs.twimg.com/media/CkX8kzqXEAA5azs.jpg)
 
 As a [result](https://archive.is/q2zil) of the allegations, Appelbaum has been [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately."
 
