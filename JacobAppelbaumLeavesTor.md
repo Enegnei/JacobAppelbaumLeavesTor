@@ -25,7 +25,7 @@ On the 24th of May, one day before Appelbaum allegedly stepped down, [core Tor d
 
 (To verify this yourself using OpenSSL, type `echo It seems one rapist is one rapist too many | openssl sha256`, the output of which should be `(stdin)= bfb9a7c833a5fc8f5a938d816b1bbc4acaa06519fdb1af4c8632719596807dac`).
 
-On May 27th, Steele reportedly [requested that Appelbaum sign a resignation agreement](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf) in which he would promise "[mutual non-disparagement](https://archive.is/FP1GE)," including giving up the right to sue the Tor Project. According to the attached explanation by John Young (aka **Crytome.org**), Appelbaum refused to sign the agreement.
+On May 27th, Steele reportedly [requested that Appelbaum sign a resignation agreement](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf) in which he would promise "[mutual non-disparagement](https://archive.is/FP1GE)," including giving up the right to sue the Tor Project. According to the attached explanation by John Young (aka **Cryptome.org**), Appelbaum refused to sign the agreement.
 
 As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after technology researcher and writer [Meredith Patterson](https://web.archive.org/web/20160325052441/http://www.thesmartpolitenerd.com/aboutme.html) ([@maradydd](https://archive.is/1FYbO)) tweeted about [the lack of explanation in Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
 
