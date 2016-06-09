@@ -6,8 +6,9 @@
 
 ***
 1. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
-2. [The Website and Twitter Account](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-account)
+2. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
 3. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
+4. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
 
 ### The Resignation
 
@@ -135,7 +136,7 @@ Tan posted the story on his Facebook page, saying that even though he didn't kno
 
 ![Tan's Facebook posts](https://pbs.twimg.com/media/CkX8kzqXEAA5azs.jpg)
 
-However, Tan's story has since been contested. On June 9th, the first alternative story released by [@Ioerror_info](https://archive.is/cFDr1) using [**TwitLonger**](https://archive.is/UX9Jk) claimed that Tan's interpretation of the incident was wrong and that the girl, allegedly a woman named Jill Bähring, had not been subjected to unwanted sexual advances by Appelbaum. She admits to having temporarily lost her bag and being "[emotionally distressed](https://archive.is/UX9Jk#selection-457.41-457.63)" at the time, but that it was not because of Appelbaum.
+However, Tan's story has since been contested. On June 9th, the first alternative story released by [@Ioerror_info](https://archive.is/cFDr1) using [**TwitLonger**](https://archive.is/UX9Jk) claimed that Tan's interpretation of the incident, which occured on the night of December 26th, was wrong. The "girl," allegedly a woman named [Jill Bähring](https://archive.is/nZJGj), had not been subjected to unwanted sexual advances by Appelbaum, and in fact has been "[romantically involved](https://archive.is/UX9Jk#selection-445.1-445.96)" with him. (Her Twitter account was [initially private](https://archive.is/syKKA) but she made it public within a few hours of the statement being published to [authenticate that it was from her](https://archive.is/nZJGj#selection-3499.0-3499.110).) She admits to having temporarily lost her bag and being "[emotionally distressed](https://archive.is/UX9Jk#selection-457.41-457.63)" at the time, but that it was not because of Appelbaum.
 
 > I did indeed look not very happy. I was emotionally distressed at that time and told Jake, one of my close confidants, about my situation. He did have his hands all over me, just as I had my hands all over him. At no point did Jake forcibly attempt to try and kiss me, nor did he grab me in any inappropriate manner.
 
@@ -149,7 +150,7 @@ She also says that Tan's account of how he approached them wasn't accurate.
 
 > I recall Tan approaching me, asking me if Jacob was harassing me. I said he wasn't. Nevertheless, Tan dragged me away and immediately started talking intensely to Jake. At that point I decided to leave, since my friend was waiting for me. I walked him to his hotel, which was only a couple of blocks away.
 
-She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. Her Twitter account was [initially private](https://archive.is/syKKA) but she [made it public](https://archive.is/nZJGj) within a few hours of the statement being published to [authenticate that it was from her](https://archive.is/nZJGj#selection-3499.0-3499.110). [Pepijn Le Heux](https://archive.is/h6nay), an attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, also [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate."
+She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. [Pepijn Le Heux](https://archive.is/h6nay), a Dutch attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate."
 
 ### The Public Reaction
 
