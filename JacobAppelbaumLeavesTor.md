@@ -149,7 +149,7 @@ She also says that Tan's account of how he approached them wasn't accurate.
 
 > I recall Tan approaching me, asking me if Jacob was harassing me. I said he wasn't. Nevertheless, Tan dragged me away and immediately started talking intensely to Jake. At that point I decided to leave, since my friend was waiting for me. I walked him to his hotel, which was only a couple of blocks away.
 
-She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. [Pepijn Le Heux](https://archive.is/h6nay), an attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate."
+She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. Her Twitter account was [initially private](https://archive.is/syKKA) but she [made it public](https://archive.is/nZJGj) within a few hours of the statement being published to [authenticate that it was from her](https://archive.is/nZJGj#selection-3499.0-3499.110). [Pepijn Le Heux](https://archive.is/h6nay), an attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, also [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate."
 
 ### The Public Reaction
 
