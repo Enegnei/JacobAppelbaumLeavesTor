@@ -98,7 +98,7 @@ The site's FAQ now claims that they are "[a small group of people of different g
 
 The [last part of the FAQ](https://archive.is/avZNp#selection-1249.153-1249.432) states: "We do not believe that Jake is likely to ever face criminal charges. We know that some people will say that proves that the stories here aren't true. But we know that many people understand we are telling the truth, and we believe people will be safer because we made this site."
 
-The second Twitter account, "[@Ioerror_info](https://archive.is/cFDr1)," was made later than the first. On June 9th, its first tweet was an alternative version of a story published by **Gizmodo** and **The Daily Dot** [see below under 'Allegations']. Like the first Twitter account, it is unknown who is behind it.
+The second Twitter account, "[@Ioerror_info](https://archive.is/cFDr1)," was made several days later. On June 9th, its first tweet was an alternative version of a story published by **Gizmodo** and **The Daily Dot** [see below under 'Allegations']. Like the first Twitter account, it is unknown who is behind it.
 
 ### The Allegations
 
