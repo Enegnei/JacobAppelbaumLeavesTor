@@ -139,7 +139,15 @@ On June 8th, **Freedom of the Press Foundation**'s co-founder and executive dire
 
 **Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
 
-Though he did not directly mention Applebaum by name or the allegations, [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26) where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
+On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://archive.is/tcgqB)" which did not directly mention Appelbaum or the allegations, but stated that anyone who violates the [ethical principles](https://archive.is/tcgqB#selection-185.0-195.92) of their "galatic organization" is "not welcome."
+
+> In light of recent accusations against a regular visitor and speaker at our events, the Chaos Computer Club re-emphasizes the following: The CCC is, by its charter and by common consent, a galactic organization of all life forms. We are dedicated to providing a safe, comfortable, and supportive experience for everybody attending our events.
+
+> ... [As stated previously](https://archive.is/7OwVs), we do not tolerate life forms who refuse to share this openness and respect towards others: Creatures that are not excellent to others are not welcome.
+
+It is not clear whether this implies Appelbaum is henceforth not welcome or if they intend to investigate the two reports of harassment at their events.
+
+Though he also did not directly mention Applebaum by name or the allegations, [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26) where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
 
 >  Is it really so hard to recognize both of these directions of error? If I prejudge and punish alleged culprits who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are false**. If I prejudge and punish accusers who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are true**.
 
