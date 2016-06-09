@@ -137,7 +137,7 @@ On June 8th, **Freedom of the Press Foundation**'s co-founder and executive dire
 
 > In light of the allegations that have been made, Jacob Appelbaum is no longer a member of our outside volunteer technical advisory board. We hope that the serious accusations made against him, and his denial of them, are resolved as fairly and as expeditiously as possible.
 
-**Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://archive.is/5Ykfs#selection-267.0-267.15).
+**Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
 
 Though he did not directly mention Applebaum by name or the allegations, [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26) where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
 
