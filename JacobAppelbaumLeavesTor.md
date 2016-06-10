@@ -150,7 +150,9 @@ She also says that Tan's account of how he approached them wasn't accurate.
 
 > I recall Tan approaching me, asking me if Jacob was harassing me. I said he wasn't. Nevertheless, Tan dragged me away and immediately started talking intensely to Jake. At that point I decided to leave, since my friend was waiting for me. I walked him to his hotel, which was only a couple of blocks away.
 
-She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. [Pepijn Le Heux](https://archive.is/h6nay), a Dutch attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate."
+She ends the statement by questioning why "[a highly distorted version of my experience](https://archive.is/UX9Jk#selection-509.1-521.68)" had been published in the first place. [Pepijn Le Heux](https://archive.is/h6nay), a Dutch attorney and [Tor advocate](https://archive.is/Q2TTK#selection-507.0-507.24) based in Amsterdam, [retweeted the statement](https://archive.is/9VklJ#selection-1921.0-1921.95) saying "I was at Raddison Blu that night, I know these people & as far as I know this story is accurate." **Gizmodo** subsequently [published a new story](https://archive.is/dPAfG) with 's account, though they have [yet to add a correction](https://archive.is/S44ml) to the original; **The Daily Dot** both [added a correction to their original story](https://archive.is/VBMmD#selection-1201.195-1213.57) and published [a new one](https://archive.is/Qdima). Tan was also contacted to [comment](https://archive.is/Qdima#selection-987.0-987.146) on the fact that his story had been refuted:
+
+> “This is a situation open to misinterpretation because I do not know what she's thinking,” Tan said. “I'm fully willing to stand up and say that.”
 
 ### The Public Reaction
 
