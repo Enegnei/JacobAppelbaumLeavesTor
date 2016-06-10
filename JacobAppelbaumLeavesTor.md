@@ -172,6 +172,10 @@ On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://ar
 
 It is not clear whether this implies Appelbaum is henceforth not welcome or if they intend to investigate the two reports of harassment at their events.
 
+On June 10th, [M.C. McGrath](https://archive.is/ke9Yv), founder of the [non-profit **Transparency Toolkit**](https://archive.is/PkZzu), shared a [picture](https://archive.is/apZ0h) of the side of a building which had been graffitied to say "*A rapist lives here | ein Vergewaltiger wohnt hier*!" with an arrow pointing to the middle window. McGrath said this was Appelbaum's house but that the defacer(s) (whose identity is unknown) [had targeted the wrong apartment window](https://archive.is/giZem). He later posted [a second picture](https://archive.is/FDe1v) made in daylight.
+
+![defaced building](https://pbs.twimg.com/media/Ckm-FkAWgAAJzEc.jpg)
+
 Though he also did not directly mention Applebaum by name or the allegations, [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26) where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
 
 >  Is it really so hard to recognize both of these directions of error? If I prejudge and punish alleged culprits who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are false**. If I prejudge and punish accusers who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are true**.
