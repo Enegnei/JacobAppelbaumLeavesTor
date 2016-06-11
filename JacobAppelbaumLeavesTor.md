@@ -108,7 +108,7 @@ The second Twitter account, "[@Ioerror_info](https://archive.is/cFDr1)," was mad
 
 ### The Allegations
 
-`Warning: The following stories have not been authenticated! They are here only to document allegations.`
+`Warning: Many of these stories haven't been verified or vouched for! They are here to document allegations.`
 
 The website profiles eight separate claims from people who were "[harassed, plagiarized, humiliated, and abused — sexually, emotionally, and physically](https://archive.is/8m4Yk#selection-245.34-245.140)." Initially, half of them were marked as placeholders ([Alice](https://archive.is/NdMrJ#selection-647.0-649.0), [Briar](https://archive.is/ZivH4#selection-647.0-649.0), Pheonix, and Sam), but the stories for "Sam" and "Phoenix" have since been added, along with more stories than the original eight (Kiwi and Nick). All are purposely under vague (i.e. anonymized) names. The GitHub copies of the entries are PNG images. Initially, all the entries were marked with the same date of December 31st, 2015; since then, newer entries have not only been given different dates but the dates on earlier entries were changed (you can [compare them in the archives](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*)). It is unclear what the date signifies. The anonymous entries are as follows:
 
