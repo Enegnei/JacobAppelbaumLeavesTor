@@ -177,6 +177,21 @@ It is not clear whether this implies Appelbaum is henceforth not welcome or if t
 
 On June 10th, [**Noisebridge**](https://archive.is/ZQZjb), an educational hackerspace in San Francisco, released a PGP-signed [statement](https://archive.is/1Uv7E#selection-51.472-51.573) that Appelbaum was "no longer welcome in our community, either in its physical or online spaces." Appelbaum [co-founded](https://archive.is/O7gQd#selection-2189.162-2193.1) [**Noisebridge**](https://archive.is/EPz1X) with security expert [Mitch Altman](https://archive.is/lIJMY) within the summer and [fall](https://archive.is/3dNbK) of 2007 as an extension of the **Chaos Computer Club**. He is still listed as a [user](https://archive.is/QVDgl) on their '[People](https://archive.is/7MsIa#selection-1213.0-1213.13)' page (though note it is not a membership list).
 
+On June 11th, a group of women consisting of "friends, colleagues, co-workers or partners" of Appelbaum [released](https://archive.is/ochsL) a [statement](https://web.archive.org/web/20160611153425/https://assets.documentcloud.org/documents/2858953/Statement-Appelbaum-11-06.pdf) criticising the "coordinated and one-sided attack on his character and work."
+
+> We are not apologists for any genuine wrongdoing, and as women working in this community we know that 
+there are struggles around sexism. However, simple punitivism is not how the human rights that we all defend 
+should be enforced or framed.
+
+> We believe that an open and evidence-based discussion in this situation is necessary to allow our community to 
+develop better processes to handle any allegations. Furiously targeting one person without allowing for proper 
+fact analysis will never solve the bigger structural problem that has been highlighted. We should use this moment
+to grow and make things better, not destroy the movement and create divisions. We need to create a channel for 
+discussions on how to make things better. 
+
+The initial signatories of this statement are: [Renata Avila](https://archive.is/PNR07), [Human Rights Lawyer](https://web.archive.org/web/20160319080136/http://webfoundation.org/about/executive-team/renata-avila/); Susan Benn, Artist; [Cathleen Berger](https://archive.is/oEdah), Policy Advisor; [Geraldine de Bastion](https://archive.is/DftjZ), Policy Expert; Annegret Falter, Political Scientist; [Marie Gutbub](https://archive.is/EJlcF), Journalist; [Sarah Harrison](https://web.archive.org/web/20160316133415/https://wikileaks.org/Profile-Sarah-Harrison.html), Journalist; Christy Lange, [Writer](https://archive.is/EgmRA#selection-1777.0-1789.63); [Isik Mater](https://archive.is/QWygD), Infosec Specialist; [Angela Richter](https://archive.is/99Fk6), [Theatre Director](https://web.archive.org/web/20160611160912/http://cultureforum.eu/person/angela-richter/); [Felicity Ruby](https://felicityruby.com/), PhD Candidate; Joana Veron, Lawyer.
+
+
 [M.C. McGrath](https://archive.is/ke9Yv), founder of the [non-profit **Transparency Toolkit**](https://archive.is/PkZzu), shared a [picture](https://archive.is/apZ0h) of the side of a building which had been graffitied to say "*A rapist lives here | ein Vergewaltiger wohnt hier*!" with an arrow pointing to the middle window. McGrath said this was Appelbaum's house in Berlin, Germany (where [he's lived since 2013](https://archive.is/skoYv#selection-1223.668-1223.844)), but the defacer(s) had [targeted the wrong apartment window](https://archive.is/giZem). He later posted [a second picture](https://archive.is/FDe1v) made in daylight. He reacted by saying "[this is not justice for anyone](https://archive.is/dOA5L#selection-2315.0-2315.34)" and how "the mob going after [@ioerror](https://twitter.com/ioerror) has done more to make me feel unsafe than people in the intelligence community threatening me about my work." The identity of the defacer(s) is unknown.
 
 ![defaced building](https://pbs.twimg.com/media/Ckm-FkAWgAAJzEc.jpg)
