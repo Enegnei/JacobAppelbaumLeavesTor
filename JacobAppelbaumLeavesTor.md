@@ -117,7 +117,7 @@ The website profiles eight separate claims from people who were "[harassed, plag
 + "[Kiwi](https://archive.is/N10bK)," who initially "joined the digital rights community because of him," was then shamed by Appelbaum in public during the process of building their professional career ([January 28th, 2016](https://archive.is/XYS57#selection-647.0-649.0)).
 + "[Daniel](https://archive.is/R6nDq)," who was dating someone in the Tor community, says Appelbaum violated their privacy and propositioned them for sex ([January 31st, 2016](https://archive.is/hVV6V#selection-645.1-649.0)).
 + "[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping ([February 1st, 2016](https://archive.is/1x40b#selection-647.0-649.0)).
-+ "[River](https://archive.is/0jbVl)," who was romantically involved with him, propositioned for group sex and while intoxicated was subjected to unwanted sexual advances by him and at least one of his friends at a party ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)).
++ "[River](https://archive.is/0jbVl)," romantically involved with him at the time of the incident, was propositioned for group sex and, while intoxicated, sexually assaulted by Appelbaum and subjected to unwanted sexual advances by at least one of his friends at a party ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)).
 + "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" in Appelbaum and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
  
 
