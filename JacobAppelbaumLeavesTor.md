@@ -125,7 +125,7 @@ Only two people claiming to be victims of Appelbaum have publicly come forward, 
 
 > [Jake demanded all the records I had received from this person. Jake also had the CCC edit the 30c3 wiki database to eliminate any trace of the offending talk.](https://archive.is/bFXW2#selection-357.161-357.319)
 
-Furthermore, he says [a note](https://archive.is/bFXW2#selection-373.84-373.139) was left every night on his hotel room pillow:
+Furthermore, he says [a note](https://archive.is/bFXW2#selection-373.84-373.139) was left every night on his hotel room pillow (though he does not know by whom):
 
 > "Don't make us use extreme measures. Hand it all over." 
 
