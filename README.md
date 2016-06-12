@@ -6,3 +6,6 @@ Investigation into Jacob Appelbaum leaving the Tor Project
 If you have concerns or information relevant to this story, feel free to [contact me](https://keybase.io/j9roem). Anything you send me will not be published here without your consent. If you are okay with it being public, you can also submit an [Issue](https://github.com/Enegnei/JacobAppelbaumLeavesTor/issues).
 
 *I welcome & encourage you to contribute to this investigation by pull-requesting or forking this repository ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
+
+**Media Mentions:**
++ [Lage der Nation](https://twitter.com/LageNation): [Energiewende, JakeGate, Haftung für Software](http://www.kuechenstud.io/lagedernation/2016/06/11/ldn014-energiewende-jakegate-haftung-fuer-software/) ([archived](https://archive.is/Ehycg#selection-357.0-359.25))
