@@ -5,7 +5,7 @@
 **Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here.**
 
 ***
-1. The History
+1. [The History](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)
 2. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
 3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
