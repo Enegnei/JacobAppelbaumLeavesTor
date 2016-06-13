@@ -9,3 +9,4 @@ If you have concerns or information relevant to this story, feel free to [contac
 
 **Media Mentions:**
 + [Lage der Nation](https://twitter.com/LageNation): [Energiewende, JakeGate, Haftung für Software](http://www.kuechenstud.io/lagedernation/2016/06/11/ldn014-energiewende-jakegate-haftung-fuer-software/) ([archived](https://archive.is/Ehycg#selection-357.0-359.25))
++ [Heise Online](https://twitter.com/heiseonline): [Was war. Was wird. Stell dir vor, es ist hybrider Krieg, und wer zu Hause bleibt...](http://www.heise.de/newsticker/meldung/Was-war-Was-wird-Stell-dir-vor-es-ist-hybrider-Krieg-und-wer-zu-Hause-bleibt-3235755.html) ([archived](https://archive.is/u0AOM#selection-797.0-799.0))
