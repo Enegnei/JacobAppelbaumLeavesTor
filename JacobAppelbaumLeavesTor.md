@@ -48,7 +48,7 @@ Like Appelbaum, Reilly was also given a ten-day suspension, but for "[spreading 
 
 ### The Resignation
 
-On the 24th of May 2016, one day before Appelbaum would stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
+On the 24th of May 2016, one day before Appelbaum stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
 
 > [@puellavulnerata](https://archive.is/V0hZw): Precommitment revealed: sha256("It seems one rapist is one rapist too many\n")
 
