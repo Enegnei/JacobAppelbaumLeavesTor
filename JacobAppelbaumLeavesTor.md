@@ -5,18 +5,20 @@
 **Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here.**
 
 ***
-1. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
-2. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
-3. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
-4. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
+1. The History
+2. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
+3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
+4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
+5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
 
-### The Resignation
 
 On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
 
 > Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
 
 A few days later, his name was [removed from the list](https://archive.is/yxqlC) of core Tor Project employees and volunteers.
+
+### The History
 
 [Jacob Appelbaum](https://archive.is/GItar) officially [joined the Tor Project in 2008](https://web.archive.org/web/20150926185057/https://blog.torproject.org/blog/jacob-and-matt-join-tor-project) as part of the translation team, improving documentation for non-technical users, and advocacy for the Tor network in general. He also runs one of Tor's [directory authorities](https://archive.is/7jFmj#selection-4563.0-4569.364), a special server which maintains a list of all verified exit nodes and helps Tor clients find relays in the network (there were 8 of these in 2012; there are now 10).
 
@@ -44,7 +46,9 @@ Like Appelbaum, Reilly was also given a ten-day suspension, but for "[spreading 
 
 **Golem.de** claims they have confirmed the authenticity of the letter ("... [die Echtheit der Mail bestätigt](https://archive.is/J7rxB#selection-547.109-547.219)."), though the submitter remains anonymous and the Tor Project has [not confirmed it](https://archive.is/vM92Z#selection-4191.1-4201.77). **Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) has [also published](https://archive.is/vVDQC) a copy of the [internal email](https://web.archive.org/web/20160610033307/https://assets.documentcloud.org/documents/2858268/Appelbaum-Wurde-Im-Jahr-2015-Ausgesetzt.pdf), which he said was [sent to him anonymously](https://archive.is/vM92Z#selection-3259.8-3259.19).
 
-One year later on the 24th of May 2016, one day before Appelbaum would stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
+### The Resignation
+
+On the 24th of May 2016, one day before Appelbaum would stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
 
 > [@puellavulnerata](https://archive.is/V0hZw): Precommitment revealed: sha256("It seems one rapist is one rapist too many\n")
 
