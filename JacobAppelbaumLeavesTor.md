@@ -11,13 +11,6 @@
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
 
-
-On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
-
-> Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
-
-A few days later, his name was [removed from the list](https://archive.is/yxqlC) of core Tor Project employees and volunteers.
-
 ### The History
 
 [Jacob Appelbaum](https://archive.is/GItar) officially [joined the Tor Project in 2008](https://web.archive.org/web/20150926185057/https://blog.torproject.org/blog/jacob-and-matt-join-tor-project) as part of the translation team, improving documentation for non-technical users, and advocacy for the Tor network in general. He also runs one of Tor's [directory authorities](https://archive.is/7jFmj#selection-4563.0-4569.364), a special server which maintains a list of all verified exit nodes and helps Tor clients find relays in the network (there were 8 of these in 2012; there are now 10).
@@ -76,6 +69,12 @@ On the 17th and 18th (when Leckrone sent the suspension email), Appelbaum tweete
 Over a year later on April 13th, 2016, Appelbaum delivered a [speech](https://www.youtube.com/watch?v=KJValv4YQcY) [[transcript](https://archive.is/FrTlr)] he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists (particularly at **The Guardian** which he called the "shittiest publication in the English language") to the point where their lives were at risk.
 
 ### The Resignation
+
+On June 2nd, 2016, Tor Project [Executive Director Shari Steele](https://archive.is/Q2TTK#selection-767.0-767.32) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
+
+> Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
+
+A few days later, his name was [removed from the list](https://archive.is/yxqlC) of core Tor Project employees and volunteers.
 
 On the 24th of May 2016, one day before Appelbaum stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
 
