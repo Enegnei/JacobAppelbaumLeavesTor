@@ -281,7 +281,7 @@ On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://ar
 
 > ... [As stated previously](https://archive.is/7OwVs), we do not tolerate life forms who refuse to share this openness and respect towards others: Creatures that are not excellent to others are not welcome.
 
-It is not clear whether this implies Appelbaum is henceforth not welcome or if they intend to investigate the two reports of harassment at their events.
+Upon the reminder's release it was not clear whether Appelbaum was henceforth not welcome or if they intended to investigate, or already had investigated, the reports of harassment at their events. On June 17th, they [clearly stated that Appelbaum is no longer welcome](https://archive.is/peoaA).
 
 On June 10th, [**Noisebridge**](https://archive.is/ZQZjb), an educational hackerspace in San Francisco, released a PGP-signed [statement](https://archive.is/1Uv7E#selection-51.472-51.573) that Appelbaum was "no longer welcome in our community, either in its physical or online spaces." Appelbaum [co-founded](https://archive.is/O7gQd#selection-2189.162-2193.1) [**Noisebridge**](https://archive.is/EPz1X) with security expert [Mitch Altman](https://archive.is/lIJMY) within the summer and [fall](https://archive.is/3dNbK) of 2007 as an extension of the **Chaos Computer Club**. He is still listed as a [user](https://archive.is/QVDgl) on their '[People](https://archive.is/7MsIa#selection-1213.0-1213.13)' page (though note it is not a membership list).
 
