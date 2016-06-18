@@ -13,8 +13,14 @@ If you have concerns or information relevant to this story, feel free to [contac
 + [Reddit](https://twitter.com/reddit): [Quick note](https://www.reddit.com/r/TOR/comments/4nov8u/quick_note_about_recent_events_and_how_they/) ([archived](https://archive.is/e1Py4#selection-3439.0-3439.58)), [Very good podcast](https://www.reddit.com/r/TOR/comments/4nmvzp/very_good_podcast_about_the_whole_appelbaum_thing/) ([archived](https://archive.is/1iY9k#selection-2447.0-2449.0)), [Cryptome: Tor/Appelbaum Separation](https://www.reddit.com/r/TOR/comments/4nk5i9/cryptome_torappelbaum_separation_agreement/) ([archived](https://archive.is/SVVAG#selection-2621.0-2621.89))
 + [>b's blog](https://blog.fdik.org): ["Hier gibt es eine Zusammenfassung der Ereignisse rund um Tor und Jacob Applebaum"](https://blog.fdik.org/2016-06/s1465715574) ([archived](https://archive.is/lef03#selection-2717.0-2717.80))
 
+**Media Mentions (Research Attribution):**
++ [ContraSpin](https://twitter.com/contraspin): [The Weaponising Of Social Part 2: Stomping On IOError’s Grave](https://contraspin.co.nz/the-weaponising-of-social-pt-2-stomping-on-ioerrors-grave/) ([archived](https://archive.is/rVwWn#selection-919.0-921.40))
+
 **Media Mentions (Affiliated):**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9F7qKjkV07k
 " target="_blank"><img src="http://img.youtube.com/vi/9F7qKjkV07k/0.jpg" 
 alt="World Crypto Network Coverage" width="240" height="180" border="10" /></a>
+
+
+> "**Unaffiliated**" is for individuals or media organizations who mention or republish the whole or parts of this repository, without asking for permission or comments. "**Research Attribution**" is for individuals or media organizations who mention or republish the whole or parts of this repository, approved after asking for permission or comments (which is very much appreciated, but not required under the [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license of Creative Commons). "**Affiliated**" is for individuals or media organizations who mention or republish the whole or parts of this repository, which officially represent me or my views outside of what is presented in this repository.
