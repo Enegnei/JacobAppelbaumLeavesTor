@@ -146,7 +146,7 @@ Three Twitter accounts were created in response to Appelbaum's resignation. The 
 
 However, based on its [first tweet](https://archive.is/8R8Ax), the account had a suspiciously early awareness of the site and also has knowledge of [Patterson](https://archive.is/mhDRh) [blaming Appelbaum for Len Sassaman's suicide](https://archive.is/fP0A9). It is [unlikely](https://archive.is/W83f6) that they are a native German. They linked to [the site in its early stages](https://web.archive.org/web/20160603224422/https://ioerrror.github.io/jacobappelbaum.net/) (using [a link that is no longer live](https://archive.is/W5UtY)), where it very explicitly claimed to be Appelbaum.
 
-> Hey there! My name is Jacob Appelbaum. I'm pretty famous for stealing other people's research and putting my own name on it. I also spend a lot of my time pretending to be a badass hacker, but actually I can only barely code. I enjoy using my social capital, influence, and power in order to manipulate other people into getting what I want. From all that, it's pretty clear that I'm awesome! However, in several communities, I'm perhaps better known for my abuse of other people — sexually, emotionally, and physically.
+![first version of website](https://contraspin.co.nz/wp-content/uploads/2016/06/jan.png)
 
 Under the 'Victims' header it went into what at first seemed to be random speeches, though it appears to be filler text used in a few other places (see [this blog site ](https://archive.is/1c355) or the 'Manifest' section of [this site](https://archive.is/7E2T4#selection-211.0-211.12) which has an identical webpage format).
 
