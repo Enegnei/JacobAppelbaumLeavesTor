@@ -267,7 +267,9 @@ She ends the statement by questioning why "[a highly distorted version of my exp
 
 > “This is a situation open to misinterpretation because I do not know what she's thinking,” Tan said. “I'm fully willing to stand up and say that.”
 
-Neither Patterson nor Shepard have revoked their statements or commented on the fact that Bähring refuted their story.
+Neither Patterson nor Shepard have revoked their statements, though they have briefly commented on the fact that Bähring refuted their story. In reply to someone pointing out that she had yet to make any retraction, Patterson said that "[there are some goddamn impatient people on the internet. Response forthcoming, but I have a life and a job](https://archive.is/oioum#selection-6789.1-6789.108)." Shepard now characterizes the story as "[a minor incident the press inflated](https://archive.is/sStV1#selection-5705.79-5705.114)" and says she was not a reliable judge of the situation.
+
+> [Frankly, I can't read neurotypical human interactions well enough to reliably tell if someone's upset or not; I was relying entirely](https://archive.is/sStV1#selection-6053.1-6053.133) [on](https://archive.is/sStV1#selection-6467.4-6477.112) [@Emerson_T's](https://archive.is/nBDWm) [interpretation of events that night, and also had the least clear view of anyone involved, since I was trying](https://archive.is/sStV1#selection-6467.4-6477.112) [to avoid being spotted by him.](https://archive.is/sStV1#selection-6861.4-6861.34) [This argument over what did or did not actually happen that night, though, is entirely orthogonal to the actual allegations against](https://archive.is/sStV1#selection-7211.1-7211.132) [Jake which are the only reason the incident in question ever got any attention in the first place.](https://archive.is/sStV1#selection-7565.4-7565.102)
 
 ### The Public Reaction
 
