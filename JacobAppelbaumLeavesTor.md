@@ -270,7 +270,7 @@ In **The Daily Dot** interview he gives far more detail, including what the girl
 
 > Tan said afterwards he spoke briefly with the woman. He asked if she wanted to file a police report, but she was unwilling. She left the hotel before any of the witnesses learned who she was. The incident was never reported to police or to the Tor Project.
 
-Tan posted the story on his Facebook page, saying that even though he didn't know who the girl was he had submitted it to Steele as part of the investigaton. He also mentions seeing Appelbaum "[trying to take upskirt photos of women" and "making lewd comments and allegations of threesomes with various members of the privacy community](https://archive.is/K2tdt#selection-1379.28-1379.233)." Shephard added that once when Appelbaum was "good drunk" in a bar in July of 2013, he "discussed how he would ‘use my ass’."
+Tan posted the story on his Facebook page, saying that even though he didn't know who the girl was he had submitted it to Steele as part of the investigaton. He also mentions seeing Appelbaum "[trying to take upskirt photos of women" and "making lewd comments and allegations of threesomes with various members of the privacy community](https://archive.is/K2tdt#selection-1379.28-1379.233)." Shephard added that once when Appelbaum was "good drunk" in a Berlin bar in July of 2013, he "[discussed how he would ‘use my ass’](https://archive.is/K2tdt#selection-1385.127-1385.162)."
 
 ![Tan's Facebook posts](https://pbs.twimg.com/media/CkX8kzqXEAA5azs.jpg)
 
