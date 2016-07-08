@@ -267,7 +267,7 @@ In November 2015, [the FBI allegedly attempted to contact her](https://archive.i
 
 > The FBI has contacted my lawyer again. This time, they said, “She should meet with one of our agents in San Francisco to talk. Otherwise, are you the point of contact for serving a subpoena? She’s not the target of investigation, but, uh… we uh… need her to clear up her involvement or… uh… potential involvement in a matter.”
 
-The fourth is [Leigh Honeywell](https://archive.is/Cm3R9), a computer and network security professional, who says [she was in an open relationship](https://archive.is/77Sx2) with Appelbaum during 2006-2007.
+The fourth is [Leigh Honeywell](https://archive.is/Cm3R9), a computer and network security professional, who says [she was in an open relationship](https://archive.is/77Sx2) with Appelbaum during 2006-2007 and he "ignored my use of a [safeword](https://archive.is/xZy5n)."
 
 > In that time we spent together, he violated boundaries I set as though they were a game, particularly at times when I was intoxicated. There were a number of times I felt afraid and violated during interactions with Jacob. Being involved with him was a steady stream of humiliations small and large as he mistreated me in front of others and over-shared about our intimate interactions with friends who were often also professional colleagues.
 
