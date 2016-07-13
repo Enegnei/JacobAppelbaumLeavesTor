@@ -157,6 +157,14 @@ Farivar said he had a "[story forthcoming](https://archive.is/aGbcD)" on this ev
 
 `Note: Though surname & email address are blacked out, 'Kate' is likely Communications Director Kate Krauss.`
 
+On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it would be [replacing all seven members on the board of directors](https://archive.is/L1iIh) "in keeping with its commitment to the best possible health of the organization." Though Dingledine and Mathewson stepped down from the board, they will "[continue in their roles as co-founders of the Tor Project, leading Tor's technical research and development](https://archive.is/L1iIh#selection-143.0-143.404)."
+
+> [In an interview, Ms. Steele said the board moves were intended to “bring in a strong, leadership-oriented board with more experience leading a strong and sustainable organization.” Recruiting new members, she said, had not been a challenge.](https://archive.is/XsOmO#selection-2115.0-2115.240)
+
+> [“All of them had been watching what was going on with Tor and were committed and enthusiastic about growing this into a stronger and sustainable organization,” she said.](https://archive.is/XsOmO#selection-2119.0-2119.169)
+
+> [The departing directors are Meredith Hoban Dunn, Ian Goldberg, Julius Mittenzwei, Rabbi Rob Thomas, Wendy Seltzer and two of Tor’s co-founders, Roger Dingledine and Nick Mathewson. Mr. Dingledine and Mr. Mathewson will remain as leaders of Tor’s technical research and development.](https://archive.is/XsOmO#selection-2123.0-2123.281)
+
 ### The Website and Twitter Accounts
 
 The website [jacobappelbaum.net](https://archive.is/8m4Yk) was created as a victim story bulletin board, with an attached [GitHub repository](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*) run by [an account created on May 26th](https://archive.is/c6sgC) that uses his name and Twitter/ GitHub handle (with the only difference being an extra 'r', this is a form of [cybersquatting](https://archive.is/HTDwb)). Contrary to some suspicions that he had been hacked, his official website is listed on his Twitter profile as [appelbaum.net](https://archive.is/bPSlT#selection-1045.1-1045.15). According to the [registration](https://archive.is/VMYhK) [information](https://archive.is/nMT7M#selection-1219.0-1219.29), the website was created using [**PrivacyProtect**](http://privacyprotect.org/about-privacyprotection/) on May 27th, two days after Appelbaum reportedly stepped down and the same day that [the resignation agreement from Steele is dated](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf). The domain is being [hosted by **GitHub** in San Francisco](https://archive.is/aA6HV) using [GitHub Pages](https://archive.is/W5UtY). The OpenPGP key given as a contact method is named "[Jacob Appelbaum's Victims Collective](https://archive.is/FPrQm)."
