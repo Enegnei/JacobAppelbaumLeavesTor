@@ -165,7 +165,7 @@ On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it woul
 
 > [The departing directors are Meredith Hoban Dunn, Ian Goldberg, Julius Mittenzwei, Rabbi Rob Thomas, Wendy Seltzer and two of Tor’s co-founders, Roger Dingledine and Nick Mathewson. Mr. Dingledine and Mr. Mathewson will remain as leaders of Tor’s technical research and development.](https://archive.is/XsOmO#selection-2123.0-2123.281)
 
-Only six of the seven positions have been filled so far.
+Only six of the seven positions have been filled so far and it wasn't stated what positions the new directors will take.
 
 ### The Website and Twitter Accounts
 
