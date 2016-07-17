@@ -410,11 +410,7 @@ On July 1st, Blemings released a [second statement officially banning Appelbaum]
 
 On July 16th, Tor directory authority operator 'Lucky Green' announced that they would be shutting down their Dutch-based [bridge](https://archive.is/LhRoL) authority "[Tonga](https://archive.is/XwPVP)" as well as "[a number of fast Tor relays](https://archive.is/CYkMj#selection-427.40-427.67)." Once "[Tonga](https://archive.is/uU7Ft)" is removed there will be eight directory authorities, rather than the ten prior to Appelbaum's resignation.
 
-> Dear friends,
-
-> Given recent events, it is no longer appropriate for me to materially contribute to the Tor Project either financially, as I have so generously throughout the years, nor by providing computing resources. This decision does not come lightly; I probably ran one of the first five nodes in the system and my involvement with Tor predates it being called "Tor" by many years.
-
-> Nonetheless, I feel that I have no reasonable choice left within the bounds of ethics, but to announce the discontinuation of all Tor-related services hosted on every system under my control.
+![Tonga DA shutting down](https://pbs.twimg.com/media/CnlvOBSWYAEk8dN.jpg)
 
 [M.C. McGrath](https://archive.is/ke9Yv), founder of the [non-profit **Transparency Toolkit**](https://archive.is/PkZzu), shared a [picture](https://archive.is/apZ0h) of the side of a building which had been graffitied to say "*A rapist lives here | ein Vergewaltiger wohnt hier*!" with an arrow pointing to the middle window. This targeting is reminiscent of [1970s Manhattan feminists](https://books.google.com/books?id=kpNarH7t9CkC&pg=PA289&lpg=PA289&dq=%22a+rapist+lives+here%22&source=bl&ots=WoxzxaSDm5&sig=kINLSemfTubvNb5_7SkgoRpgfas&hl=en&sa=X&ved=0ahUKEwiw55u0uMXNAhVFWRQKHVfFBeEQ6AEIKTAC#v=onepage&q=%22A%20Rapist%20Lives%20Here%22&f=true):
 
