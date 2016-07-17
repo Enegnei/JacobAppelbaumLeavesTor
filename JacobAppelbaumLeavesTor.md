@@ -408,7 +408,7 @@ On June 18th, Appelbaum was [removed](https://archive.is/XHMBl) as a [developer 
 
 On July 1st, Blemings released a [second statement officially banning Appelbaum](https://archive.is/YiEM5#selection-59.749-59.962) from Linux Australia events.
 
-On July 16th, Tor directory authority operator 'Lucky Green' announced that they would be shutting down their Dutch-based [bridge](https://archive.is/LhRoL) authority "[Tonga](https://archive.is/XwPVP)" as well as "[a number of fast Tor relays](https://archive.is/CYkMj#selection-427.40-427.67)." Once "[Tonga](https://archive.is/uU7Ft)" is removed, there will be eight directory authorities.
+On July 16th, Tor directory authority operator 'Lucky Green' announced that they would be shutting down their Dutch-based [bridge](https://archive.is/LhRoL) authority "[Tonga](https://archive.is/XwPVP)" as well as "[a number of fast Tor relays](https://archive.is/CYkMj#selection-427.40-427.67)." Once "[Tonga](https://archive.is/uU7Ft)" is removed there will be eight directory authorities, rather than the ten prior to Appelbaum's resignation.
 
 > Dear friends,
 
