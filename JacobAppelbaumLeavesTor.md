@@ -112,7 +112,9 @@ Over a year later in [early April 2016](https://archive.is/UNxr6), Appelbaum vis
 
 ![North Korea tour group (Appelbaum on the far left)](http://d3i6fh83elv35t.cloudfront.net/newshour/wp-content/uploads/2016/05/2016-04-18-10.30.01.jpg)
 
-On April 13th, Appelbaum delivered a [speech](https://www.youtube.com/watch?v=KJValv4YQcY) [[transcript](https://archive.is/FrTlr)] he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists (particularly at **The Guardian** which he called the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)") to the point where their lives were at risk.
+On April 13th, Appelbaum delivered a [speech](https://www.youtube.com/watch?v=KJValv4YQcY) [[transcript](https://archive.is/FrTlr)] he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) (where he is an [advisor](https://archive.is/iOm5e#selection-311.0-311.15)) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists (particularly at **The Guardian** which he called the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)") to the point where their lives were at risk.
+
+![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 
 ### The Resignation
