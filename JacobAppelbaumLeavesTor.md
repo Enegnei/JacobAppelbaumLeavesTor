@@ -354,6 +354,8 @@ On June 8th, **Freedom of the Press Foundation**'s co-founder and executive dire
 
 > In light of the allegations that have been made, Jacob Appelbaum is no longer a member of our outside volunteer technical advisory board. We hope that the serious accusations made against him, and his denial of them, are resolved as fairly and as expeditiously as possible.
 
+[Former](https://archive.is/YT5Mc#selection-381.0-381.15) [systems administrator](https://web.archive.org/web/20160328165000/https://freedom.press/about/staff/kevin-gallagher) [Kevin Gallagher](https://archive.is/87FaO) (who [announced](https://archive.is/XnqrV) he was [leaving **Freedom of the Press Foundation**](https://archive.is/ST3kN) on June 24th) said that their tech advisory board "[is not the most active thing. Jake had not even communicated with them in several years](https://archive.is/xFMNc)."
+
 **Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
 
 On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://archive.is/tcgqB)" which did not directly mention Appelbaum or the allegations, but stated that anyone who violates the [ethical principles](https://archive.is/tcgqB#selection-185.0-195.92) of their "galatic organization" is "not welcome."
