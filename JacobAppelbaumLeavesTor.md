@@ -206,7 +206,7 @@ Besides the alleged victims' stories themselves, the most alarming aspect of the
 
 > I just read on [@ioerror](https://twitter.com/ioerror)'s homepage https://ioerrror.github.io/jacobappelbaum.net that he has sexually assaulted many people in #tech. #wtf
 
-The site's FAQ now claims that they are "[a small group of people of different genders](https://archive.is/avZNp#selection-865.22-865.66)" who "[never meant to impersonate Jake or to trick anyone](https://archive.is/avZNp#selection-1189.110-1189.273). With the official text, we have tried to make it clear that it isn't pretending to be made by Jake himself." However they are still linking to his real GitHub account at the bottom of the page and their contact email is **ioerror@riseup.net**. The new tweet prompt text is:
+The site's FAQ now claims that they are "[a small group of people of different genders](https://archive.is/avZNp#selection-865.22-865.66)" who "[never meant to impersonate Jake or to trick anyone](https://archive.is/avZNp#selection-1189.110-1189.273). With the official text, we have tried to make it clear that it isn't pretending to be made by Jake himself." However they are still linking to his [real GitHub account](https://web.archive.org/web/20160608011441/https://github.com/ioerror) at the bottom of the page and their contact email is **ioerror@riseup.net**. The new tweet prompt text is:
 
 > I just read on https://jacobappelbaum.net that [@ioerror](https://twitter.com/ioerror) has sexually assaulted many people in #tech.
 
