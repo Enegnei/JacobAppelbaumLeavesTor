@@ -71,7 +71,7 @@ The [**Rolling Stone**](https://archive.is/9bFTl) interview from 2010 is one of 
 
 ### <a name="career"></a>Career
 
-#### <a name="joins-tor"></a>Joins Tor
+#### <a name="joins-tor"></a>Joins Tor Project
 
 [Appelbaum](https://archive.is/GItar) officially [joined the Tor Project in 2008](https://web.archive.org/web/20150926185057/https://blog.torproject.org/blog/jacob-and-matt-join-tor-project) as part of the translation team, improving documentation for non-technical users, and advocacy for the Tor network in general. He also [ran one](https://archive.is/K93V5) of Tor's [directory authorities](https://archive.is/7jFmj#selection-4563.0-4569.364) (nicknamed "[urras](https://archive.is/gOZ4g#selection-49481.3-49485.0)"), special servers which maintain a list of all verified exit nodes and help Tor clients find relays in the network; there were [eight of these in 2012](https://archive.is/7jFmj#selection-4567.258-4567.302), [ten in 2014](https://archive.is/HSdAW#selection-1089.35-1091.21), [nine as of today](https://archive.is/uU7Ft). The hostname for the server was [rgnx.net](https://archive.is/fojzV), with the IP address `208.83.223.34`, which was a [target](https://archive.is/jFoiM#selection-9.985-9.998) of the [NSA's XKeyscore (XKS)](https://archive.is/bJxB7) system as revealed by [an investigation published by **Das Erste**](https://archive.is/http://daserste.ndr.de/panorama/aktuell/nsa230_*) in 2014.
 
