@@ -53,7 +53,7 @@
     7. [Phoenix](#phoenix)
     8. [Nick](#nick)
     9. [General allegation of plagiarism](#site-plagiarism)
-  2. [Other claimed victims of misconduct](#other-claimed-victims)
+  2. [Other assertions of victimization](#other-assertions-victimization)
     1. [Leigh Honeywell](#honeywell)
     2. [Ásta Guðrún Helgadóttir](#helgadottir) 
   3. [Claimed witnesses of misconduct](#claimed-witnesses)
@@ -458,7 +458,7 @@ There are also complaints about [his name frequently being first on the list of 
 
 > While these traditions are well-known to mathematicians, they are often misunderstood by other scholars whose traditions differ. Occasionally, this works against young mathematicians — especially those with names near the end of the alphabet.
 
-### <a name="other-claimed-victims"></a>Other claimed victims of misconduct
+### <a name="other-assertions-victimization"></a>Other assertions of victimization
 
 #### <a name="honeywell"></a>Leigh Honeywell
 
