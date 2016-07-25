@@ -6,17 +6,18 @@
 
 ***
 1. [Background](#background)
-  1. Early life
-    1. [Rolling Stone biography (2010)]
-  2. Career
-    1. [Joins Tor Project] ()
-    2. [Researcher at University of Washington]
-    3. [Asher Wolf incident]
-    4. [Plagiarism claim]
-    5. [Defence of Andrea Shepard]
-    6. [Suspension fro Tor Project]
-    7. [Visit to North Korea]
-    8. [Denunciation of The Guardian]
+  1. [Early life](#early-life) 
+    1. [*Rolling Stone* biography (2010)] (#rolling-stone)
+  2. [Career](#career)
+    1. [Joins Tor Project] (#joins-tor)
+    2. [Researcher at University of Washington](#uw-researcher)
+    3. [Asher Wolf incident](#asher-wolf)
+    4. [Plagiarism claim](#plagiarism-claim)
+    5. [Defence of Andrea Shepard](#shepard-defense)
+    6. [Suspension from Tor Project](#suspension)
+    7. [FOIA lawsuit](#foia)
+    8. [Visit to North Korea](#dprk-visit)
+    9. [Denunciation of *The Guardian*](#guardian-denunciation)
 2. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
   1. []
   2. []
@@ -44,9 +45,9 @@
 
 ## <a name="background"></a>Background
 
-### Early life
+### <a name="early-life"></a>Early life
 
-#### Rolling Stone biography (2010)
+#### <a name="rolling-stone"></a>*Rolling Stone* biography (2010)
 
 `Note: This section is for events or statements leading up to Appelbaum's resignation which may be relevant.`
 
@@ -68,9 +69,17 @@ The [**Rolling Stone**](https://archive.is/9bFTl) interview from 2010 is one of 
 
 > Given his concerns about privacy, it's easy to see why Appelbaum gravitated toward the Tor Project. He volunteered as a programmer, but it soon became clear that his greatest ability lay in proselytizing: He projects the perfect mix of boosterism and dread. "Jake can do advocacy better than most," says Roger Dingledine, one of Tor's founders. "He says, 'If someone were looking for you, this is what they'd do,' and he shows them. It freaks people out."
 
+### <a name="career"></a>Career
+
+#### <a name="joins-tor"></a>Joins Tor
+
 [Appelbaum](https://archive.is/GItar) officially [joined the Tor Project in 2008](https://web.archive.org/web/20150926185057/https://blog.torproject.org/blog/jacob-and-matt-join-tor-project) as part of the translation team, improving documentation for non-technical users, and advocacy for the Tor network in general. He also [ran one](https://archive.is/K93V5) of Tor's [directory authorities](https://archive.is/7jFmj#selection-4563.0-4569.364) (nicknamed "[urras](https://archive.is/gOZ4g#selection-49481.3-49485.0)"), special servers which maintain a list of all verified exit nodes and help Tor clients find relays in the network; there were [eight of these in 2012](https://archive.is/7jFmj#selection-4567.258-4567.302), [ten in 2014](https://archive.is/HSdAW#selection-1089.35-1091.21), [nine as of today](https://archive.is/uU7Ft). The hostname for the server was [rgnx.net](https://archive.is/fojzV), with the IP address `208.83.223.34`, which was a [target](https://archive.is/jFoiM#selection-9.985-9.998) of the [NSA's XKeyscore (XKS)](https://archive.is/bJxB7) system as revealed by [an investigation published by **Das Erste**](https://archive.is/http://daserste.ndr.de/panorama/aktuell/nsa230_*) in 2014.
 
-> [Obwohl er keinen Hochschulabschluss vorweisen konnte, bekam er 2010 an der Universität Washington einen Job als Forscher und IT-Sicherheitsexperte](https://archive.is/zE8YD#selection-1083.315-1083.462). [Although he possessed no university degree, in 2010 he got a job at the University of Washington as a researcher and IT security expert.] [Doch weil er nicht aufhörte, Julian Assange öffentlich zu unterstützen und vor Bespitzelung zu warnen, verlor er 2012 den Job](https://archive.is/zE8YD#selection-1083.463-1083.589). [But because he didn't stop publicly supporting Julian Assange and warning against spying, he lost the job in 2012.].
+#### <a name="uw-researcher"></a>Researcher at University of Washington
+
+[Obwohl er keinen Hochschulabschluss vorweisen konnte, bekam er 2010 an der Universität Washington einen Job als Forscher und IT-Sicherheitsexperte](https://archive.is/zE8YD#selection-1083.315-1083.462). [Although he possessed no university degree, in 2010 he got a job at the University of Washington as a researcher and IT security expert.] [Doch weil er nicht aufhörte, Julian Assange öffentlich zu unterstützen und vor Bespitzelung zu warnen, verlor er 2012 den Job](https://archive.is/zE8YD#selection-1083.463-1083.589). [But because he didn't stop publicly supporting Julian Assange and warning against spying, he lost the job in 2012.].
+
+#### <a name="asher-wolf"></a>Asher Wolf incident
 
 On December 27th 2012, founder [Asher Wolf](https://archive.is/v8mHW) [quit as an organizer of **CryptoParty**](https://archive.is/OtPoB), a [grassroots initiative to educate the general public](https://archive.is/CK2kM) on [digital privacy-enhancing tools](https://archive.is/fjKhl), which at the time was [just four months old](https://archive.is/yrSKy). She said "[quitting wasn't easy](https://archive.is/SJLQF)" and cited [a general lack of respect from several people in the movement who took advantage of **CryptoParty**'s decentralized structure](https://archive.is/OxmkN), which in some cases [put attendees at risk](https://archive.is/nyDQo). One day later she [published](https://archive.is/lIRu1) a [blog post](https://archive.is/fDxKU) with further explanation as to why she left. The 'final straw' was [a series of interactions](https://archive.is/fDxKU#selection-555.0-623.76) surrounding the [**Chaos Communication Congress** in December 2012](https://archive.is/KoKyX) (29c3), particularly regarding former [London **CryptoParty**](https://archive.is/CQ8ju#selection-3195.66-3205.23) [organizer](https://archive.is/7Ds0w#selection-5079.1-5089.37) [Samuel Carlisle](https://archive.is/4NWeP), aka "[Sam the Techie](https://web.archive.org/web/20110716002931/http://samthetechie.com/index.php?id=Contact)," who allegedly [failed to complete a contract](https://archive.is/oFutb) of [building a website for her after she paid him AUS$700](https://archive.is/Jc7Ct). When he [traveled to Hamburg on December 24th](https://archive.is/ruwwk) for his first Congress, as an [Angel](https://archive.is/w5yXf#selection-887.1-903.11) [volunteer](https://archive.is/XiR8p) and [Lightning Talk](https://youtu.be/eao8yBKHYT8?t=1h29m8s) speaker, she [encouraged others](https://archive.is/L57QI) to [confront him](https://archive.is/Sj67s) on her behalf. As a result of the [attention](https://archive.is/fDxKU#selection-635.0-651.137) on the dispute and [the](https://archive.is/UiFOf) [controversy](https://archive.is/ZW6we) over [someone's](https://archive.is/Eup9E) [retaliation](https://archive.is/MkTzm) for the "Creepercard" (or [Red/Yellow card](https://archive.is/qTHN7)) activity, Carlisle claims [he was removed from the volunteer team](https://archive.is/ZdiNq#selection-945.0-945.253) and Wolf became a [doxing target](https://archive.is/9eGPN), which she implied was [his fault](https://archive.is/HJOBY). [Web developer](https://archive.is/KEPGx) [Daniel Sieradski](https://archive.is/JSxKP) ([@selfagency](https://archive.is/7eFdH)) helped her [get it back online](https://archive.is/3mKfh) and [finished creating the website](https://archive.is/kEdGU), [free of charge](https://archive.is/fDxKU#selection-571.1-571.98). Despite Carlisle's [public](https://archive.is/3O9Ib) [apology](https://archive.is/ZdiNq), Wolf's positive [reference letter](https://archive.is/uwy3t) for [his MIT application](https://archive.is/ZdiNq#selection-577.1-601.137) (as well as previous [commendation for his work for **CryptoParty**](https://archive.is/OoLXJ#selection-599.1-599.244)), [offers](https://archive.is/MqKBH#selection-5239.1-5239.49) [to](https://archive.is/ugixV) [refund](https://archive.is/BSMV1) via [bank transfer](https://archive.is/UKNGw), and supposedly [more than one person](https://archive.is/lOh7Q#selection-6625.1-6625.101) willing to [act as an intermediary](https://archive.is/zvm4u), the dispute was never resolved. 
 
@@ -84,6 +93,8 @@ Appelbaum was also [mentioned in her blog post](https://archive.is/fDxKU#selecti
 
 Appelbaum said his effort to reimburse Wolf "[wasn't trying to make her whole. The goal was to return the amount of money she invested until the dispute can be solved](https://archive.is/wiber#selection-4231.1-4231.124)."
 
+#### <a name="plagiarism-claim"></a>Plagiarism claim
+
 Amidst this [discussion about the crowdfund for Wolf](https://archive.is/Sb4s0), technology researcher and writer [Meredith Patterson](https://web.archive.org/web/20160325052441/http://www.thesmartpolitenerd.com/aboutme.html) ([@maradydd](https://archive.is/1FYbO)) surfaced allegations of plagiarism against Appelbaum. She has yet to provide details on what research was plagiarized, only saying later in [October 2014 that a talk of his](https://archive.is/9cBQN#selection-6183.58-6193.0) for the ['*Nothing to Hide*' Chaos Communication Congress in 2008](https://archive.is/eOZVC) (25C3) was stolen from her, her [now deceased husband](https://archive.is/pZy3O) [Len Sassaman](https://archive.is/2S6xg), and [American security researcher](https://archive.is/RBkNS) [Dan Kaminsky](https://archive.is/tFs3a) ([@dakami](https://twitter.com/dakami)). The "research" allegedly stolen was [oral discussions](https://archive.is/qDCjS#selection-3131.7-3131.98) between the three [during the previous Congress (24C3)](https://archive.is/ADGlp#selection-3157.0-3187.16) in [2007](https://archive.is/xuuCG#selection-3877.99-3877.131). [Appelbaum's talks for 25C3](https://archive.is/ZegZe) were '[Building An International Movement: hackerspaces.org](https://archive.is/mULaP)', '[Advanced Memory Forensics: The Cold Boot Attacks](https://archive.is/GqBjE)' (solo), and '[MD5 Considered Harmful Today](https://archive.is/9koyI).' Patterson says [Appelbaum apologized to her](https://archive.is/xuuCG) during [Sassaman's wake](https://archive.is/uZ6WI) at the [DNA Lounge](https://archive.is/l48by) and she not only [acknowledged Appelbaum's apology](https://archive.is/e8CIg#selection-6649.1-6649.118) but admitted that [Sassaman forgave him](https://archive.is/SJZFw#selection-6695.56-6695.71) and [she unexpectedly backtracked on her acceptance](https://archive.is/Sb4s0#selection-7721.1-7721.113) due to [unresolved anger](https://archive.is/Sb4s0#selection-8431.1-8431.85); she also apologized for her "[entirely](https://archive.is/Sb4s0#selection-9141.105-9141.113) [passive-aggressive](https://archive.is/Hit0Z#selection-6667.5-6667.54)" attempt a [resolving](https://archive.is/e8CIg#selection-7033.49-7033.103) it by [writing negatively about him in Hacker News](https://archive.is/Sb4s0#selection-6637.1-6637.99). In addition to [frequent friendly discussions on usability, security, and legal issues](https://archive.is/LCTtn) (including [offering research help](https://archive.is/r0otF#selection-1727.1-1737.58)), Sassaman in fact had [expressed](https://archive.is/nlHIq) [support](https://archive.is/HTNQr) [for Appelbaum](https://archive.is/0IaBJ) [in 2011](https://archive.is/ysFlR) after he was repeatedly detained and interrogated [by US CBP at the airport](https://archive.is/oKzf1).
 
 > [There might be short-term benefit through appeasement, by remaining silent, but it can only hurt overall.](https://archive.is/ReC1Z) [That said, having had to choose in the past btwn not poking the hornets nest, vs. shining light on it, I get that it's difficult.](https://archive.is/fwzmi) [So, thank you, Jake, for speaking up.](https://archive.is/lMxqs)
@@ -91,6 +102,8 @@ Amidst this [discussion about the crowdfund for Wolf](https://archive.is/Sb4s0),
 The issue was [raised again](https://twitter.com/ioerror/status/302261054497509376) in [February 2013](https://archive.is/ADGlp) over [mpOTR software](https://web.archive.org/web/20160605152831/http://comments.gmane.org/gmane.comp.security.otr.devel/1546) (which was [already being resolved](https://archive.is/6auiA#selection-3165.1-3165.91)). She said Appelbaum was "[playing fast and loose with attribution](https://archive.is/XXF0F#selection-7097.16-7097.55)" and that his apology to Sassaman had been [dishonest](https://archive.is/6auiA#selection-5939.28-5939.116) and [manipulative](https://archive.is/XXF0F#selection-9609.1-9609.61) because Len's "[forgiveness was contingent upon Jake keeping his nose squeaky clean with regards to attribution. He hasn't](https://archive.is/knbDT#selection-5671.1-5681.98)." She did not specify what the new allegations of plagiarism were. She also accused Appelbaum of being a [kleptomaniac](https://archive.is/8JKs0), [harassing Kaminsky](https://archive.is/fWEnf) and lying about the date of his apology to Sassaman: Appelbaum said [they "made up" at **Noisebridge**](https://archive.is/28kIq#selection-4949.1-4949.84), whereas Patterson was only aware of a [reconciliation](https://archive.is/r61AJ#selection-4949.1-4949.126) through [IM](https://archive.is/knbDT#selection-4937.1-4937.126) weeks before his [suicide](https://archive.is/fxXV) on [July](https://archive.is/tHqj6) [3rd](https://archive.is/YO5eK) after [battling chronic depression and degenerative pain](https://archive.is/KoCKm). Appelbaum [apologized again](https://archive.is/6auiA#selection-6299.1-6299.36) even though [he did not agree](https://archive.is/Sn5cP#selection-4263.71-4263.117) [with her story](https://archive.is/MJzhn#selection-4197.1-4197.96). The issue has [continued](https://archive.is/AK00O#selection-6779.0-6779.78) to [briefly surface](https://archive.is/Y1bR1#selection-6029.17-6029.32) since.
 
 [Upcoming update:] OHM ("Observe. Hack. Make.") international camping festival in 2013, Sam Carlisle
+
+#### <a name="shepard-defense"></a>Defense of Andrea Shepard
 
 At the [**Chaos Communication Congress**](https://archive.is/FQsDm) in December of 2014 (31c3), Appelbaum and then [Tor Project director](https://archive.is/WTt5r#selection-247.0-247.54) [Roger Dingledine](https://twitter.com/RogerDingledine) presented the "[State of the Onion](https://media.ccc.de/v/31c3_-_6251_-_en_-_saal_1_-_201412301400_-_state_of_the_onion_-_jacob_-_arma)." Three minutes in, Appelbaum started speaking about "[a sustained campaign of online harassment](https://archive.is/iyJKZ)" which had been [directed](https://archive.is/ljqM4) at [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/yF1cg) "for the past several months." 
 
@@ -107,6 +120,8 @@ As Appelbaum followed up with, [the](https://archive.is/Da9Mu) [harassment](http
 According to national security researcher [Alexa O'Brien](https://archive.is/nHFae), who claims to have spoken with Appelbaum on the subject at the event, he was "sympathetic to [retribution] against the troll."
 
 > [Do you all remember a troll named jbjabroni10? He got doxed, lost his job for trolling/harassing pv?](https://web.archive.org/web/20160626213721/https:/twitter.com/carwinb/status/741777539060891648) (`"pv" is Shepard, @puellavulnerata`) [I don't claim to speak for jb (he prob doesn't want me to anyway); but I remember what happened](https://web.archive.org/web/20160722232649/https:/twitter.com/carwinb/status/741777786021515264) [...and I remember talking to @ioerror about the matter in *Hamburg, at CCC (it was a heated discussion). Ironically...](https://web.archive.org/web/20160722230133/https:/twitter.com/carwinb/status/741778014741106688) [in that discussion, (I'm not going to speak for Jake, maybe I am mistaken)... BUT,](https://web.archive.org/web/20160722233023/https://twitter.com/carwinb/status/741778598156210176) [he appeared sympathetic to retribution against the troll, but supportive of measures that were taken.](https://web.archive.org/web/20160722233219/https://twitter.com/carwinb/status/741778692351856640) [I took to mean.  If one trolls insults/otherwise act inappropriate manner, social retribution justified.](https://web.archive.org/web/20160722230421/https:/twitter.com/carwinb/status/741779296486871040) [I hope that we all use this e.g. to explore  important questions as applied to the least of us too.](https://web.archive.org/web/20160722230436/https:/twitter.com/carwinb/status/741779945408630784) [I don't have an answer, only active listening, thinking for myself about all that has transpired.](https://web.archive.org/web/20160722234613/https://twitter.com/carwinb/status/741780752753434625) [I do, however, hope that this doesn't get played like some kind of battle of the cliques.](https://web.archive.org/web/20160722234806/https://twitter.com/carwinb/status/741781745616457728)
+
+#### <a name="suspension"></a>Suspension from Tor
 
 Based on a [letter](https://archive.is/5zlA0) published by [**Golem.de**](https://archive.is/J7rxB) through [**FearlessBlogging.com**](https://archive.is/aVULh) (an anonymous blog site), Tor Project's then [human relations manager](https://archive.is/Q2TTK#selection-515.0-515.12) [Tom Leckrone](https://archive.is/rYKWV) (who still [contributes to the mailing list](https://archive.is/Of5TC)) wrote to Appelbaum on March 18th 2015 that he was "expected to engage... on performance and conduct issues" as part of a Performance Improvement Plan following "an unpaid suspension for a period of ten business days" from March 20th to March 30th. The suspension was due to incidents which took place on March 3rd and 6th during a [core Tor team company meeting](https://archive.is/DrGwH) in Valencia, Spain. (This was also the week of the [**Circumvention Tech Festival**](https://archive.is/9klki), during which Appelbaum [tweeted](https://archive.is/ooFR7) they needed help identifying a [suspicious GPS tracking device](https://archive.is/tbdfC) found on an [attendee's](https://archive.is/KDYAy) vehicle.) The letter states:
 
@@ -138,7 +153,6 @@ On the 17th and 18th (when Leckrone sent the suspension email), Appelbaum tweete
 
 > I wonder what the best defenses are for JTRIG-ish psyops? Just buckle in and move slow? Refuse to be split? Refuse to be atomized? ([March 17th](https://archive.is/nW5Is))
 
-
 > That feeling that manifests when it is time to move on. Intensely. ([March 18th](https://archive.is/1vhhn))
 
 ![JTRIG chart](https://archive.li/kDzXc/b2a926bb585face74776c6ccd5343e831cb4dc43.png)
@@ -147,12 +161,18 @@ On the 17th and 18th (when Leckrone sent the suspension email), Appelbaum tweete
 
 > Among the core self-identified purposes of JTRIG are two tactics: **(1)** to inject all sorts of false material onto the Internet in order to destroy the reputation of its targets; and **(2)** to use social sciences and other techniques to manipulate online discourse and activism to generate outcomes it considers desirable. To see how extremist these programs are, just consider the tactics they boast of using to achieve those ends: “false flag operations” (posting material to the Internet and falsely attributing it to someone else), fake victim blog posts (pretending to be a victim of the individual whose reputation they want to destroy), and posting “negative information” on various forums. 
 
+#### <a name="foia"></a>FOIA lawsuit
+
 On June 24th, **VICE News** Senior Investigative Reporter [Jason Leopold](https://archive.is/IqpAt) and O'Brien [jointly filed](https://web.archive.org/web/20160722225356/https://twitter.com/JasonLeopold/status/614090844782657537) a [FOIA lawsuit](https://web.archive.org/web/20160722224006/https://www.documentcloud.org/documents/2110787-leopold-obrien-foia-lawsuit-jacob-applebaum.html) against [nineteen US federal agencies](https://web.archive.org/web/20160722222056/https://assets.documentcloud.org/documents/2110787/leopold-obrien-foia-lawsuit-jacob-applebaum.pdf) for [documents](https://web.archive.org/web/20160722231229/https:/twitter.com/ioerror/status/614028633385107456) related to the "ongoing U.S. criminal
 investigation of WikiLeaks, Assange, and other civilians, including Mr. Appelbaum." The [first amended complaint](https://web.archive.org/web/20160722221927/https://cryptome.org/2016/06/leopold-obrien-006.pdf) was filed on August 9th. The request has yet to be fulfilled but [may be nearing completion](https://web.archive.org/web/20160722225143/https:/twitter.com/Cryptomeorg/status/756434419578200064).
+
+#### <a name="dprk"></a>Visit to North Korea
 
 In [early April 2016](https://archive.is/UNxr6), Appelbaum visited North Korea for [seven days](https://archive.is/qIWWz#selection-1113.0-1113.43) as part of a guided tour group of nine other Americans with the [Korean International Travel Company](https://archive.is/qIWWz#selection-1077.69-1077.105), supposedly after [receiving offers](https://archive.is/fXuKk) sometime in [January](https://archive.is/z4M1R). Though he never publicly announced he was going, he can be seen in the group pictures from a [personal essay](https://archive.is/qIWWz) written by [**PBS Newshour** producer](https://archive.is/4msEB) [Hannah Yi](https://archive.is/Qop6H), as well as the [tour video](https://webcache.googleusercontent.com/search?q=cache:https://vimeo.com/172360421) uploaded [anonymously](https://archive.is/uy8bI) to **Vimeo** between the 26th and 27th of June (Vimeo later took it down, but I had saved an .mp4 copy and [re-uploaded it here](http://vimple.co/04506a053f124483b8fb05ed73899f19)). Other than Appelbaum making an appearance, what is shown in the video matches pictures shared by Yi in the essay, such as [the soccer game at the Rungrado 1st of May stadium in Pyongyang](https://archive.is/qIWWz#selection-915.55-1193.98) and the [bronze statues at the Mansudae Grand Monument](https://archive.is/qIWWz#selection-915.55-1165.108). It has been alleged that this trip [may have led to insecurity within Tor about maintaining funding](https://archive.is/OIK0V#selection-215.2475-215.2578).
 
 ![North Korea tour group (Appelbaum on the far left)](http://d3i6fh83elv35t.cloudfront.net/newshour/wp-content/uploads/2016/05/2016-04-18-10.30.01.jpg)
+
+#### <a name="guardian-denunciation"></a>Denunciation of *The Guardian*
 
 On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY) a [speech](https://archive.is/FrTlr) he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) (where he is an [advisor](https://archive.is/iOm5e#selection-311.0-311.15)) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists, particularly at **The Guardian** which he called the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)," to the point where their lives were at risk.
 
