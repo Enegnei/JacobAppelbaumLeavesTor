@@ -32,23 +32,28 @@
   11. [Tor repeats allegations to the press](#press)
   12. [Tor board of directors resigns, is replaced](#board)
 3. [The Website and Twitter Accounts](#website-and-twitter-accounts)
-  1. []
-  2. []
-  3. []
-  4. []
-  5. []
+  1. [The Web: jacobappelbaum.net](#site)
+  2. [Twitter: @TimetoDieJake and @VictimsOfJake](#twitter-accounts)
+  3. [Attributing authorship](#attribution)
+  4. [Other Twitter accounts](#other-twitter)
+  5. [The leak war](#leaks)
+    1. [The "background" document](#background-leak)
+    2. [Reply to the "background" document](#background-reply-leak)
+    3. [The David Chasteen chat log](#chat-log-leak)
+    4. [Isis Lovecruft as FBI informant?](#isis-fbi-leak)
+    5. [Leaker identities](#leakers)
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
-  1. []
-  2. []
-  3. []
-  4. []
-  5. []
+  1. [](#)
+  2. [](#)
+  3. [](#)
+  4. [](#)
+  5. [](#)
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
-  1. []
-  2. []
-  3. []
-  4. []
-  5. []
+  1. [](#)
+  2. [](#)
+  3. [](#)
+  4. [](#)
+  5. [](#)
 
 ## <a name="background"></a>Background
 
