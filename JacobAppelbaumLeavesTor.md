@@ -18,12 +18,21 @@
     7. [FOIA lawsuit](#foia)
     8. [Visit to North Korea](#dprk-visit)
     9. [Denunciation of *The Guardian*](#guardian-denunciation)
-2. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
+2. [The Resignation](#resignation)
   1. []
   2. []
   3. []
   4. []
   5. []
+  6. []
+  7. []
+  8. []
+  9. []
+  10. []
+  11. []
+  12. []
+  13. []
+  14. 
 3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
   1. []
   2. []
@@ -179,17 +188,25 @@ On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY
 ![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 
-## The Resignation
+## <a name="resignation"></a>The Resignation
+
+### <a name="first-tor-blog-post"></a>First Tor blog post
 
 On June 2nd, 2016, Tor Project [Executive Director](https://archive.is/Q2TTK#selection-767.0-767.32) [Shari Steele](https://archive.is/B8rRs) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
 
 > Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
 
+### <a name="dingledine-letter"></a>Dingledine letter
+
 Shortly before the transition update was published, Dingledine allegedly [sent out an email to the Tor-internal mailing list](https://web.archive.org/web/20160628002000/https://cryptome.org/2016/06/dingledine-appelbaum-16-0602.pdf) with more detail about Appelbaum's resignation (which was [originally leaked on June 5th](https://archive.is/u6iOS) and [republished](https://archive.is/bylE6) and mirrored by [**Cryptome.org**](https://archive.is/isP0T#selection-269.0-268.1) on [June 27th](https://archive.is/4vY5N)). The email outlines who will be the [points of contact](https://archive.is/bylE6#selection-215.5302-215.5597), reassures them they are still working on [drafting documents for company and community policy](https://archive.is/bylE6#selection-215.5599-215.6201) and that [Tor-the-company will survive this](https://archive.is/bylE6#selection-215.6203-215.6565), and urges them to "[be mindful](https://archive.is/bylE6#selection-215.7704-215.7737)" about how they talk to the public or engage in "[twitterwar](https://archive.is/bylE6#selection-215.7820-215.7830)." No one from Tor has yet confirmed whether the email is authentic.
+
+### <a name="stripped"></a>Appelbaum stripped of Tor responsibilities
 
 A few days later, Appelbaum's name was [removed from the list](https://archive.is/yxqlC) of core Tor Project employees and volunteers. Someone has also [quietly deleted](https://blog.torproject.org/blog/what-tor-supporter-looks-%E2%80%93-jacob-appelbaum) [blog posts on Appelbaum](https://web.archive.org/web/20160304052552/https://blog.torproject.org/blog/what-tor-supporter-looks-%E2%80%93-jacob-appelbaum). However, he still appeared to [have control over his Tor directory authority](https://archive.is/K93V5). On July 1st, Dingledine emailed a plan to drop 'urras', a process which requires [at least five](https://archive.is/LzgfS#selection-83.785-83.895) of the [nine other directory authorities](https://archive.is/7lJ4c) to agree in consensus, including [at least one of three DAs which votes on recommended versions](https://archive.is/LzgfS#selection-83.1243-83.1354): '[moria1](https://archive.is/V0WKc)' controlled by Dingledine, '[gabelmoo](https://archive.is/EaZdS)' controlled by [developer](https://archive.is/yxqlC#selection-367.0-367.25) [Sebastian Hahn](https://archive.is/HESIE) (shown to be [targeted by the NSA's XKeyscore program](https://archive.is/gU88G#selection-1699.0-1705.154) in [2014](https://archive.is/Xx4hr)), and '[tor26](https://archive.is/OiSgs)' controlled by [sysadmin and developer](https://archive.is/yxqlC#selection-647.0-647.39) [Peter Palfrader](https://archive.is/UwKjE). On July 5th, the [process](https://archive.is/qBZO4) for [removing 'urras'](https://archive.is/uU7Ft) was complete.
 
 ![info on urras directory authority](https://pbs.twimg.com/media/CmW9AiTXgAAANpg.jpg)
+
+### <a name="precommitment"></a>Andrea Shepard's "precommitment"
 
 On the 24th of May 2016, one day before Appelbaum stepped down, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/ol0mQ) tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)). Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
 
@@ -197,9 +214,15 @@ On the 24th of May 2016, one day before Appelbaum stepped down, [core Tor develo
 
 (To verify this yourself using OpenSSL, type `echo It seems one rapist is one rapist too many | openssl sha256`, the output of which should be `(stdin)= bfb9a7c833a5fc8f5a938d816b1bbc4acaa06519fdb1af4c8632719596807dac`).
 
+### <a name="lecture"></a>Appelbaum cancels lecture
+
 The **Eindhoven Institute for the Protection of Systems and Information** (Ei/PSI) also published the schedule of speakers for their "[Security in Times of Surveillance](https://web.archive.org/web/20160506055357/http://www.win.tue.nl/eipsi/surveillance.html)" event on May 26th. Sometime between [the 24th and the 26th](https://archive.is/vhO8h#selection-2149.0-2177.6), Appelbaum's talk "Beyond End-to-End Encryption" was [cancelled](https://archive.is/JzF0j#selection-443.0-449.15), the reason only noted as "sickness."
 
+### <a name="separation"></a>Tor/Appelbaum separation letter
+
 On May 27th, Steele reportedly [requested that Appelbaum sign a resignation agreement](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf) in which he would promise "[mutual non-disparagement](https://archive.is/FP1GE)," including giving up the right to sue the Tor Project. According to the attached explanation by [**Cryptome.org**](https://cryptome.org/), Appelbaum refused to sign the agreement.
+
+### <a name="patterson-denounces"></a>Patterson denounces weak Tor response
 
 As people responded to the news about Appelbaum as well as these mysterious tweets, it became clear that they were connected after Patterson tweeted about [the lack of explanation in Steele's announcement](https://archive.is/1FYbO#selection-5199.0-5213.107).
 
@@ -207,7 +230,11 @@ As people responded to the news about Appelbaum as well as these mysterious twee
 
 As background to her assertion that he "graduated [from plagiarist] to sexual assault," it would be relevant to note that Patterson and Appelbaum have a history of being involved in plagiarism disputes (see '[History](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)'), where Appelbaum was the accused, extending back prior to the passing of her husband Len Sassaman in 2011 (mentioned in [this thread](https://twitter.com/ioerror/status/302261054497509376) as "Len"). She recently [tweeted her account](https://archive.is/xuuCG) of an interaction with Appelbaum which followed that particular dispute, and [then said](https://archive.is/laWvR) that "Jake hasn't apologised to any of his assault/harassment victims that I know of either. And to everyone else trying to make hay out of that distinction, hairsplitting isn't a good look on you." American journalist [Quinn Norton](https://archive.is/GIttq) also joined her in [claiming involvement in plagiarism disputes](https://archive.is/5Sywt) with Appelbuam. They have yet to directly specify, or present evidence of, what work he plagiarised. In Patterson's case she probably won't ever do so, since she's [already told one inquirer](https://archive.is/q4PbR) (who [challenged how she defined 'plagiarism'](https://archive.is/qDCjS#selection-3485.1-3485.118)) that "[when research that gets stolen was only communicated about orally, there is no paper trail](https://archive.is/qDCjS#selection-3131.7-3131.98)." [Kaminsky](https://archive.is/AK00O), one of the alleged victims, was also [unwilling to provide details](https://archive.is/qkoTS#selection-4929.1-4929.97). [**Cryptocat**](https://web.archive.org/web/20160614234138/https://crypto.cat/mission.html) developer [Nadim Kobeissi](https://archive.is/CIb0I) has also [argued with Appelbaum](https://archive.is/ub4CH) in the past with regards to [attribution rights](https://archive.is/VlKC6), but outside of [one tweet](https://archive.is/GW6T0) on the subject has stayed out of the debate because he "[thought a bit more about things and decided I had better things to emotionally invest myself in than an angry riot](https://archive.is/tPnaQ)." 
 
+### <a name="early-reactions"></a>Early reactions
+
 The majority of those who responded were [shocked and/or asked for more information](https://web.archive.org/web/20160604033907/https://twitter.com/maradydd/status/738801590333624320), both about the rape allegations and the circumstances of Appelbaum stepping down. According to **Süddeutsche Zeitung**, a Munich daily newspaper, the Berlin Public Prosecution Office is not aware of any claims to date against Appelbaum ("[Die Berliner Staatsanwaltschaft ermittelt nach eigenen Angaben bislang nicht gegen Jacob Appelbaum](https://archive.is/5D41r#selection-2189.168-2189.267)").
+
+### <a name="second-post"></a>Second Tor blog post
 
 On June 4th, Steele [released a longer public statement](https://archive.is/uOTpp) about the situation. Though it did confirm that the allegations led to Appelbaum stepping down, it did not reveal who or how many victims there allegedly are, only that the matter was being investigated with the help of "a legal firm that specializes in employment issues including sexual misconduct."
 
@@ -217,17 +244,23 @@ On June 4th, Steele [released a longer public statement](https://archive.is/uOTp
 
 > That said, after we talked with some of the complainants, and after extensive internal deliberation and discussion, Jacob stepped down from his position as an employee of The Tor Project.
 
+### <a name="denial"></a>Appelbaum denies allegations
+
 Appelbaum's last message, prior to these allegations going public, was a tweet on the day he supposedly left the Tor Project: "[Changing of the guards](https://web.archive.org/web/20160605180001/https://twitter.com/ioerror/status/736259103790632960)." He remained silent until June 6th, when he [issued a statement](https://archive.is/YZ2co) using [TwitLonger](https://archive.is/I7Zhd), both to say that the allegations against him where "entirely false" and the "vicious and spurious" way they were delivered has made him "prepared to use legal channels, if necessary, to defend my reputation from these libelous accusations."
 
 ![Appelbaum's statement on TwitLonger](https://pbs.twimg.com/media/CkQaB9mXAAAEGCz.jpg)
 
 An international film publicist, [Claudia Tomassini](https://archive.is/eHxMD), told **WIRED** that Appelbaum's "[legal team is working on an injunction against these monstrous and factually incorrect accusations](https://archive.is/pCaSd#selection-1511.239-1511.444)." According to **The Daily Dot** she "[walked back that statement](https://archive.is/QZIdh#selection-1039.170-1039.350)," instead [saying](https://archive.is/Qdima#selection-1115.0-1123.169) he “deserves as fair a hearing as anybody who comes forward with grievances against him.” She also clarified that Appelbaum was not her client; her involvement with him arose out of one of her [media publicity projects](https://archive.is/XbC4k), [Laura Poitras](https://archive.is/eyCfz)' [*Risk*](https://archive.is/BZUi0), a documentary film on the cypherpunk underground that [features Appelbaum](http://www.claudiatomassini.com/uploads/media/RISK_POITRAS_PRESSNOTES.pdf), which premiered on May 19th at the directors' fortnight of [*Festival de Cannes*](https://archive.is/Vuoij) ([Cannes International Film Festival](https://archive.is/4U3ZF)).
 
-Farivar said he had a "[story forthcoming](https://archive.is/aGbcD)" on this event. He has since published two, the [first](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) summarizing the allegations and Tor's response, the [second](https://archive.is/v9tPj) on Appelbaum's response. A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
+### <a name="press"></a>Tor repeats allegations to the press
+
+Cyrus Farivar of *Ars Technic* stated that he had a "[story forthcoming](https://archive.is/aGbcD)" about the Appelbaum events. He has since published two, the [first](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) summarizing the allegations and Tor's response, the [second](https://archive.is/v9tPj) on Appelbaum's response. A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
 
 `Note: Though surname & email address are blacked out, 'Kate' is likely Communications Director Kate Krauss.`
+
+### <a name="board"></a>Tor board of directors resigns, is replaced
 
 On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it would be [replacing all seven members on the board of directors](https://archive.is/L1iIh) "in keeping with its commitment to the best possible health of the organization." The statement was [written by the outgoing board](https://archive.is/vVYc0#selection-75.2-75.56) and [posted as a press release](https://archive.is/vVYc0#selection-75.57-75.133) by [Krauss](https://archive.is/yxqlC#selection-471.0-471.57). Though Dingledine and Mathewson stepped down from the board, they will "[continue in their roles as co-founders of the Tor Project, leading Tor's technical research and development](https://archive.is/L1iIh#selection-143.0-143.404)."
 
