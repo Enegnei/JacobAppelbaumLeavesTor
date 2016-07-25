@@ -43,12 +43,23 @@
     4. [Isis Lovecruft as FBI informant?](#isis-fbi-leak)
     5. [Leaker identities](#leakers)
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
-  1. [](#)
-  2. [](#)
-  3. [](#)
-  4. [](#)
-  5. [](#)
-5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
+  1. []Allegations from the website](#allegations-site)
+    1. [Sam](#sam)
+    2. [River](#river)
+    3. [Forest](#forest)
+    4. [Daniel](#daniel)
+    5. [Kiwi](#kiwi)
+    6. [West](#west)
+    7. [Phoenix](#phoenix)
+    8. [Nick](#nick)
+    9. [General allegation of plagiarism](#site-plagiarism)
+  2. [Other claimed victims of misconduct](#other-claimed-victims)
+    1. [Leigh Honeywell](#honeywell)
+    2. [Ásta Guðrún Helgadóttir](#helgadottir) 
+  3. [Persons claimed witnesses of misconduct](#other-claimed-witnesses)
+    1. [Violet Blue](#blue)
+    2. [Emerson Tan, Andrea Shepard, and Meredith Patterson (refuted)](#tan-et-al)
+5. [The Public Reaction](#public-reaction)
   1. [](#)
   2. [](#)
   3. [](#)
@@ -361,40 +372,32 @@ There has been limited speculation about who the leaker(s) is, though the [gener
 
 `Warning: Many of these stories haven't been verified or vouched for! They are here to document allegations.`
 
-The website profiles eight separate claims from people who were "[harassed, plagiarized, humiliated, and abused — sexually, emotionally, and physically](https://archive.is/8m4Yk#selection-245.34-245.140)." Initially, half of them were marked as placeholders ([Alice](https://archive.is/NdMrJ#selection-647.0-649.0), [Briar](https://archive.is/ZivH4#selection-647.0-649.0), Phoenix, and Sam), but the stories for "Sam" and "Phoenix" have since been added, along with more stories than the original eight (Kiwi and Nick). All, except for Nick's, are purposely under vague (i.e. anonymized) names. The GitHub copies of the entries are PNG images, the text of which is colored blue in odd places. Initially, all the entries were marked with the same date of December 31st, 2015; since then, newer entries have not only been given different dates but the dates on earlier entries were changed (you can [compare them in the archives](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*)). It is unclear what the date signifies. Synopses of what is alleged (ordered by their dates) on the website are as follows:
+Only five people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton. 
 
-### <a name="phoenix"></a>Phoenix
 
-+ "[Phoenix](https://archive.is/hxfzw)," who at a post-workshop dinner was publicly propositioned for sex twice and subjected to other behavior she found humiliating ([January 26th, 2016](https://archive.is/jUxNM#selection-645.1-649.0)). [William Budington](https://archive.is/Hs1mS), a software engineer for the **Electronic Frontier Foundation**, has [personally vouched](https://archive.is/eRXca) for this story's authenticity; Micah Lee from [**The Intercept**](https://archive.is/Fydks) also [appears](https://archive.is/s32Fe) to have done so, as well as [Garrett Robinson](https://archive.is/kPNtX), [lead developer of **SecureDrop**](https://archive.is/rtrtU#selection-979.271-991.58), and [Runa Sandvik](https://archive.is/reM4m), [director of information security for **The New York Times**](https://archive.is/lReKa). 
+### <a name="allegations-site"></a>Allegations from the website
 
-> Based on the details provided, this incident likely occurred around the Berlin [Speakeasy](https://archive.is/X5dsZ) organized by [the **Electronic Frontier Foundation** (EFF) and the **Freedom of the Press Foundation** (FPF)](https://archive.is/gSS8z) on July 13th, 2014. Budington was indeed [in Berlin](https://archive.is/xKMXM) as an attendee, along with [Lee](https://archive.is/x6Hqt), [Sandvik](https://archive.is/q3B1D) (who [joined FPF](https://archive.is/r00mR) a [month before](https://archive.is/vI551#selection-361.335-361.344)), [Robinson](https://archive.is/1HRbv) and [Yan Zhu](https://archive.is/TOzVd) who [hosted a get-together the day prior](https://archive.is/yL13e). She [left before the incident occurred](https://archive.is/3WsXN) but has said she [heard rumours of harassment for years](https://archive.is/kAd37#selection-333.3-333.354). Considering it was a "workshop on whistleblowing platforms," it was probably the [**GlobaLeaks**](https://archive.is/NwR7M#selection-3187.5-3187.56)/ [**SecureDrop**](https://archive.is/bSGV8)/ [**Aspiration Tech** event](https://archive.is/yDOFI) occurring sometime between the [12th and 16th of July](https://archive.is/5dhs5), the topic of which may be similar to what Budington and [Zhu](https://archive.is/6TvDr) [presented](https://web.archive.org/web/20160612192330/https://freedom.press/securedrop-files/HOPEX.pdf) at [**HopeX**](https://archive.is/7QwGZ) in [New York City, July 18-20th](https://archive.is/O9zlW#selection-425.0-425.41). Appelbaum was still in [Berlin](https://archive.is/tLuiW) on the 15th and left for [Amsterdam](https://archive.is/uyBDC#selection-3961.0-3971.24) by the 16th, so it would've had to occur before then.
+The website profiles eight separate claims from people who were "[harassed, plagiarized, humiliated, and abused — sexually, emotionally, and physically](https://archive.is/8m4Yk#selection-245.34-245.140)." Initially, half of them were marked as placeholders ([Alice](https://archive.is/NdMrJ#selection-647.0-649.0), [Briar](https://archive.is/ZivH4#selection-647.0-649.0), Phoenix, and Sam), but the stories for "Sam" and "Phoenix" have since been added, along with more stories than the original eight (Kiwi and Nick). All, except for Nick's, are purposely under vague (i.e. anonymized) names. 
 
-### <a name="west"></a>West
+Though all of the stories are posted anonymously, three stories (Sam, Forest, Nick) have subsequently claimed by their presumed authors (Alison Macrina, Isis Lovecruft, Nick Farr).
 
-+ "[West](https://archive.is/TjhUQ)," who was kissed without consent by Appelbaum at a hacker event ([January 27th, 2016](https://archive.is/pEl8w#selection-647.0-649.0)).
-+ "[Kiwi](https://archive.is/N10bK)," who initially "joined the digital rights community because of him," was then shamed by Appelbaum in public during the process of building their professional career ([January 28th, 2016](https://archive.is/XYS57#selection-647.0-649.0)).
-+ "[Daniel](https://archive.is/R6nDq)," who was dating someone in the Tor community, says Appelbaum violated their privacy and propositioned them for sex ([January 31st, 2016](https://archive.is/hVV6V#selection-645.1-649.0)).
-+ "[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping ([February 1st, 2016](https://archive.is/1x40b#selection-647.0-649.0)).
-+ "[River](https://archive.is/0jbVl)," romantically involved with him at the time of the incident, was propositioned for group sex and, while intoxicated, sexually assaulted by Appelbaum and subjected to unwanted sexual advances by at least one of his friends at a party ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)). Lovecruft, who later came forward herself and [claims she's spoken with "River](https://archive.is/4lywH#selection-217.227-221.47)," clarified that there was [penetrative intercourse](https://archive.is/4lywH#selection-437.17-437.40) from both men which would justify at least two counts of rape, along with the other factors of [instructing a third party to rape](https://archive.is/4lywH#selection-429.0-429.44) an [unconscious victim](https://archive.is/4lywH#selection-445.0-445.98).
-+ "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" in Appelbaum and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
- 
-There are also complaints about [his name frequently being first on the list of authors](https://archive.is/5Aebu#selection-835.118-835.167) for academic papers; however [the practice of listing authorship alphabetically in research](https://web.archive.org/web/20160314150541/http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf) (at least in the U.S.), especially in the fields of math and computer science, is very common:
+The GitHub copies of the entries are PNG images, the text of which is colored blue in odd places. Initially, all the entries were marked with the same date of December 31st, 2015; since then, newer entries have not only been given different dates but the dates on earlier entries were changed (you can [compare them in the archives](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*)). It is unclear what the date signifies. Synopses of what is alleged (ordered by their dates) on the website are as follows:
 
-> For this reason, mathematicians traditionally list authors on joint papers in alphabetical order. An analysis of journal articles with at least one U.S. based author shows that nearly half were jointly authored. Of these, more than 75% listed the authors in alphabetical order. In pure mathematics, nearly all joint papers (over 90%) list authors alphabetically. 
+#### <a name="sam"></a>Sam
 
-> These traditions differ from other areas of scholarship, especially those that frequently involve large numbers of researchers working on a single research project. In areas of mathematics that are more closely associated to such areas, the culture and traditions may blend together. 
-
-> While these traditions are well-known to mathematicians, they are often misunderstood by other scholars whose traditions differ. Occasionally, this works against young mathematicians — especially those with names near the end of the alphabet.
-
-Only five people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton. The [first](https://archive.is/bFXW2) was [Nick Farr](https://archive.is/9kjWs), who is one of three to claim authorship of [a story](https://archive.is/vekwa) on the victims website. His entry is now dated [January 25th, 2016](https://archive.is/qBIJV#selection-647.0-649.0). He alleges a span of incidents of verbal harassment which occurred during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page), where he was an organizer of the Lightning Talks; Norton [says](https://archive.is/thLMm) she witnessed it. After approving a proposal for a talk which was going to argue that Appelbaum was a US Intelligence Operative, he was chastised first via email and then in person multiple times by both Appelbaum and "important people in the CCC." 
-
-> [Jake demanded all the records I had received from this person. Jake also had the CCC edit the 30c3 wiki database to eliminate any trace of the offending talk.](https://archive.is/bFXW2#selection-357.161-357.319)
-
-Furthermore, he says [a note](https://archive.is/bFXW2#selection-373.84-373.139) was left every night on his hotel room pillow (though he does not know by whom):
-
-> "Don't make us use extreme measures. Hand it all over." 
+"[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" in Appelbaum and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
 
 The second is Alison Macrina ([@flexlibris](https://twitter.com/flexlibris)), [founder and director the **Library Freedom Project**](https://archive.is/RZunq), who in a [Medium post](https://archive.is/cwU9y) claimed she submitted the "Sam" story, and that she is also [friends](https://archive.is/cwU9y#selection-323.0-323.37) with "River." She tweeted that she had her ["come to Jesus" moment](https://archive.is/dPnG4#selection-4463.21-4463.99) months ago and that she was "[ashamed it took me so long to figure out what was what](https://archive.is/yQRbF#selection-3645.0-3645.59)." Both she and Shepard were still on [friendly terms](https://archive.is/aGNgk) with him as late as [mid-February 2016](https://archive.is/r7jnL), even though the "Sam" story is dated February 3rd. Macrina may have [visited Appelbaum](https://archive.is/orMqQ) in Berlin sometime at the end of 2014 and was also [there](https://archive.is/RaYRk) as a [Tor Project](https://archive.is/x4z7o) [representative](https://archive.is/mSgA1) for the CIJ Symposium in [March](https://archive.is/muAFe). In between she was a fellow presenter with Appelbaum at the last "[State of the Onion](https://archive.is/6unKs)" talk for the **Chaos Communication Congress** in Hamburg, Germany. Her [partner](https://archive.is/kfA1X) Franklin Bynum ([@frabyn](https://twitter.com/frabyn)), a [criminal defense attorney](https://archive.is/Aonrp) who she '[met](https://archive.is/t8VJT)' in July 2015, [migrated his law firm out of Google Apps](https://archive.is/J5zYE) after [her encouragement](https://archive.is/mhRFb#selection-239.0-239.144) to do so. They [have been](https://archive.is/g1xsR) [together](https://archive.is/dTyqM) [since at least mid-February](https://archive.is/oVCGq), and he [wrote](https://archive.is/NxSJo) "[Decoding Appelbaum](https://archive.is/mQm04)" on June 6th, though neither [disclosed Macrina's involvement](https://archive.is/pL1vi) with the allegations at the time.
+
+
+#### <a name="river"></a>River
+
+"[River](https://archive.is/0jbVl)," romantically involved with him at the time of the incident, was propositioned for group sex and, while intoxicated, sexually assaulted by Appelbaum and subjected to unwanted sexual advances by at least one of his friends at a party ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)). Lovecruft, who later came forward herself and [claims she's spoken with "River](https://archive.is/4lywH#selection-217.227-221.47)," clarified that there was [penetrative intercourse](https://archive.is/4lywH#selection-437.17-437.40) from both men which would justify at least two counts of rape, along with the other factors of [instructing a third party to rape](https://archive.is/4lywH#selection-429.0-429.44) an [unconscious victim](https://archive.is/4lywH#selection-445.0-445.98).
+
+#### <a name="forest"></a>Forest
+
+"[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping ([February 1st, 2016](https://archive.is/1x40b#selection-647.0-649.0)).
+
 
 The third is Isis Agora Lovecruft ([@isislovecruft](https://twitter.com/isislovecruft)), another [core Tor developer](https://archive.is/yxqlC#selection-395.0-395.15), who [revealed herself](https://archive.is/mmt9h) in a [blog post](https://archive.is/4lywH) as "Forest" on the same day that Macrina claimed to be "Sam." However she ruminates [less about the incident itself](https://archive.is/4lywH#selection-225.73-225.342) and more about when she [tried to resolve the situation six months ago in Valencia](https://archive.is/4lywH#selection-183.0-183.8)...
 
@@ -414,6 +417,51 @@ In November 2015, [the FBI allegedly attempted to contact her](https://archive.i
 
 > The FBI has contacted my lawyer again. This time, they said, “She should meet with one of our agents in San Francisco to talk. Otherwise, are you the point of contact for serving a subpoena? She’s not the target of investigation, but, uh… we uh… need her to clear up her involvement or… uh… potential involvement in a matter.”
 
+
+#### <a name="daniel"></a>Daniel
+
+"[Daniel](https://archive.is/R6nDq)," who was dating someone in the Tor community, says Appelbaum violated their privacy and propositioned them for sex ([January 31st, 2016](https://archive.is/hVV6V#selection-645.1-649.0)).
+
+#### <a name="kiwi"></a>Kiwi
+
+"[Kiwi](https://archive.is/N10bK)," who initially "joined the digital rights community because of him," was then shamed by Appelbaum in public during the process of building their professional career ([January 28th, 2016](https://archive.is/XYS57#selection-647.0-649.0)).
+
+#### <a name="west"></a>West
+
+"[West](https://archive.is/TjhUQ)," who was kissed without consent by Appelbaum at a hacker event ([January 27th, 2016](https://archive.is/pEl8w#selection-647.0-649.0)).
+
+#### <a name="phoenix"></a>Phoenix
+
+"[Phoenix](https://archive.is/hxfzw)," who at a post-workshop dinner was publicly propositioned for sex twice and subjected to other behavior she found humiliating ([January 26th, 2016](https://archive.is/jUxNM#selection-645.1-649.0)). [William Budington](https://archive.is/Hs1mS), a software engineer for the **Electronic Frontier Foundation**, has [personally vouched](https://archive.is/eRXca) for this story's authenticity; Micah Lee from [**The Intercept**](https://archive.is/Fydks) also [appears](https://archive.is/s32Fe) to have done so, as well as [Garrett Robinson](https://archive.is/kPNtX), [lead developer of **SecureDrop**](https://archive.is/rtrtU#selection-979.271-991.58), and [Runa Sandvik](https://archive.is/reM4m), [director of information security for **The New York Times**](https://archive.is/lReKa). 
+
+> Based on the details provided, this incident likely occurred around the Berlin [Speakeasy](https://archive.is/X5dsZ) organized by [the **Electronic Frontier Foundation** (EFF) and the **Freedom of the Press Foundation** (FPF)](https://archive.is/gSS8z) on July 13th, 2014. Budington was indeed [in Berlin](https://archive.is/xKMXM) as an attendee, along with [Lee](https://archive.is/x6Hqt), [Sandvik](https://archive.is/q3B1D) (who [joined FPF](https://archive.is/r00mR) a [month before](https://archive.is/vI551#selection-361.335-361.344)), [Robinson](https://archive.is/1HRbv) and [Yan Zhu](https://archive.is/TOzVd) who [hosted a get-together the day prior](https://archive.is/yL13e). She [left before the incident occurred](https://archive.is/3WsXN) but has said she [heard rumours of harassment for years](https://archive.is/kAd37#selection-333.3-333.354). Considering it was a "workshop on whistleblowing platforms," it was probably the [**GlobaLeaks**](https://archive.is/NwR7M#selection-3187.5-3187.56)/ [**SecureDrop**](https://archive.is/bSGV8)/ [**Aspiration Tech** event](https://archive.is/yDOFI) occurring sometime between the [12th and 16th of July](https://archive.is/5dhs5), the topic of which may be similar to what Budington and [Zhu](https://archive.is/6TvDr) [presented](https://web.archive.org/web/20160612192330/https://freedom.press/securedrop-files/HOPEX.pdf) at [**HopeX**](https://archive.is/7QwGZ) in [New York City, July 18-20th](https://archive.is/O9zlW#selection-425.0-425.41). Appelbaum was still in [Berlin](https://archive.is/tLuiW) on the 15th and left for [Amsterdam](https://archive.is/uyBDC#selection-3961.0-3971.24) by the 16th, so it would've had to occur before then.
+
+#### <a name="nick"></a>Nick
+
+*nick summary here*
+
+The [first](https://archive.is/bFXW2) was [Nick Farr](https://archive.is/9kjWs), who is one of three to claim authorship of [a story](https://archive.is/vekwa) on the victims website. His entry is now dated [January 25th, 2016](https://archive.is/qBIJV#selection-647.0-649.0). He alleges a span of incidents of verbal harassment which occurred during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page), where he was an organizer of the Lightning Talks; Norton [says](https://archive.is/thLMm) she witnessed it. After approving a proposal for a talk which was going to argue that Appelbaum was a US Intelligence Operative, he was chastised first via email and then in person multiple times by both Appelbaum and "important people in the CCC." 
+
+> [Jake demanded all the records I had received from this person. Jake also had the CCC edit the 30c3 wiki database to eliminate any trace of the offending talk.](https://archive.is/bFXW2#selection-357.161-357.319)
+
+Furthermore, he says [a note](https://archive.is/bFXW2#selection-373.84-373.139) was left every night on his hotel room pillow (though he does not know by whom):
+
+> "Don't make us use extreme measures. Hand it all over." 
+
+#### <a name="site-plagiarism"></a>General allegation of plagiarism
+
+There are also complaints about [his name frequently being first on the list of authors](https://archive.is/5Aebu#selection-835.118-835.167) for academic papers; however [the practice of listing authorship alphabetically in research](https://web.archive.org/web/20160314150541/http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf) (at least in the U.S.), especially in the fields of math and computer science, is very common:
+
+> For this reason, mathematicians traditionally list authors on joint papers in alphabetical order. An analysis of journal articles with at least one U.S. based author shows that nearly half were jointly authored. Of these, more than 75% listed the authors in alphabetical order. In pure mathematics, nearly all joint papers (over 90%) list authors alphabetically. 
+
+> These traditions differ from other areas of scholarship, especially those that frequently involve large numbers of researchers working on a single research project. In areas of mathematics that are more closely associated to such areas, the culture and traditions may blend together. 
+
+> While these traditions are well-known to mathematicians, they are often misunderstood by other scholars whose traditions differ. Occasionally, this works against young mathematicians — especially those with names near the end of the alphabet.
+
+### <a name="other-claimed-victims"></a>Other claimed victims of misconduct
+
+#### <a name="honeywell"></a>Leigh Honeywell
+
 The fourth is [Leigh Honeywell](https://archive.is/Cm3R9), a computer and network security professional, who says [she was in an open relationship](https://archive.is/77Sx2) with Appelbaum during 2006-2007 and he "ignored my use of a [safeword](https://archive.is/xZy5n)."
 
 > In that time we spent together, he violated boundaries I set as though they were a game, particularly at times when I was intoxicated. There were a number of times I felt afraid and violated during interactions with Jacob. Being involved with him was a steady stream of humiliations small and large as he mistreated me in front of others and over-shared about our intimate interactions with friends who were often also professional colleagues.
@@ -424,15 +472,23 @@ On June 21st, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://ar
 
 > [I have known Jacob for 10 + years and it was only when the woman came forward in the Tor project that I had ever heard these specific sexual assault accusations.](https://archive.is/5GvrC#selection-461.59-461.220)
 
+#### <a name="helgadottir"></a>Ásta Guðrún Helgadóttir
+
 The fifth is [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Icelandic politician and [Pirate Party member](https://archive.is/sGSp6), who tweeted allegations of sexual misconduct:
 
 > [For me what did it when he jumped naked in my and my exes bed and asked for a three some. With a hard on.](https://archive.is/3x87O) [Because jumping naked in other couples bed begging for a three some is... normal? Some etiquette I wasn't aware](https://archive.is/KgdS1) [of. It didn't feel nice. It didn't feel right. Beside groping and shit. That was worse somehow.](https://archive.is/fpAqc)
+
+### <a name="other-claimed-winesses"></a>Other claimed witnesses of misconduct
+
+#### <a name="blue"></a>Violet Blue
 
 [Violet Blue](https://archive.is/AFFqX), a San Francisco Bay Area freelance journalist, said she's known Appelbaum since 2005 and resisted his sexual advances, as well as [physically intervened](https://archive.is/k3vJE#selection-8053.9-8053.130) when he harassed another girl at a party. She added that these experiences made her wary of "[hero worship in 'hacktivism' circles'](https://archive.is/k3vJE#selection-6669.17-6669.53)." On June 16th she [published](https://archive.is/rEJoc) a [Medium post](https://archive.is/XSMJy) with more detail on her history with Appelbaum and the incident with the girl, who she says was a friend of hers.
 
 > Outside of Kink, in 2007, Jake had sexually targeted a female friend of mine. Her and I were going to a large tech party in December; I think it was a Wikimedia party, and Jimmy Wales was there. My friend was feeling hunted by Jake, and early in the party she said he was trying to isolate her, and told me she was scared. She is not a big or strong girl, nor is she loud, and he was trying to convince her to go into a stairwell with him. The convincing turned into trying to pull her away physically, grabbing at her hands. I locked my arm with hers, and put myself in between her and Jake. All while he was trying to reach around me, while he was telling me to let go. I said No, she’s not going with you. I insisted a bit louder, *No*. He was livid.
 
 (Note: Appelbaum *has* previously [stated that he worked for **kink.com**](https://archive.is/ZguXt); in fact, the statement was made in relation to [his objection](https://archive.is/OeqHP) to [Blue's sex talk](https://archive.is/OwOek) [being pulled](https://archive.is/4a4WA) from the [**BSides San Francisco** conference](https://archive.is/0UHK2) in February 2013 [due to complaints from Aurora](https://archive.is/CvBUb) of the [**Ada Initiative**](https://archive.is/8oUnH), despite [Blue's](https://archive.is/SeUp9) clear history of [sex-positivism](https://archive.is/wdSmV#selection-735.59-735.77). However she [misidentifies Shepard as "Tor Project's director"](https://archive.is/XSMJy#selection-363.2-367.2) even though the **WIRED** interview she links to [clearly says Shepard is a core developer](https://archive.is/FsG0A#selection-1541.163-1541.659), not a director. [Executive Director Steele](https://archive.is/yxqlC#selection-747.0-747.32) has not declared who she believes or made any more public statements about the investigation beyond what was said in [Appelbaum's resignation announcement](https://archive.is/uOTpp), and neither has any of [Tor's seven other directors](https://archive.is/HxbPp). Furthermore there appears to be some confusion in her summarization of the timeline of events surrounding [the Valencia intervention](https://archive.is/XSMJy#selection-555.0-563.59); the incident with Reilly at the Tor dinner was at the beginning of [March 2015](https://archive.is/DrGwH), whereas Lovecruft said she began planning the intervention [six months ago](https://archive.is/4lywH#selection-185.0-185.68). Blue appears to be falsely conflating the two events.)
+
+#### <a name="tan-et-al"></a>Emerson Tan, Andrea Shepard, and Meredith Patterson (refuted)
 
 [Emerson Tan](https://archive.is/TEIUh), another computer and network security professional, came forward through an interview with both [**Gizmodo**](https://archive.is/K2tdt) and [**The Daily Dot**](https://archive.is/QZIdh). He says Patterson and Shepard were also "eyewitnesses" to the incident, which occurred in the middle of the night (no date specified other than "[it was the day we arrived at CCC"](https://archive.is/QZIdh#selection-1047.91-1047.123)) during the [2015 **Chaos Communication Congress** (32c3)](https://web.archive.org/web/20160607230238/https://events.ccc.de/congress/2015/wiki/Static:Main_Page) in Hamburg, Germany.
 
