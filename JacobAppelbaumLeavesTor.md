@@ -19,21 +19,19 @@
     8. [Visit to North Korea](#dprk-visit)
     9. [Denunciation of *The Guardian*](#guardian-denunciation)
 2. [The Resignation](#resignation)
-  1. []
-  2. []
-  3. []
-  4. []
-  5. []
-  6. []
-  7. []
-  8. []
-  9. []
-  10. []
-  11. []
-  12. []
-  13. []
-  14. 
-3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
+  1. [First Tor blog post](#first-post)
+  2. [Dingledine letter](#dingledine-letter)
+  3. [Appelbaum stripped of Tor responsibilities](#stripped)
+  4. [Andrea Shepard's "precommitment"](#precommitment)
+  5. [Appelbaum cancels lecture](#lecture)
+  6. [Tor/Appelbaum separation letter](#separation)
+  7. [Patterson denounces weak Tor response](#patterson-denounces)
+  8. [Early reactions](#early-reactions)
+  9. [Second Tor blog post](#second-post)
+  10. [Appelbaum denies allegations](#denial)
+  11. [Tor repeats allegations to the press](#press)
+  12. [Tor board of directors resigns, is replaced](#board)
+3. [The Website and Twitter Accounts](#website-and-twitter-accounts)
   1. []
   2. []
   3. []
@@ -272,7 +270,7 @@ On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it woul
 
 Only six of the seven positions have been filled so far and it wasn't stated what positions the new directors will take.
 
-### The Website and Twitter Accounts
+### <a name="website-and-twitter-accounts></a>The Website and Twitter Accounts
 
 The website [jacobappelbaum.net](https://archive.is/8m4Yk) was created as a victim story bulletin board, with an attached [GitHub repository](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*) run by [an account created on May 26th](https://archive.is/c6sgC) that uses his name and Twitter/ GitHub handle (with the only difference being an extra 'r', this is a form of [cybersquatting](https://archive.is/HTDwb)). Contrary to some suspicions that he had been hacked, his official website is listed on his Twitter profile as [appelbaum.net](https://archive.is/bPSlT#selection-1045.1-1045.15). According to the [registration](https://archive.is/VMYhK) [information](https://archive.is/nMT7M#selection-1219.0-1219.29), the website was created using [**PrivacyProtect**](http://privacyprotect.org/about-privacyprotection/) on May 27th, two days after Appelbaum reportedly stepped down and the same day that [the resignation agreement from Steele is dated](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf). The domain is being [hosted by **GitHub** in San Francisco](https://archive.is/aA6HV) using [GitHub Pages](https://archive.is/W5UtY). The OpenPGP key given as a contact method is named "[Jacob Appelbaum's Victims Collective](https://archive.is/FPrQm)."
 
