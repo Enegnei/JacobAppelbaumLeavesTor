@@ -43,7 +43,7 @@
     4. [Isis Lovecruft as FBI informant?](#isis-fbi-leak)
     5. [Leaker identities](#leakers)
 4. [The Allegations](#allegations)
-  1. [Allegations from the website](#allegations-site)
+  1. [Assertions of victimization on the website](#assertions-victimization-site)
     1. [Sam](#sam)
     2. [River](#river)
     3. [Forest](#forest)
@@ -375,11 +375,14 @@ There has been limited speculation about who the leaker(s) is, though the [gener
 Only five people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton. 
 
 
-### <a name="allegations-site"></a>Allegations from the website
+### <a name="assertions-victimization-site"></a>Assertions of victimization on the website
 
 The website profiles eight separate claims from people who were "[harassed, plagiarized, humiliated, and abused — sexually, emotionally, and physically](https://archive.is/8m4Yk#selection-245.34-245.140)." Initially, half of them were marked as placeholders ([Alice](https://archive.is/NdMrJ#selection-647.0-649.0), [Briar](https://archive.is/ZivH4#selection-647.0-649.0), Phoenix, and Sam), but the stories for "Sam" and "Phoenix" have since been added, along with more stories than the original eight (Kiwi and Nick). All, except for Nick's, are purposely under vague (i.e. anonymized) names. 
 
-Though all of the stories are posted anonymously, three stories (Sam, Forest, Nick) have subsequently claimed by their presumed authors (Alison Macrina, Isis Lovecruft, Nick Farr).
+Though all of the stories are posted anonymously, three stories were subsequently claimed by their presumed authors:
++ Nick Farr (Nick) on [June 5, 2016](https://archive.is/bFXW2)
++ Isis Lovecruft (Forest) on [June 13, 2016](https://archive.is/4lywH)
++ Alison Macrina (Sam) on [June 15, 2016](https://archive.is/cwU9y)
 
 The GitHub copies of the entries are PNG images, the text of which is colored blue in odd places. Initially, all the entries were marked with the same date of December 31st, 2015; since then, newer entries have not only been given different dates but the dates on earlier entries were changed (you can [compare them in the archives](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*)). It is unclear what the date signifies. Synopses of what is alleged (ordered by their dates) on the website are as follows:
 
@@ -387,7 +390,7 @@ The GitHub copies of the entries are PNG images, the text of which is colored bl
 
 "[Sam](https://archive.is/Tn1fy)," who had a "minor romantic interest" in Appelbaum and was persuaded while intoxicated to get in a bathtub with him at his apartment, followed by verbal abuse when they resisted ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
 
-The second is Alison Macrina ([@flexlibris](https://twitter.com/flexlibris)), [founder and director the **Library Freedom Project**](https://archive.is/RZunq), who in a [Medium post](https://archive.is/cwU9y) claimed she submitted the "Sam" story, and that she is also [friends](https://archive.is/cwU9y#selection-323.0-323.37) with "River." She tweeted that she had her ["come to Jesus" moment](https://archive.is/dPnG4#selection-4463.21-4463.99) months ago and that she was "[ashamed it took me so long to figure out what was what](https://archive.is/yQRbF#selection-3645.0-3645.59)." Both she and Shepard were still on [friendly terms](https://archive.is/aGNgk) with him as late as [mid-February 2016](https://archive.is/r7jnL), even though the "Sam" story is dated February 3rd. Macrina may have [visited Appelbaum](https://archive.is/orMqQ) in Berlin sometime at the end of 2014 and was also [there](https://archive.is/RaYRk) as a [Tor Project](https://archive.is/x4z7o) [representative](https://archive.is/mSgA1) for the CIJ Symposium in [March](https://archive.is/muAFe). In between she was a fellow presenter with Appelbaum at the last "[State of the Onion](https://archive.is/6unKs)" talk for the **Chaos Communication Congress** in Hamburg, Germany. Her [partner](https://archive.is/kfA1X) Franklin Bynum ([@frabyn](https://twitter.com/frabyn)), a [criminal defense attorney](https://archive.is/Aonrp) who she '[met](https://archive.is/t8VJT)' in July 2015, [migrated his law firm out of Google Apps](https://archive.is/J5zYE) after [her encouragement](https://archive.is/mhRFb#selection-239.0-239.144) to do so. They [have been](https://archive.is/g1xsR) [together](https://archive.is/dTyqM) [since at least mid-February](https://archive.is/oVCGq), and he [wrote](https://archive.is/NxSJo) "[Decoding Appelbaum](https://archive.is/mQm04)" on June 6th, though neither [disclosed Macrina's involvement](https://archive.is/pL1vi) with the allegations at the time.
+Alison Macrina ([@flexlibris](https://twitter.com/flexlibris)), [founder and director the **Library Freedom Project**](https://archive.is/RZunq), claimed in a [Medium post](https://archive.is/cwU9y) that she had submitted the "Sam" story, and that she is also [friends](https://archive.is/cwU9y#selection-323.0-323.37) with "River." She tweeted that she had her ["come to Jesus" moment](https://archive.is/dPnG4#selection-4463.21-4463.99) months ago and that she was "[ashamed it took me so long to figure out what was what](https://archive.is/yQRbF#selection-3645.0-3645.59)." Both she and Shepard were still on [friendly terms](https://archive.is/aGNgk) with him as late as [mid-February 2016](https://archive.is/r7jnL), even though the "Sam" story is dated February 3rd. Macrina may have [visited Appelbaum](https://archive.is/orMqQ) in Berlin sometime at the end of 2014 and was also [there](https://archive.is/RaYRk) as a [Tor Project](https://archive.is/x4z7o) [representative](https://archive.is/mSgA1) for the CIJ Symposium in [March](https://archive.is/muAFe). In between she was a fellow presenter with Appelbaum at the last "[State of the Onion](https://archive.is/6unKs)" talk for the **Chaos Communication Congress** in Hamburg, Germany. Her [partner](https://archive.is/kfA1X) Franklin Bynum ([@frabyn](https://twitter.com/frabyn)), a [criminal defense attorney](https://archive.is/Aonrp) who she '[met](https://archive.is/t8VJT)' in July 2015, [migrated his law firm out of Google Apps](https://archive.is/J5zYE) after [her encouragement](https://archive.is/mhRFb#selection-239.0-239.144) to do so. They [have been](https://archive.is/g1xsR) [together](https://archive.is/dTyqM) [since at least mid-February](https://archive.is/oVCGq), and he [wrote](https://archive.is/NxSJo) "[Decoding Appelbaum](https://archive.is/mQm04)" on June 6th, though neither [disclosed Macrina's involvement](https://archive.is/pL1vi) with the allegations at the time.
 
 
 #### <a name="river"></a>River
@@ -398,8 +401,7 @@ The second is Alison Macrina ([@flexlibris](https://twitter.com/flexlibris)), [f
 
 "[Forest](https://archive.is/bUw87)," who was propositioned for sex and sexually assaulted while she was sleeping ([February 1st, 2016](https://archive.is/1x40b#selection-647.0-649.0)).
 
-
-The third is Isis Agora Lovecruft ([@isislovecruft](https://twitter.com/isislovecruft)), another [core Tor developer](https://archive.is/yxqlC#selection-395.0-395.15), who [revealed herself](https://archive.is/mmt9h) in a [blog post](https://archive.is/4lywH) as "Forest" on the same day that Macrina claimed to be "Sam." However she ruminates [less about the incident itself](https://archive.is/4lywH#selection-225.73-225.342) and more about when she [tried to resolve the situation six months ago in Valencia](https://archive.is/4lywH#selection-183.0-183.8)...
+Isis Agora Lovecruft ([@isislovecruft](https://twitter.com/isislovecruft)), another [core Tor developer](https://archive.is/yxqlC#selection-395.0-395.15), [revealed herself](https://archive.is/mmt9h) in a [blog post](https://archive.is/4lywH) as "Forest". However she ruminates [less about the incident itself](https://archive.is/4lywH#selection-225.73-225.342) and more about when she [tried to resolve the situation six months previously in Valencia](https://archive.is/4lywH#selection-183.0-183.8)...
 
 > Instead, I had planned to gather people for a secret meeting in Valencia, somewhere calm, neutral, and away from events, like on the beach, invite Jake, and have everyone willing who has ever been sexually assaulted, humiliated, harassed, or felt their boundaries disrespected, by him to take turns telling a few sentences about what he did to them and how it made them feel. Then we would tell Jake that, as his friends, we thought this needed to stop, and that we’d either deliver a list of the stories to The Tor Project and other organisations, or make all the stories public, if he refused to hold himself accountable for his actions or his behaviour did not appear to improve. In planning this secret meeting, I tried to determine what would cause Jake to perpetually disrespect other people like this, and if there were any positive things we could do to help him.
 
@@ -416,7 +418,6 @@ She has [no forgiveness](https://archive.is/OZjM5) for the women who, in her vie
 In November 2015, [the FBI allegedly attempted to contact her](https://archive.is/uxlFJ) several times ([leaving a card](https://archive.is/uxlFJ#selection-129.36-129.215) at her family's home, [calling her mother's personal cell phone number](https://archive.is/uxlFJ#selection-175.566-179.319), [telling her lawyer that she should call them](https://archive.is/uxlFJ#selection-207.0-217.112) to [give her "opinion" on some documents](https://archive.is/uxlFJ#selection-321.259-325.40), which was [later retracted via voicemail](https://archive.is/uxlFJ#selection-375.219-383.361)). They apparently contacted her again at the end of April 2016, [with the added threat of a subpoena](https://archive.is/uxlFJ#selection-435.0-443.26), though they claimed she was not the target of their unspecified investigation.
 
 > The FBI has contacted my lawyer again. This time, they said, “She should meet with one of our agents in San Francisco to talk. Otherwise, are you the point of contact for serving a subpoena? She’s not the target of investigation, but, uh… we uh… need her to clear up her involvement or… uh… potential involvement in a matter.”
-
 
 #### <a name="daniel"></a>Daniel
 
@@ -438,9 +439,9 @@ In November 2015, [the FBI allegedly attempted to contact her](https://archive.i
 
 #### <a name="nick"></a>Nick
 
-*nick summary here*
+"[Nick](https://archive.is/vekwa)," who was subjected to verbal abuse and intimidation at a hacker event ([January 25, 2016](https://archive.is/qBIJV#selection-647.0-649.0)).
 
-The [first](https://archive.is/bFXW2) was [Nick Farr](https://archive.is/9kjWs), who is one of three to claim authorship of [a story](https://archive.is/vekwa) on the victims website. His entry is now dated [January 25th, 2016](https://archive.is/qBIJV#selection-647.0-649.0). He alleges a span of incidents of verbal harassment which occurred during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page), where he was an organizer of the Lightning Talks; Norton [says](https://archive.is/thLMm) she witnessed it. After approving a proposal for a talk which was going to argue that Appelbaum was a US Intelligence Operative, he was chastised first via email and then in person multiple times by both Appelbaum and "important people in the CCC." 
+[Nick Farr](https://archive.is/9kjWs) was the [first](https://archive.is/bFXW2) person to claim authorship of a story, [Nick](https://archive.is/vekwa), on the victims website. He alleges a span of incidents of verbal harassment which occurred during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page), where he was an organizer of the Lightning Talks; Norton [says](https://archive.is/thLMm) she witnessed it. After approving a proposal for a talk which was going to argue that Appelbaum was a US Intelligence Operative, he was chastised first via email and then in person multiple times by both Appelbaum and "important people in the CCC." 
 
 > [Jake demanded all the records I had received from this person. Jake also had the CCC edit the 30c3 wiki database to eliminate any trace of the offending talk.](https://archive.is/bFXW2#selection-357.161-357.319)
 
