@@ -6,7 +6,24 @@
 
 ***
 1. [The History](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)
+  1. Early life
+    1. [Rolling Stone biography (2010)]
+  2. Career
+    1. [Joins Tor Project]
+    2. [Researcher at University of Washington]
+    3. [Asher Wolf incident]
+    4. [Plagiarism claim]
+    5. [Defence of Andrea Shepard]
+    6. [Suspension fro Tor Project]
+    7. [Visit to North Korea]
+    8. [Denunciation of The Guardian]
 2. [The Resignation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
+  1. []
+  2. []
+  3. []
+  4. []
+  5. []
+ 
 3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
