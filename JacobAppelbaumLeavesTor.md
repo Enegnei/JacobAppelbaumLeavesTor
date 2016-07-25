@@ -5,11 +5,11 @@
 **Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here. This repository is not published or represented, such as through "vanity" accounts, anywhere else online - any individual or media organization who republishes, mentions, or promotes this investigation repository is not in any way affiliated with me unless expressly stated otherwise [here](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/README.md).** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
 
 ***
-1. [The History](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)
+1. [Background](#background)
   1. Early life
     1. [Rolling Stone biography (2010)]
   2. Career
-    1. [Joins Tor Project]
+    1. [Joins Tor Project] ()
     2. [Researcher at University of Washington]
     3. [Asher Wolf incident]
     4. [Plagiarism claim]
@@ -23,12 +23,30 @@
   3. []
   4. []
   5. []
- 
 3. [The Website and Twitter Accounts](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
+  1. []
+  2. []
+  3. []
+  4. []
+  5. []
 4. [The Allegations](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
+  1. []
+  2. []
+  3. []
+  4. []
+  5. []
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
+  1. []
+  2. []
+  3. []
+  4. []
+  5. []
 
-### The History
+## <a name="background"></a>Background
+
+### Early life
+
+#### Rolling Stone biography (2010)
 
 `Note: This section is for events or statements leading up to Appelbaum's resignation which may be relevant.`
 
@@ -141,7 +159,7 @@ On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY
 ![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 
-### The Resignation
+## The Resignation
 
 On June 2nd, 2016, Tor Project [Executive Director](https://archive.is/Q2TTK#selection-767.0-767.32) [Shari Steele](https://archive.is/B8rRs) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
 
@@ -259,7 +277,7 @@ There has been limited speculation about who the leaker(s) is, though the [gener
 
 The [@VictimsOfJake](https://archive.is/pXStd) account [shared another link](https://archive.is/SAH61) on the night of June 27th, which was a [pastebin of their response](https://archive.is/WtUjz) to the [first encrypted pastebin](https://archive.is/OIK0V), which they told **Cryptome** was "[bullshit](https://archive.is/cyx6Z#selection-3171.29-3171.46)." The response oddly begins with an [assumption about the author's age, sex, and drug inexperience](https://archive.is/WtUjz#selection-215.190-215.321) based on the "[style](https://archive.is/WtUjz#selection-215.203-215.208)" of the writing, even though basic textual analysis of vocabulary puts their own writing style at a lower grade-level quality than what they're criticising (they casually use words like "fishy," "shill," and include an emoji, which "[a young person](https://archive.is/WtUjz#selection-215.306-215.320)" is more prone to use).
 
-### The Allegations
+## The Allegations
 
 `Warning: Many of these stories haven't been verified or vouched for! They are here to document allegations.`
 
@@ -370,7 +388,7 @@ Neither Patterson nor Shepard have revoked their statements, though they have br
 
 > [Frankly, I can't read neurotypical human interactions well enough to reliably tell if someone's upset or not; I was relying entirely](https://archive.is/sStV1#selection-6053.1-6053.133) [on](https://archive.is/sStV1#selection-6467.4-6477.112) [@Emerson_T's](https://archive.is/nBDWm) [interpretation of events that night, and also had the least clear view of anyone involved, since I was trying](https://archive.is/sStV1#selection-6467.4-6477.112) [to avoid being spotted by him.](https://archive.is/sStV1#selection-6861.4-6861.34) [This argument over what did or did not actually happen that night, though, is entirely orthogonal to the actual allegations against](https://archive.is/sStV1#selection-7211.1-7211.132) [Jake which are the only reason the incident in question ever got any attention in the first place.](https://archive.is/sStV1#selection-7565.4-7565.102)
 
-### The Public Reaction
+## The Public Reaction
 
 As a [result](https://archive.is/q2zil) of the allegations, Appelbaum has been [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately." [Oxblood Ruffian](https://archive.is/GxVPv) (pseudonym), who has been a cDc member since April 1996, released their own individual statement on Appelbaum being removed from the group and how he "[used our name to advance his career and gain entrance to circles that might have been closed to him](https://archive.is/0fJev)" without actually contributing anything. He also says "[preying upon the vulnerable is an ungendered pathology](https://archive.is/0fJev#selection-381.355-381.410)" and defends the right of the victims to remain anonymous.
 
