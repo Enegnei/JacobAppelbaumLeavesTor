@@ -56,7 +56,7 @@
   2. [Other claimed victims of misconduct](#other-claimed-victims)
     1. [Leigh Honeywell](#honeywell)
     2. [Ásta Guðrún Helgadóttir](#helgadottir) 
-  3. [Persons claimed witnesses of misconduct](#other-claimed-witnesses)
+  3. [Claimed witnesses of misconduct](#claimed-witnesses)
     1. [Violet Blue](#blue)
     2. [Emerson Tan, Andrea Shepard, and Meredith Patterson (refuted)](#tan-et-al)
 5. [The Public Reaction](#public-reaction)
@@ -478,7 +478,7 @@ The fifth is [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Iceland
 
 > [For me what did it when he jumped naked in my and my exes bed and asked for a three some. With a hard on.](https://archive.is/3x87O) [Because jumping naked in other couples bed begging for a three some is... normal? Some etiquette I wasn't aware](https://archive.is/KgdS1) [of. It didn't feel nice. It didn't feel right. Beside groping and shit. That was worse somehow.](https://archive.is/fpAqc)
 
-### <a name="other-claimed-winesses"></a>Other claimed witnesses of misconduct
+### <a name="claimed-winesses"></a>Claimed witnesses of misconduct
 
 #### <a name="blue"></a>Violet Blue
 
