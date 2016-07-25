@@ -188,7 +188,7 @@ On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY
 
 ## <a name="resignation"></a>The Resignation
 
-### <a name="first-tor-blog-post"></a>First Tor blog post
+### <a name="first-post"></a>First Tor blog post
 
 On June 2nd, 2016, Tor Project [Executive Director](https://archive.is/Q2TTK#selection-767.0-767.32) [Shari Steele](https://archive.is/B8rRs) posted a ["transition" update](https://web.archive.org/web/20160603213021/https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project) on the organization's blog:
 
