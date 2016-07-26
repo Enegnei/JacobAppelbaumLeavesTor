@@ -214,13 +214,13 @@ On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it woul
 
 ### Tor Project Concludes Investigation
 
-On July 25th, the Tor Project [announced via **Gizmodo** that their two-month "external investigation" had concluded](https://web.archive.org/web/20160725231550/http://gizmodo.com/tor-concludes-applebaum-investigation-will-release-new-1784235523?rev=1469454977173). Steele did not give details on what the findings or conclusions were, only saying that they would "release the general findings of the investigation as well as new guidelines regarding sexual harassment" "exclusively to *The New York Times* later this week."
+On July 25th, the Tor Project [announced via **Gizmodo** that their two-month "external investigation" had concluded](https://web.archive.org/web/20160725231550/http://gizmodo.com/tor-concludes-applebaum-investigation-will-release-new-1784235523?rev=1469454977173). Steele did not give details on what the findings or conclusions were, only saying that they would "[release the general findings of the investigation as well as new guidelines regarding sexual harassment](https://archive.is/4JWMx#selection-1393.80-1393.183)" "[exclusively to *The New York Times* later this week](https://archive.is/4JWMx#selection-1549.52-1555.17)."
 
 > Steele told Gizmodo that the Tor Project has no plans to bring any of the sexual assault claims to law enforcement, but said that she can’t speak for the individual victims. The external probe, conducted by a lawyer who specializes in sexual assault investigations, interviewed more than six people who claimed to be victims of Appelbaum’s abuse or to have witnessed it. According to one woman interviewed as part of the probe, the investigator conducted multiple interviews over a period of two months.
 
 > “We were especially looking at the accusations against Jacob Appelbaum and also looking to see if there were any broader long term implications for the broader community,” Steele told Gizmodo. She said the investigation also looked at whether the Tor Project held any liability.
 
-**Gizmodo** claims to have also spoken with an anonymous source "with knowledge of the investigation."
+**Gizmodo** claims to have also spoken with an anonymous source "[with knowledge of the investigation](https://archive.is/4JWMx#selection-1543.123-1543.158)."
 
 > People inside the Tor Project are still deliberating what Tor’s statement regarding the report will say, though one source with knowledge of the investigation said that the report will not use the word “rape.”
 
