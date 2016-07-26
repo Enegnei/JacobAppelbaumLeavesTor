@@ -184,6 +184,16 @@ On July 13th, the Tor Project [announced](https://archive.is/IU6S7) that it woul
 
 Only six of the seven positions have been filled so far and it wasn't stated what positions the new directors will take.
 
+On July 25th, Tor [announced via **Gizmodo** that their two-month "external investigation" had concluded](https://web.archive.org/web/20160725231550/http://gizmodo.com/tor-concludes-applebaum-investigation-will-release-new-1784235523?rev=1469454977173). Steele did not give details on what the findings or conclusions were, only saying that they would "release the general findings of the investigation as well as new guidelines regarding sexual harassment" "exclusively to *The New York Times* later this week."
+
+> Steele told Gizmodo that the Tor Project has no plans to bring any of the sexual assault claims to law enforcement, but said that she can’t speak for the individual victims. The external probe, conducted by a lawyer who specializes in sexual assault investigations, interviewed more than six people who claimed to be victims of Appelbaum’s abuse or to have witnessed it. According to one woman interviewed as part of the probe, the investigator conducted multiple interviews over a period of two months.
+
+> “We were especially looking at the accusations against Jacob Appelbaum and also looking to see if there were any broader long term implications for the broader community,” Steele told Gizmodo. She said the investigation also looked at whether the Tor Project held any liability.
+
+**Gizmodo** claims to have also spoken with an anonymous source "with knowledge of the investigation."
+
+> People inside the Tor Project are still deliberating what Tor’s statement regarding the report will say, though one source with knowledge of the investigation said that the report will not use the word “rape.”
+
 ### The Website and Twitter Accounts
 
 The website [jacobappelbaum.net](https://archive.is/8m4Yk) was created as a victim story bulletin board, with an attached [GitHub repository](https://archive.is/https://github.com/ioerrror/jacobappelbaum.net*) run by [an account created on May 26th](https://archive.is/c6sgC) that uses his name and Twitter/ GitHub handle (with the only difference being an extra 'r', this is a form of [cybersquatting](https://archive.is/HTDwb)). Contrary to some suspicions that he had been hacked, his official website is listed on his Twitter profile as [appelbaum.net](https://archive.is/bPSlT#selection-1045.1-1045.15). According to the [registration](https://archive.is/VMYhK) [information](https://archive.is/nMT7M#selection-1219.0-1219.29), the website was created using [**PrivacyProtect**](http://privacyprotect.org/about-privacyprotection/) on May 27th, two days after Appelbaum reportedly stepped down and the same day that [the resignation agreement from Steele is dated](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf). The domain is being [hosted by **GitHub** in San Francisco](https://archive.is/aA6HV) using [GitHub Pages](https://archive.is/W5UtY). The OpenPGP key given as a contact method is named "[Jacob Appelbaum's Victims Collective](https://archive.is/FPrQm)."
