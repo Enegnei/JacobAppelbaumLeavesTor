@@ -529,7 +529,11 @@ Neither Patterson nor Shepard have revoked their statements, though they have br
 
 ## <a name="public-reaction"></a>The Public Reaction
 
+### <a name="cdc"></a>Repudiation by Cult of the Dead Cow (cDc)
+
 As a [result](https://archive.is/q2zil) of the allegations, Appelbaum has been [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately." [Oxblood Ruffian](https://archive.is/GxVPv) (pseudonym), who has been a cDc member since April 1996, released their own individual statement on Appelbaum being removed from the group and how he "[used our name to advance his career and gain entrance to circles that might have been closed to him](https://archive.is/0fJev)" without actually contributing anything. He also says "[preying upon the vulnerable is an ungendered pathology](https://archive.is/0fJev#selection-381.355-381.410)" and defends the right of the victims to remain anonymous.
+
+### <a name="fpf"></a>Repudiation by Freedom of the Press Foundation
 
 On June 8th, **Freedom of the Press Foundation**'s co-founder and executive director [Trevor Timm](https://archive.is/LRcD9) [announced](https://archive.is/JDoO8) that Appelbaum was also [removed](https://archive.is/Eyzzi) from his [position](https://archive.is/lUiZL#selection-401.0-401.15) on their volunteer technical advisory board.
 
@@ -537,7 +541,11 @@ On June 8th, **Freedom of the Press Foundation**'s co-founder and executive dire
 
 [Former](https://archive.is/YT5Mc#selection-381.0-381.15) [systems administrator](https://web.archive.org/web/20160328165000/https://freedom.press/about/staff/kevin-gallagher) [Kevin Gallagher](https://archive.is/87FaO) (who [announced](https://archive.is/XnqrV) he was [leaving **Freedom of the Press Foundation**](https://archive.is/ST3kN) on June 24th) said that their tech advisory board "[is not the most active thing. Jake had not even communicated with them in several years](https://archive.is/xFMNc)."
 
+### <a name="purism"></a>Repudiation by Purism
+
 **Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
+
+### <a name="ccc"></a>Repudiation by Chaos Computer Club
 
 On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://archive.is/tcgqB)" which did not directly mention Appelbaum or the allegations, but stated that anyone who violates the [ethical principles](https://archive.is/tcgqB#selection-185.0-195.92) of their "galatic organization" is "not welcome."
 
@@ -547,9 +555,13 @@ On June 9th, the **Chaos Computer Club** (CCC) released a "[reminder](https://ar
 
 Upon the reminder's release it was not clear whether Appelbaum was henceforth not welcome or if they intended to investigate, or already had investigated, the reports of harassment at their events. On June 17th, they [clearly stated that Appelbaum is no longer welcome](https://archive.is/peoaA).
 
+### <a name="noisebridge"></a>Repudiation by Noisebridge
+
 On June 10th, [**Noisebridge**](https://archive.is/ZQZjb), an educational hackerspace in San Francisco, released a PGP-signed [statement](https://archive.is/1Uv7E#selection-51.472-51.573) that Appelbaum was "no longer welcome in our community, either in its physical or online spaces." On June 21st, they [officially banned him](https://archive.is/bQDcq#selection-107.0-107.1266) through community consensus after it was proposed by [San Francisco Bay Area developer](https://hackerbots.net/~tdfischer/cv.pdf) [Torrie](https://archive.is/I6n8n) [Fischer](https://archive.is/5jlY9) ([@tdfischer_](https://archive.is/SSmIg#selection-9425.0-9453.3)). [Rubin Starset](https://archive.is/LOAdI), a founding member of **Noisebridge**, also [published](https://archive.is/gydhN) [a longer statement](https://archive.is/0JXDc) on how the community's inclusive culture had to be remedied to prevent such harassment and abuse in the future. Appelbaum [co-founded](https://archive.is/O7gQd#selection-2189.162-2193.1) [**Noisebridge**](https://archive.is/EPz1X) with security expert [Mitch Altman](https://archive.is/lIJMY) (Sassaman was also "[mildly involved](https://archive.is/7Z94w#selection-3163.27-3163.42)" despite being [out of the country](https://archive.is/OCNJk)) within the summer and [fall](https://archive.is/3dNbK) of 2007 as an extension of the **Chaos Computer Club**. He is still listed as a [user](https://archive.is/QVDgl) on their '[People](https://archive.is/7MsIa#selection-1213.0-1213.13)' page (though note it is not a membership list) and he is also the [domain owner](https://archive.is/6fMei#selection-773.17-773.32) of their website [noisebridge.net](https://archive.is/7JD6Y).
 
 ![Noisebridge ban](https://pbs.twimg.com/media/Clh5V_7UgAAWbeW.jpg)
+
+### <a name="support-statement"></a>Joint statement of support
 
 On June 11th, a group of women consisting of "friends, colleagues, co-workers or partners" of Appelbaum [released](https://archive.is/ochsL) a [statement](https://web.archive.org/web/20160611153425/https://assets.documentcloud.org/documents/2858953/Statement-Appelbaum-11-06.pdf) criticising the "coordinated and one-sided attack on his character and work."
 
@@ -573,7 +585,11 @@ They later added a [tweet prompt](https://archive.is/ymmJL):
 
 > In Solidarity with Jacob Appelbaum [@ioerror](https://twitter.com/ioerror) and on the Side of Justice for All. We urge others to add their names to https://ourresponse.org/
 
+### <a name="nerad"></a>Support statement by Shava Nerad
+
 Though [Shava Nerad](https://archive.is/3gW7r), [Tor Project's founding executive director](https://archive.is/Fa1wX#selection-1471.1-1471.57) who [left](https://archive.is/vzidN#selection-4891.1-4891.79) around the same time [that Appelbaum first joined](https://archive.is/BwxdB#selection-5425.1-5425.112), was [not one of the signatories](https://archive.is/8CJYx#selection-5281.1-5281.73), she expressed [a similar sentiment](https://archive.is/ae5EQ) [very early on](https://archive.is/crtyC) when the allegations were first being made, that she does not believe [shaming](https://archive.is/mghYZ#selection-4975.70-4975.77) him [so soon](https://archive.is/JeBHl#selection-5305.94-5305.123) is a "[sustainable holding pattern](https://archive.is/lwl2E#selection-4661.60-4661.87)."
+
+### <a name="freedom-festival"></a>Repudiation by Internet Freedom Festival
 
 On June 15th, **The Daily Dot** published [information](https://archive.is/NRQB4#selection-4629.0-4629.23) from [Tom Lowenthal](https://web.archive.org/web/20150326060100/http://tomlowenthal.com/), currently staff technologist for the [**Committee to Protect Journalists** (CPJ)](https://archive.is/Pr5hq#selection-6449.0-6449.18) and a track lead for journalism & media at the [**Internet Freedom Festival**](https://archive.is/6nauY#selection-3111.0-3111.31), which in 2016 was held [March 1-6th](https://archive.is/C1tid). Lowenthal says that the organizers of the **Internet Freedom Festival** were aware of the allegations prior to the event and "[decided in advance that Appelbaum would not be allowed at the conference or inside the venue and had a contingency plan in place in case he tried to participate](https://archive.is/emaP9#selection-1057.0-1057.389)." 
 
@@ -581,20 +597,31 @@ On June 15th, **The Daily Dot** published [information](https://archive.is/NRQB4
 
 It isn't clear how long [Lowenthal](https://archive.is/r3Bqn) has [personally had knowledge of the allegations](https://archive.is/coBSA#selection-291.47-307.212) about Appelbaum's behavior, or how the **Internet Freedom Festival** became aware of them more than three months prior to the announcement of Appelbaum's resigation from the Tor Project.
 
+### <a name="men"></a>Criticism of tardy repudiation by men
+
 [Randi Lee Harper](https://archive.is/byGrf#selection-47425.0-47494.1), a [San Francisco Bay Area activist for online abuse prevention](https://archive.is/agPio), criticised the men who only now were coming forward to vouch for accounts of Appelbaum's behavior they had witnessed:
 
 > [All these men are coming forward with stories of how they saw stuff. Good for you. Where the fuck were you? Why didn't you do something?](https://archive.is/HYub2#selection-3919.0-3919.136) [You will not get a "good lil ally" badge for coming forward to confirm stories now. You waited for women to take the risk. Cowards.](https://archive.is/HYub2#selection-4327.0-4327.131)
 
-On June 18th, Appelbaum was [removed](https://archive.is/XHMBl) as a [developer at the **Debian Project**](https://archive.is/zQ281#selection-14885.0-14901.15). [Russell](https://archive.is/YGtex) [Coker](https://archive.is/BzFIy), a Melbourne-based [Debian developer](https://archive.is/zQ281#selection-14961.0-14977.13), has [written to the Linux Australia mailing list](https://archive.is/97YS4) requesting that Appelbaum be barred from attending the Australian National Linux Conference (LCA) and that the group release a public statement. On June 22nd [Hugh Blemings](https://archive.is/WPBVw), [president of Linux Australia](https://archive.is/qBOUy), released a [statement](https://archive.is/eAX8g) from himself and the council on the mailing list saying that they were aware of the recent allegations made but they [had not received any reports of misconduct during the 2012 conference](https://archive.is/eAX8g#selection-65.238-65.399) when [Appelbaum was a keynote speaker](https://archive.is/IU6jO). 
+### <a name="debian"></a>Repudiation by Debian Project
+
+On June 18th, Appelbaum was [removed](https://archive.is/XHMBl) as a [developer at the **Debian Project**](https://archive.is/zQ281#selection-14885.0-14901.15). 
+
+### <a name="australia"></a>Repudiation by Linux Australia
+
+[Russell](https://archive.is/YGtex) [Coker](https://archive.is/BzFIy), a Melbourne-based [Debian developer](https://archive.is/zQ281#selection-14961.0-14977.13), has [written to the Linux Australia mailing list](https://archive.is/97YS4) requesting that Appelbaum be barred from attending the Australian National Linux Conference (LCA) and that the group release a public statement. On June 22nd [Hugh Blemings](https://archive.is/WPBVw), [president of Linux Australia](https://archive.is/qBOUy), released a [statement](https://archive.is/eAX8g) from himself and the council on the mailing list saying that they were aware of the recent allegations made but they [had not received any reports of misconduct during the 2012 conference](https://archive.is/eAX8g#selection-65.238-65.399) when [Appelbaum was a keynote speaker](https://archive.is/IU6jO). 
 
 > As facts in this matter become clear Linux Australia will consider what, if any, action is appropriate in relation to Mr Appelbaum’s potential involvement in future Linux Australia activities.
+
+On July 1st, Blemings released a [second statement officially banning Appelbaum](https://archive.is/YiEM5#selection-59.749-59.962) from Linux Australia events.
+
+### <a name="rock-stars"></a>Recommendations for preventing "rock stars"
 
 On June 21st, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://archive.is/3KfaP), and [Mary Gardiner](https://archive.is/5FjVu) published a list of recommendations for communities on [how to "prevent 'rock stars'"](https://archive.is/GAl9X). However there are [concerns](https://archive.is/Ciz5a#selection-3601.1-3650.1) that based on Aurora's [reaction to Kobeissi](https://archive.is/8pjdK#selection-7227.1-7227.92) and [others](https://archive.is/RhwaF#selection-4457.0-4506.1), she belongs to the same '[rock star](https://archive.is/qXNwS)' mentality she is supposedly condemning. On June 24th, [McGill University professor](https://archive.is/bGBJx) [Gabriella Coleman](https://archive.is/jmDj5) joined Lovecruft and Macrina in praising the Tor Project for how "[action was taken relatively swiftly by Shari Steele](https://archive.is/5GvrC#selection-357.96-357.147)." She has not disclosed whether she knew about her [upcoming appointment to the Tor Project board of directors](https://archive.is/L1iIh#selection-211.0-213.1014) at the time the blog post was written.
 
 > [I have known Jacob for 10 + years and it was only when the woman came forward in the Tor project that I had ever heard these specific sexual assault accusations.](https://archive.is/5GvrC#selection-461.59-461.220)
 
-
-On July 1st, Blemings released a [second statement officially banning Appelbaum](https://archive.is/YiEM5#selection-59.749-59.962) from Linux Australia events.
+### <a name="lucky"></a>Departure in protest by Tor veteran Lucky Green
 
 On July 16th, Tor directory authority operator '[Lucky Green](https://archive.is/sYloW)' announced that they would be shutting down their Dutch-based [bridge](https://archive.is/LhRoL) authority "[Tonga](https://archive.is/XwPVP)" as well as "[a number of fast Tor relays](https://archive.is/CYkMj#selection-427.40-427.67)."
 
@@ -604,6 +631,8 @@ Once "[Tonga](https://archive.is/uU7Ft)" is removed there will be eight director
 
 ![Hahn email on dir/bridge auth](https://pbs.twimg.com/media/CnpqIj6W8AQofhc.jpg)
 
+### <a name="defacement"></a>Defacement of apartment
+
 [M.C. McGrath](https://archive.is/ke9Yv), founder of the [non-profit **Transparency Toolkit**](https://archive.is/PkZzu), shared a [picture](https://archive.is/apZ0h) of the side of a building which had been graffitied to say "*A rapist lives here | ein Vergewaltiger wohnt hier*!" with an arrow pointing to the middle window. This targeting is reminiscent of [1970s Manhattan feminists](https://books.google.com/books?id=kpNarH7t9CkC&pg=PA289&lpg=PA289&dq=%22a+rapist+lives+here%22&source=bl&ots=WoxzxaSDm5&sig=kINLSemfTubvNb5_7SkgoRpgfas&hl=en&sa=X&ved=0ahUKEwiw55u0uMXNAhVFWRQKHVfFBeEQ6AEIKTAC#v=onepage&q=%22A%20Rapist%20Lives%20Here%22&f=true):
 
 > **Lutz, Mary E.** (1949 - ) became a member of The Feminists (1972) in NYC, a group that wrote and published tracts against marriage, for man-hating, and for re-establishing matriarchy. Members also conducted actions and gave speeches advocating political education and direct action. "Once I gave a talk at Dartmouth College in which I shocked students by proclaiming women should consider aborting male fetuses, a remark for which I paid dearly," she says. In 1973, TF targeted Manhattan rapists by identifying their workplaces and homes, and stenciling "A Rapist Lives Here" in red paint on buildings and sidewalks.
@@ -612,7 +641,9 @@ McGrath [said](https://archive.is/YgtDs) this was Appelbaum's house in Berlin, G
 
 ![defaced building](https://pbs.twimg.com/media/Ckm-FkAWgAAJzEc.jpg)
 
-Though he also did not directly mention Appelbaum by name or the allegations, [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26) where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
+### <a name="djb"></a>Defense of due process by Daniel J. Bernstein
+
+Though he also did not directly mention Appelbaum by name or the allegations, noted cryptographer [Daniel J. Bernstein](https://web.archive.org/web/20160607185552/https://twitter.com/hashbreaker), professor of mathematics and computer science at the [**Eindhoven University of Technology**](https://archive.is/7muWD#selection-18219.1-18219.26), where Appelbaum is currently studying, published [a blog post](https://archive.is/NPmvQ) warning of the consequences of skirting due process.
 
 >  Is it really so hard to recognize both of these directions of error? If I prejudge and punish alleged culprits who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are false**. If I prejudge and punish accusers who have not had their day in court, then I will inevitably punish some innocent people: the unfortunate reality is that **many accusations of crimes are true**.
 
