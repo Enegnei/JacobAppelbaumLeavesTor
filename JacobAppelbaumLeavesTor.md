@@ -60,11 +60,20 @@
     1. [Violet Blue](#blue)
     2. [Emerson Tan, Andrea Shepard, and Meredith Patterson (refuted)](#tan-et-al)
 5. [The Public Reaction](#public-reaction)
-  1. [](#)
-  2. [](#)
-  3. [](#)
-  4. [](#)
-  5. [](#)
+  1. [Repudiation by Cult of the Dead Cow](#cdc)
+  2. [Repudiation by Freedom of the Press Foundation](#fpf)
+  3. [Repudiation by Purism](#purism)
+  4. [Repudiation by Chaos Computer Club](#ccc)
+  5. [Repudiation by Noisebridge](#noisebridge)
+  6. [Joint statement of women supporters](#support-statement)
+  7. [Support statement by Shava Nerad](#nerad)
+  8. [Criticism of tardy repudiation by men](#men)
+  9. [Repudiation by Debian Project](#debian)
+  10. [Repudiation by Linux Australia](#australia)
+  11. [Recommendations for preventing "rock stars"](#rock-stars)
+  12. [Departure in protest by Tor veteran Lucky Green](#lucky)
+  13. [Defacement of apartment](#defacement)
+  14. [Defense of due process by Daniel J. Bernstein](#djb)
 
 ## <a name="background"></a>Background
 
@@ -529,7 +538,7 @@ Neither Patterson nor Shepard have revoked their statements, though they have br
 
 ## <a name="public-reaction"></a>The Public Reaction
 
-### <a name="cdc"></a>Repudiation by Cult of the Dead Cow (cDc)
+### <a name="cdc"></a>Repudiation by Cult of the Dead Cow
 
 As a [result](https://archive.is/q2zil) of the allegations, Appelbaum has been [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately." [Oxblood Ruffian](https://archive.is/GxVPv) (pseudonym), who has been a cDc member since April 1996, released their own individual statement on Appelbaum being removed from the group and how he "[used our name to advance his career and gain entrance to circles that might have been closed to him](https://archive.is/0fJev)" without actually contributing anything. He also says "[preying upon the vulnerable is an ungendered pathology](https://archive.is/0fJev#selection-381.355-381.410)" and defends the right of the victims to remain anonymous.
 
@@ -561,7 +570,7 @@ On June 10th, [**Noisebridge**](https://archive.is/ZQZjb), an educational hacker
 
 ![Noisebridge ban](https://pbs.twimg.com/media/Clh5V_7UgAAWbeW.jpg)
 
-### <a name="support-statement"></a>Joint statement of support
+### <a name="support-statement"></a>Joint statement of women supporters
 
 On June 11th, a group of women consisting of "friends, colleagues, co-workers or partners" of Appelbaum [released](https://archive.is/ochsL) a [statement](https://web.archive.org/web/20160611153425/https://assets.documentcloud.org/documents/2858953/Statement-Appelbaum-11-06.pdf) criticising the "coordinated and one-sided attack on his character and work."
 
@@ -589,7 +598,7 @@ They later added a [tweet prompt](https://archive.is/ymmJL):
 
 Though [Shava Nerad](https://archive.is/3gW7r), [Tor Project's founding executive director](https://archive.is/Fa1wX#selection-1471.1-1471.57) who [left](https://archive.is/vzidN#selection-4891.1-4891.79) around the same time [that Appelbaum first joined](https://archive.is/BwxdB#selection-5425.1-5425.112), was [not one of the signatories](https://archive.is/8CJYx#selection-5281.1-5281.73), she expressed [a similar sentiment](https://archive.is/ae5EQ) [very early on](https://archive.is/crtyC) when the allegations were first being made, that she does not believe [shaming](https://archive.is/mghYZ#selection-4975.70-4975.77) him [so soon](https://archive.is/JeBHl#selection-5305.94-5305.123) is a "[sustainable holding pattern](https://archive.is/lwl2E#selection-4661.60-4661.87)."
 
-### <a name="freedom-festival"></a>Repudiation by Internet Freedom Festival
+### <a name="men"></a>Criticism of tardy repudiation by men
 
 On June 15th, **The Daily Dot** published [information](https://archive.is/NRQB4#selection-4629.0-4629.23) from [Tom Lowenthal](https://web.archive.org/web/20150326060100/http://tomlowenthal.com/), currently staff technologist for the [**Committee to Protect Journalists** (CPJ)](https://archive.is/Pr5hq#selection-6449.0-6449.18) and a track lead for journalism & media at the [**Internet Freedom Festival**](https://archive.is/6nauY#selection-3111.0-3111.31), which in 2016 was held [March 1-6th](https://archive.is/C1tid). Lowenthal says that the organizers of the **Internet Freedom Festival** were aware of the allegations prior to the event and "[decided in advance that Appelbaum would not be allowed at the conference or inside the venue and had a contingency plan in place in case he tried to participate](https://archive.is/emaP9#selection-1057.0-1057.389)." 
 
