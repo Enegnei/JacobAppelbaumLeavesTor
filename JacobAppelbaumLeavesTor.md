@@ -224,7 +224,7 @@ On July 25th, the Tor Project [announced via **Gizmodo** that their two-month "e
 
 > People inside the Tor Project are still deliberating what Tor’s statement regarding the report will say, though one source with knowledge of the investigation said that the report will not use the word “rape.”
 
-On July 27th, Steele [announced directly from the Tor blog](https://archive.is/lkywt) that the investigation had concluded. Due to the "[sensitive](https://archive.is/lkywt#selection-121.0-121.36)" nature of the information, she did not disclose who was involved in the investigation or clarify what "unwanted sexually aggressive behavior" was found to have occurred.
+On [July 27th](https://web.archive.org/web/20160727185617/https:/twitter.com/torproject/status/758326879673724928), Steele [announced directly from the Tor blog](https://archive.is/lkywt) that the investigation had concluded. Due to the "[sensitive](https://archive.is/lkywt#selection-121.0-121.36)" nature of the information, she did not disclose who was involved in the investigation or clarify what "unwanted sexually aggressive behavior" was found to have occurred.
 
 > "... [A number of people have come forward with first-person accounts and other information. The Tor Project hired a professional investigator, and she interviewed many individuals to determine the facts concerning the allegations. The investigator worked closely with me and our attorneys, helping us to understand the overall factual picture as it emerged](https://archive.is/lkywt#selection-117.12-117.364).
 
@@ -232,13 +232,17 @@ On July 27th, Steele [announced directly from the Tor blog](https://archive.is/l
 
 Steele also claims that they found "two additional people as having engaged in inappropriate conduct, and they are no longer involved with the Tor Project." She did not identify these individuals or what their "inappropriate conduct" consisted of, only telling **The New York Times** that they "[had also been involved in the incidents](https://archive.is/X6lAf#selection-2157.88-2157.264)" and "[we won’t tolerate this behavior anymore](https://archive.is/X6lAf#selection-2243.44-2243.83)." [Krauss was contacted directly on the subject by **Ars Technica**](https://web.archive.org/web/20160727172736/http://arstechnica.com/tech-policy/2016/07/tor-inquiry-many-people-reported-being-humiliated-by-appelbaum/) but she also [refused to give their names](https://archive.is/aLPTA#selection-2163.0-2169.80).
 
-[Technology reporter](https://web.archive.org/web/20160727172129/http://topics.nytimes.com/top/reference/timestopics/people/p/nicole_perlroth/index.html?inline=nyt-per) [Nicole Perlroth](https://web.archive.org/web/20160727171541/https://twitter.com/nicoleperlroth) covered the conclusion of the investigation for **The New York Times**, which was [among the establishment media denounced by Appelbaum](https://archive.is/FrTlr#selection-3523.0-3543.1) at the CIJ Symposium in April. Other than repeating what Steele said in the blog post, she claims to have spoken with an anonymous source with regards to Appelbaum's absence in the investigation:
+[Technology reporter](https://web.archive.org/web/20160727172129/http://topics.nytimes.com/top/reference/timestopics/people/p/nicole_perlroth/index.html?inline=nyt-per) [Nicole Perlroth](https://web.archive.org/web/20160727171541/https://twitter.com/nicoleperlroth) covered [the conclusion of the investigation for **The New York Times**](https://archive.is/X6lAf), which was [among the establishment media denounced by Appelbaum](https://archive.is/FrTlr#selection-3523.0-3543.1) at the CIJ Symposium in April. Other than repeating what Steele said in the blog post, she claims to have spoken with an anonymous source with regards to Appelbaum's absence in the investigation:
 
 > [Mr. Appelbaum was preparing to address the results of the investigation after the release of Tor’s statement, said a person who spoke on the condition of anonymity.](https://archive.is/X6lAf#selection-2163.0-2163.164)
 
 > ... [Mr. Appelbaum did not participate in the Tor investigation, citing concerns with the way the findings would be communicated and the security of the investigation, according to the person who spoke on the condition of anonymity. Mr. Appelbaum had asked that Tor’s investigators speak with him in person or through encrypted means and declined to take part when those requests were not met, this person said.](https://archive.is/X6lAf#selection-2207.0-2207.406)
 
 Following the publication of the article, Perlroth said Steele used "[a euphemism for 'rape'](https://twitter.com/nicoleperlroth/status/758343329893318656)" during the interview, but [the tweet specifying the term was deleted from the thread](https://web.archive.org/web/20160727180951/https:/twitter.com/nicoleperlroth/status/758343816537513984).
+
+[In response to the news](https://web.archive.org/web/20160727184404/https:/twitter.com/akareilly), Reilly [referenced what Mathewson allegedly said to her](https://archive.is/wvbwZ#selection-2905.0-2905.175) at the Tor developer meeting in Valencia.
+
+> [That feeling when the person who made you unemployed is now *unemployable.*](https://web.archive.org/web/20160727184218/https:/twitter.com/akareilly/status/758367577550757888) [For the rest of you who let this happen: I hope you "seek therapy to help you through this"](https://web.archive.org/web/20160727184106/https:/twitter.com/akareilly/status/758369660228268032)
 
 ## The Website and Twitter Accounts
 
