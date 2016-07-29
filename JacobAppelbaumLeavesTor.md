@@ -269,6 +269,8 @@ Steele also claims that they found "two additional people as having engaged in i
 
 > ... [Mr. Appelbaum did not participate in the Tor investigation, citing concerns with the way the findings would be communicated and the security of the investigation, according to the person who spoke on the condition of anonymity. Mr. Appelbaum had asked that Tor’s investigators speak with him in person or through encrypted means and declined to take part when those requests were not met, this person said.](https://archive.is/X6lAf#selection-2207.0-2207.406)
 
+![Steele uses euphemism for rape in interview](https://pbs.twimg.com/media/CoaDwQpWcAESVHd.jpg)
+
 Following the publication of the article, Perlroth said Steele used "[a euphemism for 'rape'](https://twitter.com/nicoleperlroth/status/758343329893318656)" during the interview, but [the tweet specifying the term was deleted from the thread](https://web.archive.org/web/20160727180951/https:/twitter.com/nicoleperlroth/status/758343816537513984). It is unclear why Steele is relunctant to use the word "rape" if those allegations were supposedly confirmed, which has been noted by several media outlets including [**Zeit Online**](https://archive.is/Q8Vco#selection-993.0-993.142).
 
 > [Von Vergewaltigung ist im aktuellen Statement von Steele nicht die Rede](https://archive.is/Q8Vco#selection-993.0-993.72) [There is no mention of rape in the current statement from Steele]. [Offenbar gibt es auch weiterhin keine Strafanzeige gegen Appelbaum](https://archive.is/Q8Vco#selection-993.73-993.142) [Apparently there are still no criminal charges against Appelbaum].
