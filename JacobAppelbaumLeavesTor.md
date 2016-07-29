@@ -244,10 +244,6 @@ Steele also claims that they found "two additional people as having engaged in i
 
 > ... [Mr. Appelbaum did not participate in the Tor investigation, citing concerns with the way the findings would be communicated and the security of the investigation, according to the person who spoke on the condition of anonymity. Mr. Appelbaum had asked that Tor’s investigators speak with him in person or through encrypted means and declined to take part when those requests were not met, this person said.](https://archive.is/X6lAf#selection-2207.0-2207.406)
 
-Furthermore, according to [**Golem.de**](https://archive.is/HMElM), the investigation was used by many people to settle outstanding invoices with Appelbaum, but '[there has been no further response on the matter](https://archive.is/HMElM#selection-575.133-575.248).'
-
-> [Die Untersuchung der vergangenen Woche wurde offenbar von vielen Menschen genutzt, um offene Rechnungen mit Appelbaum zu begleichen](https://archive.is/HMElM#selection-575.0-575.132) [Last week's investigation was apparently used by many people, to settle unpaid invoices with Appelbaum].
-
 Following the publication of the article, Perlroth said Steele used "[a euphemism for 'rape'](https://twitter.com/nicoleperlroth/status/758343329893318656)" during the interview, but [the tweet specifying the term was deleted from the thread](https://web.archive.org/web/20160727180951/https:/twitter.com/nicoleperlroth/status/758343816537513984).
 
 [In response to the news](https://web.archive.org/web/20160727184404/https:/twitter.com/akareilly), Reilly [referenced what Mathewson allegedly said to her](https://archive.is/wvbwZ#selection-2905.0-2905.175) at the Tor developer meeting in Valencia.
