@@ -157,7 +157,11 @@ Like Appelbaum, Reilly was also given a ten-day suspension, but for "[spreading 
 
 **Golem.de** claims they have confirmed the authenticity of the letter ("... [die Echtheit der Mail bestätigt](https://archive.is/J7rxB#selection-547.109-547.219)."), though the submitter remains anonymous and the Tor Project has [not confirmed it](https://archive.is/vM92Z#selection-4191.1-4201.77). **Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) has [also published](https://archive.is/vVDQC) a copy of the [internal email](https://web.archive.org/web/20160610033307/https://assets.documentcloud.org/documents/2858268/Appelbaum-Wurde-Im-Jahr-2015-Ausgesetzt.pdf), which he said was [sent to him anonymously](https://archive.is/vM92Z#selection-3259.8-3259.19).
 
-On the 17th and 18th (when Leckrone sent the suspension email), Appelbaum tweeted:
+Between the 17th and the 18th (when Leckrone sent the suspension email), Reilly tweeted what is possibly a reference to the "[canary in the coal mine](https://en.wiktionary.org/wiki/canary_in_a_coal_mine#English)" allusion:
+
+> Canary status: dead. -- Karen Reilly [@akareilly](https://twitter.com/akareilly) ([March 17th, 2015](https://web.archive.org/web/20160731214426/https:/twitter.com/akareilly/status/577828583948816384))
+
+Appelbaum also tweeted:
 
 > I wonder what the best defenses are for JTRIG-ish psyops? Just buckle in and move slow? Refuse to be split? Refuse to be atomized? ([March 17th, 2015](https://archive.is/nW5Is))
 
