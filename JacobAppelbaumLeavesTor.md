@@ -489,13 +489,13 @@ The fifth is [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Iceland
 
 > ... And the other males who we were with were basically just kind of joking amongst themselves and don’t really seem to see anything wrong with it, which is really quite distressing,” Tan said. “So I watched this for about two to three minutes and then I decide to go and do something and just mount a very very subtle intervention. Which is, I go over, I shake Jake’s hand I tell him what a great job he’s doing with the Tor project and the rest of it and that gives the girl roughly the 30 seconds she needs to find her bag without being in an undistracted fashion. She left, and I found her hiding out in the hotel bar later, after Jake had left. She was pretty composed but obviously upset."
 
-[Dan Hirsch](https://web.archive.org/web/20160731220858/https://twitter.com/thequux) ([@thequux](https://twitter.com/thequux)), who [married Patterson](https://www.flickr.com/photos/pinguino/sets/72157667188334564) on [June 11th](https://web.archive.org/web/20160731222612/https://twitter.com/pukingmonkey/status/741824783675883521), was also a [witness](https://web.archive.org/web/20160731182508/http://www.dailydot.com/layer8/jacob-appelbaum-tor-project-suspension-sexual-misconduct-victims/).
-
-> “Most of Jake’s attention was focused on some girl who was somewhat shorter than he was,” Hirsch said. “She was cornered against the bar, looking around I presumed to try to find an escape route or for someone she could get the attention of.”
-
 In **The Daily Dot** interview he gave a more detailed account, including what the girl, who Patterson claimed was "[obviously a little bit inebriated](https://archive.is/QZIdh#selection-1059.80-1059.113)," did [after the incident](https://archive.is/QZIdh#selection-1087.0-1087.256).
 
 > Tan said afterwards he spoke briefly with the woman. He asked if she wanted to file a police report, but she was unwilling. She left the hotel before any of the witnesses learned who she was. The incident was never reported to police or to the Tor Project.
+
+[Dan Hirsch](https://web.archive.org/web/20160731220858/https://twitter.com/thequux) ([@thequux](https://twitter.com/thequux)), who [married Patterson](https://www.flickr.com/photos/pinguino/sets/72157667188334564) on [June 11th](https://web.archive.org/web/20160731222612/https://twitter.com/pukingmonkey/status/741824783675883521), was also a [witness](https://web.archive.org/web/20160731182508/http://www.dailydot.com/layer8/jacob-appelbaum-tor-project-suspension-sexual-misconduct-victims/) but was not named in the **Gizmodo** interview.
+
+> “Most of Jake’s attention was focused on some girl who was somewhat shorter than he was,” Hirsch said. “She was cornered against the bar, looking around I presumed to try to find an escape route or for someone she could get the attention of.”
 
 Tan posted the story on his Facebook page, saying that even though he didn't know who the girl was he had submitted it to Steele as part of the investigation. He also mentioned seeing Appelbaum "[trying to take upskirt photos of women" and "making lewd comments and allegations of threesomes with various members of the privacy community](https://archive.is/K2tdt#selection-1379.28-1379.233)." Shepard added that once when Appelbaum was "good drunk" in a Berlin bar in July of 2013, he "[discussed how he would ‘use my ass’](https://archive.is/K2tdt#selection-1385.127-1385.162)."
 
