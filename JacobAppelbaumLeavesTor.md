@@ -159,7 +159,7 @@ Like Appelbaum, Reilly was also given a ten-day suspension, but for "[spreading 
 
 Between the 17th and the 18th (when Leckrone sent the suspension email), Reilly tweeted what is possibly a reference to the "[canary in the coal mine](https://en.wiktionary.org/wiki/canary_in_a_coal_mine#English)" allusion:
 
-> Canary status: dead. -- Karen Reilly [@akareilly](https://twitter.com/akareilly) ([March 17th, 2015](https://web.archive.org/web/20160731214426/https:/twitter.com/akareilly/status/577828583948816384))
+> Canary status: dead. -- *Karen Reilly* [@akareilly](https://twitter.com/akareilly) ([March 17th, 2015](https://web.archive.org/web/20160731214426/https:/twitter.com/akareilly/status/577828583948816384))
 
 Appelbaum also tweeted:
 
