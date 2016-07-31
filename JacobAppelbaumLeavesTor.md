@@ -483,7 +483,7 @@ The fifth is [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Iceland
 
 > ... And the other males who we were with were basically just kind of joking amongst themselves and don’t really seem to see anything wrong with it, which is really quite distressing,” Tan said. “So I watched this for about two to three minutes and then I decide to go and do something and just mount a very very subtle intervention. Which is, I go over, I shake Jake’s hand I tell him what a great job he’s doing with the Tor project and the rest of it and that gives the girl roughly the 30 seconds she needs to find her bag without being in an undistracted fashion. She left, and I found her hiding out in the hotel bar later, after Jake had left. She was pretty composed but obviously upset."
 
-In **The Daily Dot** interview he gave far more detail, including what the girl, who Patterson said was "[obviously a little bit inebriated](https://archive.is/QZIdh#selection-1059.80-1059.113)," did [after the incident](https://archive.is/QZIdh#selection-1087.0-1087.256).
+In **The Daily Dot** interview he gave a more detailed account, including what the girl, who Patterson claimed was "[obviously a little bit inebriated](https://archive.is/QZIdh#selection-1059.80-1059.113)," did [after the incident](https://archive.is/QZIdh#selection-1087.0-1087.256).
 
 > Tan said afterwards he spoke briefly with the woman. He asked if she wanted to file a police report, but she was unwilling. She left the hotel before any of the witnesses learned who she was. The incident was never reported to police or to the Tor Project.
 
