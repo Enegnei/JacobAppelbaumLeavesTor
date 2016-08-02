@@ -1,5 +1,7 @@
-# ~~~~~~~~ Jacob Appelbaum Leaves Tor ~~~~~~~~
+# |------------------ Jacob Appelbaum Leaves Tor ------------------|
 :mag: Investigation into Jacob Appelbaum leaving the Tor Project
+
+![Tor Project browser, source: https://web.archive.org/web/20160728165635/https://techcrunch.com/2016/07/27/tor-project-sexual-assault-policies/](https://web.archive.org/web/20160728165635im_/https://tctechcrunch2011.files.wordpress.com/2016/05/p1040495.jpg?w=738)
 
 **Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here. This repository is not published or represented, such as through "vanity" accounts, anywhere else online - any individual or media organization who republishes, mentions, or promotes this investigation repository is not in any way affiliated with me unless expressly stated otherwise here.**
 
