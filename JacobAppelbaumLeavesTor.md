@@ -16,7 +16,10 @@
   2. [Witnesses](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#witnesses)
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
 
-#### **Latest updates:** [Valencia meeting topic & quote from Andrew Lewman & "canary" tweet](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#suspension-from-the-tor-project), [encryption used in Tor investigation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation), ["Sam" story](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#alison-macrina), [quote from Dan Hirsch](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#emerson-tan-patterson-shepard-and-hirsch), [quote from Andy Isaacson](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft), ["Tonga" replacement & Tor social contract/ policy documents](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
+### **Latest updates:** 
+[Valencia meeting topic & quote from Andrew Lewman & "canary" tweet](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#suspension-from-the-tor-project), [encryption used in Tor investigation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation), ["Sam" story](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#alison-macrina), [quote from Dan Hirsch](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#emerson-tan-patterson-shepard-and-hirsch), [quote from Andy Isaacson](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft), ["Tonga" replacement & Tor social contract/ policy documents](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
+
+***
 
 ## The History
 
