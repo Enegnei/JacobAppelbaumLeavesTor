@@ -326,7 +326,7 @@ Following the publication of the article, Perlroth said Steele used "[a euphemis
 
 > [That feeling when the person who made you unemployed is now *unemployable.*](https://web.archive.org/web/20160727184218/https:/twitter.com/akareilly/status/758367577550757888) [For the rest of you who let this happen: I hope you "seek therapy to help you through this"](https://web.archive.org/web/20160727184106/https:/twitter.com/akareilly/status/758369660228268032) -- *Karen Reilly* [@akareilly](https://twitter.com/akareilly) (July 27th, 2016)
 
-On August 1st, the Tor Project tweeted:
+On August 1st, the Tor Project tweeted about the use of encryption during the investigation. It is unclear if this is a refutation of Perlroth's article or if these options were only offered to alleged victims and witnesses, but not Appelbaum.
 
 > [Tor offered multiple encrypted communication channels to people interviewed in the investigation into allegations of sexual assault.](https://web.archive.org/web/20160801144043/https:/twitter.com/torproject/status/760071621793112064) [We use multiple encrypted channels at Tor every day -- makes sense, right?](https://web.archive.org/web/20160801144201/https:/twitter.com/torproject/status/760071939134107648) 
 
