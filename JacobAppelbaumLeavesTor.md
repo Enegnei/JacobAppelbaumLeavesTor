@@ -5,6 +5,7 @@
 **Disclaimer: This is a place for me to collect evidence and news on the story. I am currently not personally or professionally involved with anyone from the Tor Project, therefore do not send me inquiries asking for official comments from them other than what I have included here. I will source everything as thoroughly as possible; however, just because I include information or sources here does not mean I agree or disagree with it/ them. I will only include information that is publicly available; any information that is given to me in confidence will not be published without the expressed consent of the sender. I do not condone the harassment of any individuals, accuser or accused, on the basis of information that is presented here. This repository is not published or represented, such as through "vanity" accounts, anywhere else online - any individual or media organization who republishes, mentions, or promotes this investigation repository is not in any way affiliated with me unless expressly stated otherwise [here](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/README.md).** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
 
 ***
+
 1. [The History](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)
   1. [Early Life](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#early-life)
   2. [Career](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#career)
@@ -14,6 +15,8 @@
   1. [Victims](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#victims)
   2. [Witnesses](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#witnesses)
 5. [The Public Reaction](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
+
+#### **Latest updates:** [Valencia meeting topic & quote from Andrew Lewman & "canary" tweet](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#suspension-from-the-tor-project), [encryption used in Tor investigation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation), ["Sam" story](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#alison-macrina), [quote from Dan Hirsch](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#emerson-tan-patterson-shepard-and-hirsch), [quote from Andy Isaacson](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft), ["Tonga" replacement & Tor social contract/ policy documents](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
 
 ## The History
 
