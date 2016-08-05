@@ -228,7 +228,9 @@ On the 24th of May 2016, one day before Appelbaum would resign down, Shepard twe
 
 The **Eindhoven Institute for the Protection of Systems and Information** (Ei/PSI) published the schedule of speakers for their "[Security in Times of Surveillance](https://web.archive.org/web/20160506055357/http://www.win.tue.nl/eipsi/surveillance.html)" event on May 26th. Sometime between [the 24th and the 26th](https://archive.is/vhO8h#selection-2149.0-2177.6), Appelbaum's talk "Beyond End-to-End Encryption" was [cancelled](https://archive.is/JzF0j#selection-443.0-449.15), the reason only noted as "sickness."
 
-On May 27th, Tor Project [Executive Director](https://archive.is/Q2TTK#selection-767.0-767.32) [Shari Steele](https://archive.is/B8rRs) reportedly [requested that Appelbaum sign a resignation agreement](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf) in which he would promise "[mutual non-disparagement](https://archive.is/FP1GE)," including giving up the right to sue the Tor Project. According to the attached explanation by [**Cryptome.org**](https://cryptome.org/), Appelbaum refused to sign the agreement.
+![Shari Steele, source: https://web.archive.org/web/20160805014545/https:/twitter.com/torproject/status/675314646782451712](https://web.archive.org/web/20160805014545im_/https://pbs.twimg.com/media/CV8zF66U4AAzCh1.jpg)
+
+On May 27th, [Shari Steele](https://archive.is/B8rRs) (who became [Executive Director](https://archive.is/Q2TTK#selection-767.0-767.32) of the Tor Project in [December 2015](https://web.archive.org/web/20160805014545/https:/twitter.com/torproject/status/675314646782451712)) reportedly [requested that Appelbaum sign a resignation agreement](https://web.archive.org/web/20160608122942/https://cryptome.org/2016/06/tor-appelbaum-separation.pdf) in which he would promise "[mutual non-disparagement](https://archive.is/FP1GE)," including giving up the right to sue the Tor Project. According to the attached explanation by [**Cryptome.org**](https://cryptome.org/), Appelbaum refused to sign the agreement.
 
 ### Removal from Core Tor
 
