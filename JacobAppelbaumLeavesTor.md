@@ -223,6 +223,12 @@ In [early April 2016](https://archive.is/UNxr6), Appelbaum visited North Korea f
 
 On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY) a [speech](https://archive.is/FrTlr) he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) (where he is an [advisor](https://archive.is/iOm5e#selection-311.0-311.15)) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists, particularly at **The Guardian** which he called the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)," to the point where their lives were at risk.
 
+> Some of you have written things in papers, for example, were you call me, or Julian Assange, or Sarah Harrison, 'internet activists'. To you that have done that, I think that you do not understand potentially what you do and, in that case, I have some forgiveness for you. But for those of you that do, I understand that you think me your political enemy and I take that up quite seriously, and I will win. So, with that in mind, I don't call you a 'grammar activist'.
+
+> But I would say that it is important that if we have 'disclosure activists' in the audience, I think it's important to consider, for example, that when we have bylines together in papers and later you call me an 'internet activist', it's important to remember you should probably have disclosed in your article where you called me an 'internet activist' that, actually, we were co-authors on, for example, the equivalent of the German Pulitzer Prize, or something similar to that.
+
+> To call me a 'political activist' is to consciously put me outside of the political tent of privilege and to say: go ahead, instead of being under *journalism law*, you're under *terrorism law*.
+
 ![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 
