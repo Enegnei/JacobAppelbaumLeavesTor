@@ -364,6 +364,10 @@ Steele also claims that they found "two additional people as having engaged in i
 
 > [Sources with knowledge of the investigation told the Daily Dot that the project cut ties with the two men, only one of whom was an actual project member, more than a month ago. The two U.S.-based developers, unidentified by the Tor Project, are not accused of assault, the sources said.](https://archive.is/AqZfG#selection-1267.123-1267.410)
 
+[In response to the news](https://web.archive.org/web/20160727184404/https:/twitter.com/akareilly), Reilly [referenced what Mathewson allegedly said to her](https://archive.is/wvbwZ#selection-2905.0-2905.175) at the Tor developer meeting in Valencia.
+
+> [That feeling when the person who made you unemployed is now *unemployable.*](https://web.archive.org/web/20160727184218/https:/twitter.com/akareilly/status/758367577550757888) [For the rest of you who let this happen: I hope you "seek therapy to help you through this"](https://web.archive.org/web/20160727184106/https:/twitter.com/akareilly/status/758369660228268032) -- *Karen Reilly* [@akareilly](https://twitter.com/akareilly) (July 27th, 2016)
+
 [Technology reporter](https://web.archive.org/web/20160727172129/http://topics.nytimes.com/top/reference/timestopics/people/p/nicole_perlroth/index.html?inline=nyt-per) [Nicole Perlroth](https://web.archive.org/web/20160727171541/https://twitter.com/nicoleperlroth) covered [the conclusion of the investigation for **The New York Times**](https://archive.is/X6lAf), which was [among the establishment media denounced by Appelbaum](https://archive.is/FrTlr#selection-3523.0-3543.1) at the CIJ Symposium in April. Other than repeating what Steele said in the blog post, she claims to have also spoken with an anonymous source with regards to Appelbaum's absence in what turned out to be a one-sided investigation:
 
 > [Mr. Appelbaum was preparing to address the results of the investigation after the release of Tor’s statement, said a person who spoke on the condition of anonymity.](https://archive.is/X6lAf#selection-2163.0-2163.164)
@@ -379,10 +383,6 @@ Following the publication of the article, Perlroth said Steele used "[a euphemis
 Interestingly, [**Electronic Frontier Foundation** director](https://archive.is/qorI8) [Jillian York](https://archive.is/R5kGM) called out [**The Register**](https://web.archive.org/web/20160811131425/http://www.theregister.co.uk/Author/2886)'s [Kieren](https://web.archive.org/web/20160310222320/https:/twitter.com/kierenmccarthy) [McCarthy](https://web.archive.org/web/20160322022009/http://kierenmccarthy.com/about/) for using the phrase "[bullying sex pest](https://web.archive.org/web/20160728160633/http://www.theregister.co.uk/2016/07/27/jacob_appelbaum/)" instead of "[sexual assault](https://web.archive.org/web/20160811130450/https:/twitter.com/jilliancyork/status/758592014740881408)," yet has not criticised Steele for her language choice of "[unwanted sexually aggressive behavior](https://archive.is/lkywt#selection-129.197-129.234)."
 
 ![The Register, "bullying sex pest," source: https://web.archive.org/web/20160811130450/https:/twitter.com/jilliancyork/status/758592014740881408](https://web.archive.org/web/20160811130450im_/https://pbs.twimg.com/media/CocPXS7VMAAp9Bc.jpg)
-
-[In response to the news](https://web.archive.org/web/20160727184404/https:/twitter.com/akareilly), Reilly [referenced what Mathewson allegedly said to her](https://archive.is/wvbwZ#selection-2905.0-2905.175) at the Tor developer meeting in Valencia.
-
-> [That feeling when the person who made you unemployed is now *unemployable.*](https://web.archive.org/web/20160727184218/https:/twitter.com/akareilly/status/758367577550757888) [For the rest of you who let this happen: I hope you "seek therapy to help you through this"](https://web.archive.org/web/20160727184106/https:/twitter.com/akareilly/status/758369660228268032) -- *Karen Reilly* [@akareilly](https://twitter.com/akareilly) (July 27th, 2016)
 
 On August 1st, the Tor Project tweeted about the use of encryption during the investigation. It is unclear if this is a refutation of Perlroth's article or if these options were only offered to alleged victims and witnesses, but not Appelbaum.
 
