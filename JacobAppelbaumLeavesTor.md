@@ -374,21 +374,21 @@ Steele also claims that they found "two additional people as having engaged in i
 
 > ... [Mr. Appelbaum did not participate in the Tor investigation, citing concerns with the way the findings would be communicated and the security of the investigation, according to the person who spoke on the condition of anonymity. Mr. Appelbaum had asked that Tor’s investigators speak with him in person or through encrypted means and declined to take part when those requests were not met, this person said.](https://archive.is/X6lAf#selection-2207.0-2207.406)
 
+The Tor Project later tweeted about the use of encryption during the investigation. It is unclear if this is a refutation of Perlroth's article or if these options were only offered to alleged victims and witnesses, but not Appelbaum.
+
+> [Tor offered multiple encrypted communication channels to people interviewed in the investigation into allegations of sexual assault.](https://web.archive.org/web/20160801144043/https:/twitter.com/torproject/status/760071621793112064) [We use multiple encrypted channels at Tor every day -- makes sense, right?](https://web.archive.org/web/20160801144201/https:/twitter.com/torproject/status/760071939134107648)
+
+> -- *The Tor Project* [@torproject](https:/twitter.com/torproject) (August 1st, 2016)
+
 ![Steele uses euphemism for rape in interview](https://pbs.twimg.com/media/CoaDwQpWcAESVHd.jpg)
 
 Following the publication of the article, Perlroth said Steele used "[a euphemism for 'rape'](https://twitter.com/nicoleperlroth/status/758343329893318656)" during the interview, but [the tweet specifying the term was deleted from the thread](https://web.archive.org/web/20160727180951/https:/twitter.com/nicoleperlroth/status/758343816537513984). It is unclear why Steele is relunctant to use the word "rape" if those allegations were supposedly confirmed, which has been noted by several media outlets including [**Zeit Online**](https://archive.is/Q8Vco#selection-993.0-993.142).
 
 > [Von Vergewaltigung ist im aktuellen Statement von Steele nicht die Rede](https://archive.is/Q8Vco#selection-993.0-993.72) [There is no mention of rape in the current statement from Steele]. [Offenbar gibt es auch weiterhin keine Strafanzeige gegen Appelbaum](https://archive.is/Q8Vco#selection-993.73-993.142) [Apparently there are still no criminal charges against Appelbaum].
 
-Interestingly, [**Electronic Frontier Foundation** director](https://archive.is/qorI8) [Jillian York](https://archive.is/R5kGM) called out [**The Register**](https://web.archive.org/web/20160811131425/http://www.theregister.co.uk/Author/2886)'s [Kieren](https://web.archive.org/web/20160310222320/https:/twitter.com/kierenmccarthy) [McCarthy](https://web.archive.org/web/20160322022009/http://kierenmccarthy.com/about/) for using the phrase "[bullying sex pest](https://web.archive.org/web/20160728160633/http://www.theregister.co.uk/2016/07/27/jacob_appelbaum/)" instead of "[sexual assault](https://web.archive.org/web/20160811130450/https:/twitter.com/jilliancyork/status/758592014740881408)," yet has not criticised Steele for her language choice of "[unwanted sexually aggressive behavior](https://archive.is/lkywt#selection-129.197-129.234)."
-
 ![The Register, "bullying sex pest," source: https://web.archive.org/web/20160811130450/https:/twitter.com/jilliancyork/status/758592014740881408](https://web.archive.org/web/20160811130450im_/https://pbs.twimg.com/media/CocPXS7VMAAp9Bc.jpg)
 
-On August 1st, the Tor Project tweeted about the use of encryption during the investigation. It is unclear if this is a refutation of Perlroth's article or if these options were only offered to alleged victims and witnesses, but not Appelbaum.
-
-> [Tor offered multiple encrypted communication channels to people interviewed in the investigation into allegations of sexual assault.](https://web.archive.org/web/20160801144043/https:/twitter.com/torproject/status/760071621793112064) [We use multiple encrypted channels at Tor every day -- makes sense, right?](https://web.archive.org/web/20160801144201/https:/twitter.com/torproject/status/760071939134107648) 
-
-> -- *The Tor Project* [@torproject](https:/twitter.com/torproject) (August 1st, 2016)
+Interestingly, [**Electronic Frontier Foundation** director](https://archive.is/qorI8) [Jillian York](https://archive.is/R5kGM) called out [**The Register**](https://web.archive.org/web/20160811131425/http://www.theregister.co.uk/Author/2886)'s [Kieren](https://web.archive.org/web/20160310222320/https:/twitter.com/kierenmccarthy) [McCarthy](https://web.archive.org/web/20160322022009/http://kierenmccarthy.com/about/) for using the phrase "[bullying sex pest](https://web.archive.org/web/20160728160633/http://www.theregister.co.uk/2016/07/27/jacob_appelbaum/)" instead of "[sexual assault](https://web.archive.org/web/20160811130450/https:/twitter.com/jilliancyork/status/758592014740881408)," yet has not criticised Steele for her language choice of "[unwanted sexually aggressive behavior](https://archive.is/lkywt#selection-129.197-129.234)."
 
 ## The Website and Twitter Accounts
 
