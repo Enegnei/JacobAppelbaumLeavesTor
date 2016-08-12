@@ -521,7 +521,7 @@ The second is Alison Macrina ([@flexlibris](https://twitter.com/flexlibris)), [f
 
 > -- *Alison Macrina* [@flexlibris](https:/twitter.com/flexlibris) ([June 9th, 2016](https://web.archive.org/web/20160801155736/https:/twitter.com/flexlibris/status/741057715561234433))
 
-According to [**DIE ZEIT**](https://web.archive.org/web/20160812130325/http://www.zeit.de/2016/34/jacob-appelbaum-sexueller-missbrauch-vorwuerfe/seite-3), Macrina omitted crucial details ("[entscheidende Details ausgelassen](https://archive.is/2Lhvm#selection-967.164-967.197)") from her story, including that she [had consensual sex with Appelbaum afterwards](https://archive.is/2Lhvm#selection-967.374-967.425). Macrina said it was "[outrageous and perverted](https://archive.is/2Lhvm#selection-967.474-967.494)" that they would inquire about her sexual encounter.
+According to [**DIE ZEIT**](https://web.archive.org/web/20160812130325/http://www.zeit.de/2016/34/jacob-appelbaum-sexueller-missbrauch-vorwuerfe/seite-3), Macrina omitted crucial details ("[entscheidende Details ausgelassen](https://archive.is/2Lhvm#selection-967.164-967.197)") from her story, including that she [went to the apartment shortly after "River" left](https://archive.is/TFHVC#selection-979.594-979.699) on January 3rd and [had consensual sex with Appelbaum](https://archive.is/2Lhvm#selection-967.374-967.425). Macrina said it was "[outrageous and perverted](https://archive.is/2Lhvm#selection-967.474-967.494)" that they would inquire about her sexual encounter.
 
 #### Isis Lovecruft
 
