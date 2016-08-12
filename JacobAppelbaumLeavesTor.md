@@ -489,7 +489,7 @@ The GitHub copies of the entries are PNG images, the text of which is colored bl
 
 ![Vabali Spa in Berlin, source: https://web.archive.org/web/20160311161922/http://www.berliner-zeitung.de/berlin/vabali-spa-eroeffnet-nackt-baden-am-berliner-hauptbahnhof-1546656](https://web.archive.org/web/20160311161922im_/http://www.berliner-zeitung.de/image/3233720/2x1/940/470/b6a2ef5732a928336ac884ddcaf04fed/nA/71-70539970---20-06-2014-17-20-03-734-.jpg)
 
-`The Vabali Spa, which Appelbaum and guests visited, located in the middle of Berlin near the central station.`
+`The Vabali Spa, which Appelbaum and guests visited, in the middle of Berlin near the central station.`
  
 There are also complaints about [his name frequently being first on the list of authors](https://archive.is/5Aebu#selection-835.118-835.167) for academic papers; however [the practice of listing authorship alphabetically in research](https://web.archive.org/web/20160314150541/http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf) (at least in the U.S.), especially in the fields of math and computer science, is very common:
 
