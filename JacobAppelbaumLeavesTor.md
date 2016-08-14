@@ -581,7 +581,7 @@ The fifth is [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Iceland
 
 > [For me what did it when he jumped naked in my and my exes bed and asked for a three some. With a hard on.](https://archive.is/3x87O) [Because jumping naked in other couples bed begging for a three some is... normal? Some etiquette I wasn't aware](https://archive.is/KgdS1) [of. It didn't feel nice. It didn't feel right. Beside groping and shit. That was worse somehow.](https://archive.is/fpAqc) 
 
-> -- Ásta Helgadóttir [@asta_fish](https://twitter.com/asta_fish) (June 15th 2016)
+> -- *Ásta Helgadóttir* [@asta_fish](https://twitter.com/asta_fish) (June 15th 2016)
 
 ### Witnesses
 
