@@ -673,7 +673,7 @@ Her [third and final](https://web.archive.org/web/20160811111555/https:/twitter.
 
 [Randi Lee Harper](https://archive.is/byGrf#selection-47425.0-47494.1), a [San Francisco Bay Area activist for online abuse prevention](https://archive.is/agPio), criticised the men who only now were coming forward to vouch for accounts of Appelbaum's behavior they had witnessed:
 
-> [All these men are coming forward with stories of how they saw stuff. Good for you. Where the fuck were you? Why didn't you do something?](https://archive.is/HYub2#selection-3919.0-3919.136) [You will not get a "good lil ally" badge for coming forward to confirm stories now. You waited for women to take the risk. Cowards.](https://archive.is/HYub2#selection-4327.0-4327.131) -- Randi Lee Harper [@randileeharper](https://twitter.com/randileeharper) (June 16th, 2016)
+> [All these men are coming forward with stories of how they saw stuff. Good for you. Where the fuck were you? Why didn't you do something?](https://archive.is/HYub2#selection-3919.0-3919.136) [You will not get a "good lil ally" badge for coming forward to confirm stories now. You waited for women to take the risk. Cowards.](https://archive.is/HYub2#selection-4327.0-4327.131) -- *Randi Lee Harper* [@randileeharper](https://twitter.com/randileeharper) (June 16th, 2016)
 
 ## The Public Reaction
 
