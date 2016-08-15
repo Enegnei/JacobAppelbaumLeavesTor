@@ -408,7 +408,7 @@ Three Twitter accounts were created in response to Appelbaum's resignation. The 
 
 > We have seen the accounts you're talking about and they aren't associated with us. We don't know who is running them, and some of us are disturbed by their incendiary statements and graphics. We don't condone calls for violence or for Jake to self-harm.
 
-However, based on its [first tweet](https://archive.is/8R8Ax), the account had a suspiciously early awareness of the site and also has knowledge of [Patterson](https://archive.is/mhDRh) [blaming Appelbaum for Len Sassaman's suicide](https://archive.is/fP0A9). It is [unlikely](https://archive.is/W83f6) that they are a native German. They linked to [the site in its early stages](https://web.archive.org/web/20160603224422/https://ioerrror.github.io/jacobappelbaum.net/) (using [a link that is no longer live](https://archive.is/W5UtY)), where it very explicitly claimed to be Appelbaum.
+However, based on its [first tweet](https://archive.is/8R8Ax), the account had a suspiciously [early awareness of the site](https://web.archive.org/web/20160814183918/https:/twitter.com/search?f=tweets&q=jacobappelbaum.net%20until%3A2016-06-04&src=typd) and also has knowledge of [Patterson](https://archive.is/mhDRh) [blaming Appelbaum for Len Sassaman's suicide](https://archive.is/fP0A9). It is [unlikely](https://archive.is/W83f6) that they are a native German. They linked to [the site in its early stages](https://web.archive.org/web/20160603224422/https://ioerrror.github.io/jacobappelbaum.net/) (using [a link that is no longer live](https://archive.is/W5UtY)), where it very explicitly claimed to be Appelbaum.
 
 ![first version of website](https://contraspin.co.nz/wp-content/uploads/2016/06/jan.png)
 
