@@ -18,7 +18,7 @@ If you have questions, concerns or information, feel free to [contact me](https:
 + [Cypherpunks Mailing List](https://cpunks.org/mailman/listinfo/cypherpunks): [Wikileaks is the Endgame](https://cpunks.org/pipermail/cypherpunks/2016-June/013672.html) ([archived](https://archive.is/s6rJr)), [Wikileaks is the Endgame](https://cpunks.org/pipermail/cypherpunks/2016-June/013678.html) #2 ([archived](https://archive.is/aCxLM))
 
 **Media Mentions (Research Attribution):**
-+ [ContraSpin](https://twitter.com/contraspin): [The Weaponising Of Social Part 2: Stomping On IOError’s Grave](https://contraspin.co.nz/the-weaponising-of-social-pt-2-stomping-on-ioerrors-grave/) ([archived](https://archive.is/rVwWn#selection-919.0-921.40))
++ [ContraSpin](https://twitter.com/contraspin): [The Weaponising Of Social Part 2](https://contraspin.co.nz/the-weaponising-of-social-pt-2-stomping-on-ioerrors-grave/) ([archived](https://archive.is/rVwWn#selection-919.0-921.40)), [The Weaponising of Social Part 3](https://contraspin.co.nz/the-weaponising-of-social-part-3-the-resurrection-of-ioerror/) ([archived](https://archive.is/CHXGn#selection-1451.0-1639.126))
 
 **Media Mentions (Affiliated):**
 
