@@ -390,7 +390,9 @@ The Tor Project later tweeted about the use of encryption during the investigati
 
 In a [Twitter exchange](https://web.archive.org/web/20160823122444/https:/twitter.com/vruz/status/767938044821463040), [Shava Nerad](https://archive.is/3gW7r), [Tor Project's founding executive director](https://archive.is/Fa1wX#selection-1471.1-1471.57) who [left](https://archive.is/vzidN#selection-4891.1-4891.79) for health reasons around the same time [Appelbaum joined](https://archive.is/BwxdB#selection-5425.1-5425.112), said she [confirmed with at least one Tor staff member that Appelbaum was not interviewed](https://archive.is/8h1Ss).
 
-> [My understanding is that Jake asked to be interviewed on Signal and the private investigator refused to use private comms.](https://web.archive.org/web/20160823122209/https:/twitter.com/shava23/status/767938445599764480) [I confirmed with Tor staff that he was not interviewed because they could not agree on a method of secure comms.](https://web.archive.org/web/20160823122127/https:/twitter.com/shava23/status/767938911209418752) ... [All Shari has is the victim collective's testimony, no cross examination, nothing from Jake.](https://web.archive.org/web/20160823124411/https://twitter.com/shava23/status/767939713944653824) 
+> [My understanding is that Jake asked to be interviewed on Signal and the private investigator refused to use private comms.](https://web.archive.org/web/20160823122209/https:/twitter.com/shava23/status/767938445599764480) [I confirmed with Tor staff that he was not interviewed because they could not agree on a method of secure comms.](https://web.archive.org/web/20160823122127/https:/twitter.com/shava23/status/767938911209418752) ... [All Shari has is the victim collective's testimony, no cross examination, nothing from Jake.](https://web.archive.org/web/20160823124411/https://twitter.com/shava23/status/767939713944653824)
+
+> -- *Shava Nerad* [@shava23](https:/twitter.com/shava23) (August 22nd, 2016)
 
 ![Steele uses euphemism for rape in interview](https://pbs.twimg.com/media/CoaDwQpWcAESVHd.jpg)
 
