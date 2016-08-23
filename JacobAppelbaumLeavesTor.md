@@ -388,6 +388,10 @@ The Tor Project later tweeted about the use of encryption during the investigati
 
 > -- *The Tor Project* [@torproject](https:/twitter.com/torproject) (August 1st, 2016)
 
+In a [Twitter exchange](https://web.archive.org/web/20160823122444/https:/twitter.com/vruz/status/767938044821463040), [Shava Nerad](https://archive.is/3gW7r), [Tor Project's founding executive director](https://archive.is/Fa1wX#selection-1471.1-1471.57) who [left](https://archive.is/vzidN#selection-4891.1-4891.79) for health reasons around the same time [that Appelbaum first joined](https://archive.is/BwxdB#selection-5425.1-5425.112), said that she [confirmed with at least one Tor staff member that Appelbaum was not interviewed](https://archive.is/8h1Ss).
+
+> [My understanding is that Jake asked to be interviewed on Signal and the private investigator refused to use private comms.](https://web.archive.org/web/20160823122209/https:/twitter.com/shava23/status/767938445599764480) [I confirmed with Tor staff that he was not interviewed because they could not agree on a method of secure comms.](https://web.archive.org/web/20160823122127/https:/twitter.com/shava23/status/767938911209418752) ... [All Shari has is the victim collective's testimony, no cross examination, nothing from Jake.](https://web.archive.org/web/20160823124411/https://twitter.com/shava23/status/767939713944653824) 
+
 ![Steele uses euphemism for rape in interview](https://pbs.twimg.com/media/CoaDwQpWcAESVHd.jpg)
 
 Following the publication of the article, Perlroth said Steele used "[a euphemism for 'rape'](https://twitter.com/nicoleperlroth/status/758343329893318656)" during the interview, but [the tweet specifying the term was deleted from the thread](https://web.archive.org/web/20160727180951/https:/twitter.com/nicoleperlroth/status/758343816537513984). It is unclear why Steele is relunctant to use the word "rape" if those allegations were supposedly confirmed, which has been noted by several media outlets including [**ZEIT Online**](https://archive.is/Q8Vco#selection-993.0-993.142) and [**Frankfurter Allgemeine Zeitung**](https://web.archive.org/web/20160811160541/http://www.faz.net/aktuell/feuilleton/medien/jagd-auf-jacob-appelbaum-das-tor-projekt-laviert-14378139.html).
@@ -761,7 +765,7 @@ They later added a [tweet prompt](https://archive.is/ymmJL):
 
 > In Solidarity with Jacob Appelbaum [@ioerror](https://twitter.com/ioerror) and on the Side of Justice for All. We urge others to add their names to https://ourresponse.org/
 
-Though [Shava Nerad](https://archive.is/3gW7r), [Tor Project's founding executive director](https://archive.is/Fa1wX#selection-1471.1-1471.57) who [left](https://archive.is/vzidN#selection-4891.1-4891.79) around the same time [that Appelbaum first joined](https://archive.is/BwxdB#selection-5425.1-5425.112), was [not one of the signatories](https://archive.is/8CJYx#selection-5281.1-5281.73), she expressed [a similar sentiment](https://archive.is/ae5EQ) [very early on](https://archive.is/crtyC) when the allegations were first being made, that she does not believe [shaming](https://archive.is/mghYZ#selection-4975.70-4975.77) him [so soon](https://archive.is/JeBHl#selection-5305.94-5305.123) is a "[sustainable holding pattern](https://archive.is/lwl2E#selection-4661.60-4661.87)."
+Though Nerad was [not one of the signatories](https://archive.is/8CJYx#selection-5281.1-5281.73), she expressed [a similar sentiment](https://archive.is/ae5EQ) [very early on](https://archive.is/crtyC) when the allegations were first being made, that she does not believe [shaming](https://archive.is/mghYZ#selection-4975.70-4975.77) him [so soon](https://archive.is/JeBHl#selection-5305.94-5305.123) is a "[sustainable holding pattern](https://archive.is/lwl2E#selection-4661.60-4661.87)."
 
 ### Internet Freedom Festival
 
