@@ -163,7 +163,7 @@ On December 30th at the CCC, Appelbaum and then [**Tor Project** director](https
 
 > [...] She's not just being attacked because she happens to be there, she's being attacked because they're trying to attack the Tor Project and all the other people in Tor; so yes, she may be the focus of some of the attacks but we, the rest of the Tor community, the rest of the security community, need to stand up and take on some of this burden of communicating, interacting and talk about these issues. We can't just leave it to her to defend herself.
 
-As Appelbaum followed up with, [the](https://archive.is/Da9Mu) [harassment](https://archive.is/3yp8b) seemed to center overall on the topic of [Tor's creation](https://archive.is/QNyQ7) and [funding from the U.S. government](https://archive.is/OQlhR), a debate which has been raging since the software became more widely used by the public.
+As Appelbaum followed up with, [the](https://archive.is/Da9Mu) [harassment](https://archive.is/3yp8b) seemed to center overall on the controversial topic of [Tor's creation](https://archive.is/QNyQ7) by, and [funding from, the U.S. government](https://archive.is/OQlhR), a debate which has been raging since the software became more widely used by the public.
 
 According to national security researcher and journalist [Alexa O'Brien](https://archive.is/nHFae), who claims to have spoken with Appelbaum on the subject at the event, he was "sympathetic to [retribution] against the troll."
 
