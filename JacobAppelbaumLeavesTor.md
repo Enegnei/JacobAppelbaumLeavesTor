@@ -267,10 +267,19 @@ On April 13th, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY
 
 ![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
+#### Visit to Cuba
+
+> What is the best way to fly to Havana, Cuba from Germany for [@cubaconference](https://twitter.com/cubaconference) without touching FVEY countries? Asking for a friend.
+
+> -- *Jacob Appelbaum* [@ioerror](https://twitter.com/ioerror) ([December 12th, 2015](https://web.archive.org/web/20160906012023/https:/twitter.com/ioerror/status/675697215088828416))
+
+At the end of [April](https://web.archive.org/web/20160906012925/https:/twitter.com/ioerror/status/675693785003786240), Appelbaum went on a [two-week](https://web.archive.org/web/20160906012543/https:/twitter.com/ioerror/status/727206162748346368) trip to attend the three-day [*Conferencia Internacional de Software Libre*](https://web.archive.org/web/20160906014307/https://www.cubaconf.org/location/) ([International Free Software Conference](https://web.archive.org/web/20160906012427/https://twitter.com/cubaconference)) at the [*Colegio Universitario San Geronimo*](https://web.archive.org/web/20160906021932/https:/twitter.com/cubaconference/status/724059032059695104) in Havana, Cuba. The purpose of the conference was to gather free software enthusiasts who "[normally are prevented to participate not only by financial reasons but also by denying the entry visa](https://web.archive.org/web/20160906015111/https://www.cubaconf.org/)," and discuss how free software can help those in developing countries. On the [first day](https://web.archive.org/web/20160906010030/https://www.cubaconf.org/schedule/day-1/), [Appelbaum](https://web.archive.org/web/20160906020821/https://twitter.com/jacobonajera/status/729333197033619456) gave a midday [talk](https://web.archive.org/web/20160906014650/https:/twitter.com/cubaconference/status/719130667473334272) titled "[Anonymity and You - A Discussion about the Tor Network](https://web.archive.org/web/20160906014945/https://contributions.cubaconf.org/contributions/cdcbfeac02cc2bbf8ef70bdb146fa554.html)."
+
+![Appelbaum at the Cuba conference, source: https://web.archive.org/web/20160906020934/https:/twitter.com/merchise/status/724805303967997952](https://web.archive.org/web/20160906020934im_/https://pbs.twimg.com/media/Cg8Gi19UgAAVRF1.jpg)
 
 ## The Resignation
 
-On the 24th of May 2016, one day before Appelbaum would resign down, Shepard tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)).
+On the 24th of May 2016, one day before Appelbaum would resign, Shepard tweeted a [commitment hash](https://web.archive.org/web/20160603213504/https://twitter.com/puellavulnerata/status/735230102154448898) (i.e. [making a statement of secret value which can be authentically revealed in the future](https://www.wikiwand.com/en/Commitment_scheme)).
 
 The **Eindhoven Institute for the Protection of Systems and Information** (Ei/PSI) published the schedule of speakers for their "[Security in Times of Surveillance](https://web.archive.org/web/20160506055357/http://www.win.tue.nl/eipsi/surveillance.html)" event on May 26th. Sometime between [the 24th and the 26th](https://archive.is/vhO8h#selection-2149.0-2177.6), Appelbaum's talk "Beyond End-to-End Encryption" was [cancelled](https://archive.is/JzF0j#selection-443.0-449.15), the reason only noted as "sickness." [Dingledine](https://web.archive.org/web/20160820222617/https:/twitter.com/RogerDingledine/status/733104755900305408), who had a talk on [Tor onion services](https://web.archive.org/web/20160607101201/https://www.win.tue.nl/eipsi/surveillance.html), still participated in the event.
 
