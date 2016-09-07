@@ -887,3 +887,5 @@ Nerad responded to the demands of the Tor strike: "[you can't build trust with a
 > I am not happy about what is going on at Tor either.  I am not happy about the current administration.  I am not happy about the grievance process, and I am not happy about how we got to that point.  I am not happy that a CIA staffer got on staff without being vetted, either.
 
 > But this is not the way you deal with "building trust" -- you can't build trust with a corpse. It's just not useful.
+
+According to the **Tor Project**, the counter-strike [resulted in fifty two new relays](https://web.archive.org/web/20160907120820/https:/twitter.com/torproject/status/773262838467100672) joining the network.
