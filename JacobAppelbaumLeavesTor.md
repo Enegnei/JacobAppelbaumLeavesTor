@@ -720,7 +720,7 @@ On June 8th, **Freedom of the Press Foundation**'s co-founder and executive dire
 
 > In light of the allegations that have been made, Jacob Appelbaum is no longer a member of our outside volunteer technical advisory board. We hope that the serious accusations made against him, and his denial of them, are resolved as fairly and as expeditiously as possible.
 
-[Former](https://archive.is/YT5Mc#selection-381.0-381.15) [systems administrator](https://web.archive.org/web/20160328165000/https://freedom.press/about/staff/kevin-gallagher) [Kevin Gallagher](https://archive.is/87FaO) (who [announced](https://archive.is/XnqrV) he was [leaving **Freedom of the Press Foundation**](https://archive.is/ST3kN) on June 24th) said that their tech advisory board "[is not the most active thing. Jake had not even communicated with them in several years](https://archive.is/xFMNc)."
+[Former](https://archive.is/YT5Mc#selection-381.0-381.15) [systems administrator](https://web.archive.org/web/20160328165000/https://freedom.press/about/staff/kevin-gallagher) [Kevin Gallagher](https://archive.is/87FaO) (who [announced](https://archive.is/XnqrV) he was [leaving **Freedom of the Press Foundation**](https://archive.is/ST3kN) on June 24th) said the tech advisory board "[is not the most active thing. Jake had not even communicated with them in several years](https://archive.is/xFMNc)."
 
 ### Purism
 
