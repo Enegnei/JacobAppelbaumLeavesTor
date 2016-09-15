@@ -706,6 +706,12 @@ Her [third and final](https://web.archive.org/web/20160811111555/https:/twitter.
 
 > Tor’s organizational hierarchy was already flat, but this didn’t help them until Shari Steele came on board. Jake had co-opted leadership so thoroughly that they retaliated against Karen Reilly for reporting his behavior.
 
+#### Christopher Sheats
+
+Christopher Sheats ([@yawnbox](https://web.archive.org/web/20160908143826/https:/twitter.com/yawnbox)), [board chair](https://archive.fo/jyEEc#selection-381.25-393.18) of the [**Seattle Privacy Coalition**](https://web.archive.org/web/20160823181055/https:/twitter.com/SeattlePrivacy) and [technology & library program intern for the **American Civil Liberties Union of Washington**](https://web.archive.org/web/20160915165639/https://aclu-wa.org/blog/organizations-supporting-tor-help-us-help-you), [published](https://web.archive.org/web/20160908123714/https:/twitter.com/yawnbox/status/773716593989648384) a blog post on September 7th containing [his witness account](https://archive.is/zXpAI) regarding the allegations by "River." He described [his brief interaction with her at the Vabali Spa](https://archive.is/zXpAI#selection-77.56-77.877) and the [evening movie session at Appelbaum's apartment](https://archive.is/zXpAI#selection-81.0-169.299), where he saw "[Jacob and River were cuddling throughout the entire movie](https://archive.is/zXpAI#selection-109.0-109.58)."
+
+> [If River was under the influence of drugs or alcohol, it was not apparent. At no point did she seem distressed or abused. Nobody did. Further, no one was having sex in the living room.](https://archive.is/zXpAI#selection-133.0-133.184)
+
 ## The Public Reaction
 
 ### Cult of the Dead Cow
