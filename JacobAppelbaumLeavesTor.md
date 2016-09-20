@@ -39,7 +39,7 @@
 
 ## The History
 
-`Note: This section is for events or statements leading up to Appelbaum's resignation which may be relevant.`
+`Note: This section is for relevant events or statements leading up to Appelbaum's resignation.`
 
 ### Early Life
 
