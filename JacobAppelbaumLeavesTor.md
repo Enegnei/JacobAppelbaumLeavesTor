@@ -497,7 +497,7 @@ The [@VictimsOfJake](https://archive.is/pXStd) account [shared another link](htt
 
 ## The Allegations
 
-`Warning: Many of these stories haven't been verified or vouched for! They are here to document allegations.`
+`Warning: Many stories haven't been verified or vouched for! They are only here to document allegations.`
 
 ### Victims
 
