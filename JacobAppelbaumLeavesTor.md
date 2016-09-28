@@ -733,9 +733,9 @@ Christopher Sheats ([@yawnbox](https://web.archive.org/web/20160908143826/https:
 
 ### Cult of the Dead Cow
 
-As a [result](https://archive.is/q2zil) of the allegations, Appelbaum has been [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately." 
+As a [result](https://archive.is/q2zil) of the allegations, Appelbaum was [removed](https://web.archive.org/web/20160606171748/http://w3.cultdeadcow.com/cms/team_bio.html) from the computer underground group [Cult of the Dead Cow (cDc)](https://web.archive.org/web/20160603052306/http://w3.cultdeadcow.com/cms/about.html), of which he has been [a member since July 2008](https://web.archive.org/web/20160312134611/http://w3.cultdeadcow.com/cms/team_bio.html). Their [official statement](https://archive.is/M1Kgd#selection-67.202-67.401) says that "as we have become aware of the anonymous accusations of sexual assault, as well as the stories told by individuals we know and trust, we've decided to remove Jake from the herd effective immediately." 
 
-[Oxblood Ruffian](https://archive.is/GxVPv) (pseudonym), who has been a cDc member since April 1996, released their own individual statement on Appelbaum being removed from the group and how he "[used our name to advance his career and gain entrance to circles that might have been closed to him](https://archive.is/0fJev)" without actually contributing anything. He also says "[preying upon the vulnerable is an ungendered pathology](https://archive.is/0fJev#selection-381.355-381.410)" and defends the right of the victims to remain anonymous.
+[Oxblood Ruffian](https://archive.is/GxVPv) (pseudonym), a cDc member since April 1996, released their own individual statement on Appelbaum being removed from the group and how he "[used our name to advance his career and gain entrance to circles that might have been closed to him](https://archive.is/0fJev)" without actually contributing anything. He also says "[preying upon the vulnerable is an ungendered pathology](https://archive.is/0fJev#selection-381.355-381.410)" and defends the right of the victims to remain anonymous.
 
 ### Freedom of the Press Foundation
 
@@ -747,7 +747,7 @@ Fellow [board volunteer](https://web.archive.org/web/20160915022708/https://free
 
 ### Purism
 
-**Purism** quietly [removed](https://archive.is/6DS15) him after [a potential customer objected](https://archive.is/FV78W) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
+**Purism** quietly [removed](https://archive.is/6DS15) him after a potential customer, [free software advocate](https://web.archive.org/web/20131006045146/http://bre.klaki.net/bre/ummig.shtml) [Bjarni Rúnar Einarsson](https://web.archive.org/web/20160928164619/https:/twitter.com/HerraBRE?lang=en), [objected](https://web.archive.org/web/20160928164713/https:/twitter.com/HerraBRE/status/740518405363499015?lang=en) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
 
 ### Chaos Computer Club
 
