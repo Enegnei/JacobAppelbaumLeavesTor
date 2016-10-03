@@ -932,3 +932,7 @@ On September 12th, Yabut tweeted he had "[confirmed](https://web.archive.org/web
 > [Just injected my other 0-day research into the IC. Tor Project is dead.](https://web.archive.org/web/20160916193820/https:/twitter.com/movrcx/status/776863253712539648) [DING DONG THE WITCH IS DEAD. OTHER TOR EXPLOITS HANDED OVER TO THE IC. BURN IN HELL.](https://web.archive.org/web/20160916193939/https://twitter.com/movrcx/status/776864357598826496)
 
 > -- *Joshua Yabut* [@movrcx](https://twitter.com/movrcx) (September 16th, 2016)
+
+On September 22nd, [**Tor Project** developer] and [researcher](https://web.archive.org/web/20160402061604/http://cryptic.be/about.html) (https://archive.is/SYfoz#selection-165.0-165.24) [Griffin Boyce](https://web.archive.org/web/20161003182611/https:/twitter.com/abditum) noted in the [mailing list](https://web.archive.org/web/20161003182424/https://lists.torproject.org/pipermail/tor-talk/2016-September/042261.html) that [Yabut](https://web.archive.org/web/20161003181925/https:/twitter.com/movrcx/status/779250890163286017) [hadn't patched his own Rotor Browser](https://archive.is/FPc5j).
+
+![Bug bounty, patching Rotor Browser, source: https://web.archive.org/web/20161003184442/https:/twitter.com/AlecMuffett/status/779230640952737792](https://web.archive.org/web/20161003184442im_/https://pbs.twimg.com/media/CtBh6wmW8AAWv7k.jpg)
