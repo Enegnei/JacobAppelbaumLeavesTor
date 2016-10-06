@@ -747,7 +747,7 @@ Fellow [board volunteer](https://web.archive.org/web/20160915022708/https://free
 
 ### Purism
 
-**Purism** quietly [removed](https://archive.is/6DS15) him after a potential customer, [free software advocate](https://web.archive.org/web/20131006045146/http://bre.klaki.net/bre/ummig.shtml) [Bjarni Rúnar Einarsson](https://web.archive.org/web/20160928164619/https:/twitter.com/HerraBRE?lang=en), [objected](https://web.archive.org/web/20160928164713/https:/twitter.com/HerraBRE/status/740518405363499015?lang=en) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/).
+**Purism** quietly [removed](https://archive.is/6DS15) him immediately after a potential customer, [free software advocate](https://web.archive.org/web/20131006045146/http://bre.klaki.net/bre/ummig.shtml) [Bjarni Rúnar Einarsson](https://web.archive.org/web/20160928164619/https:/twitter.com/HerraBRE?lang=en), [objected](https://web.archive.org/web/20160928164713/https:/twitter.com/HerraBRE/status/740518405363499015?lang=en) to Appelbaum still being listed as their [security advisor](https://web.archive.org/web/20160604221755/https://puri.sm/about/) on June 8th.
 
 ### Chaos Computer Club
 
