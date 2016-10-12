@@ -335,7 +335,7 @@ A [screenshot of an email](https://archive.is/No8pV) sent to [Farivar](https://a
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
 
-`Note: Though surname & email address are blacked out, 'Kate' is likely Communications Director Kate Krauss.`
+`Note: Though surname & email address are blacked out, 'Kate' is Communications Director Kate Krauss.`
 
 ### Appelbaum Denounces Allegations
 
