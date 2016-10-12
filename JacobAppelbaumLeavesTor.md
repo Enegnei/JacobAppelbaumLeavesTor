@@ -331,7 +331,7 @@ On June 4th, Steele [released a longer public statement](https://archive.is/uOTp
 
 > That said, after we talked with some of the complainants, and after extensive internal deliberation and discussion, Jacob stepped down from his position as an employee of The Tor Project.
 
-Farivar said he had a "[story forthcoming](https://archive.is/aGbcD)" on this event. He has since published two, the [first](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) summarizing the allegations and Tor's response, the [second](https://archive.is/v9tPj) on Appelbaum's response. A [screenshot of an email](https://archive.is/No8pV) sent to him indicates, like the blog post, that they're investigating the allegations.
+A [screenshot of an email](https://archive.is/No8pV) sent to [Farivar](https://archive.is/aGbcD), who published summaries of the [allegations](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) and [Appelbaum's initial response](https://archive.is/v9tPj), indicated that they were investigating the allegations.
 
 ![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
 
