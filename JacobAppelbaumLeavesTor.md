@@ -333,7 +333,7 @@ On June 4th, Steele [released a longer public statement](https://archive.is/uOTp
 
 A [screenshot of an email](https://archive.is/No8pV) sent to [Farivar](https://archive.is/aGbcD), who published summaries of the [allegations](https://web.archive.org/web/20160605131228/http://arstechnica.com/tech-policy/2016/06/tor-developer-jacob-appelbaum-quits-after-sexual-mistreatment-allegations/) and [Appelbaum's initial response](https://archive.is/v9tPj), indicated that they were investigating the allegations.
 
-![screenshot of Tor email](https://pbs.twimg.com/media/CkGZAXPWgAEb45T.jpg)
+![screenshot of Tor email](https://archive.is/No8pV/7e4307b2032a78074b35eef02d47be8506d551c4.jpg)
 
 `Note: Though surname & email address are blacked out, 'Kate' is Communications Director Kate Krauss.`
 
