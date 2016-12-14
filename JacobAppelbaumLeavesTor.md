@@ -123,7 +123,7 @@ She also accused Appelbaum of lying about the date of his apology to Sassaman: A
 
 #### Online Harassment of the Tor Project
 
-Over a span of several months prior to the [**Chaos Communication Congress**](https://archive.is/FQsDm) (31c3) in December 2014, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/yF1cg) was the target of repeated online harassment. On Thanksgiving Day, she [doxxed the leading troll Jeremy Becker](https://web.archive.org/web/20160902180938/https://motherboard.vice.com/read/that-time-a-tor-developer-doxxed-a-troll) (aka '[JbJabroni10](https://web.archive.org/web/20141017222250/https://twitter.com/JbJabroni10)').
+Over a span of several months prior to the [**Chaos Communication Congress**](https://archive.is/FQsDm) (31c3) in December 2014, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/yF1cg) was the target of repeated online harassment. On Thanksgiving Day, she [doxxed the alleged lead troll Jeremy Becker](https://web.archive.org/web/20160902180938/https://motherboard.vice.com/read/that-time-a-tor-developer-doxxed-a-troll) (aka '[JbJabroni10](https://web.archive.org/web/20141017222250/https://twitter.com/JbJabroni10)').
 
 > Finally, in retaliation, Shepard published a blog post that [revealed](https://web.archive.org/web/20160327134457/http://charon.persephoneslair.org/~andrea/pandorasts/jeremy_becker/) JbJabroni’s real name: [Jeremy Becker](https://web.archive.org/web/20160327134457/http://charon.persephoneslair.org/~andrea/pandorasts/jeremy_becker/), a pharmacist who lives with his parents in New Jersey. Becker has since deleted all his accounts.
 
