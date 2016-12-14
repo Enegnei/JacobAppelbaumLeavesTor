@@ -145,7 +145,7 @@ Shepard expressed a "[wish he'd knock that crap off and grow up](https://web.arc
 
 > -- *Andrea Shepard* [@puellavulnerata](https://twitter.com/puellavulnerata) (December 1st, 2014)
 
-Shepard made similar comments several months later when she and Patterson defended [Curtis Yarvin](https://archive.is/TBD1y) (aka [Mencius Moldbug](https://web.archive.org/web/20160406201126/https://www.blogger.com/profile/16472157249344139282)), who was often compared to Auernheimer as a "[race troll](https://web.archive.org/web/20160811005144/https://twitter.com/rabite/status/606814595446095872)."
+Shepard made similar comments several months later when she and Patterson defended [Curtis Yarvin](https://archive.is/TBD1y) (aka [Mencius Moldbug](https://web.archive.org/web/20160406201126/https://www.blogger.com/profile/16472157249344139282)), who is often compared to Auernheimer as a "[race troll](https://web.archive.org/web/20160811005144/https://twitter.com/rabite/status/606814595446095872)."
 
 > [I do not think it is a good thing to warp one's mind in deference to popular unreason](https://web.archive.org/web/20160811005952/https://twitter.com/puellavulnerata/status/606853549444755456) ...[I don't want to live in the world bending the knee to popular tribalism and moral panic would make.](https://web.archive.org/web/20160811005613/https://twitter.com/puellavulnerata/status/606854315140108288)
 
