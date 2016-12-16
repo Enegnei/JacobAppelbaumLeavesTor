@@ -538,7 +538,7 @@ The GitHub copies of the entries are PNG images, the text of which is colored bl
 
 `The Vabali Spa, which Appelbaum and guests visited, in the middle of Berlin near the central station.`
  
-There are also complaints about [his name frequently being first on the list of authors](https://archive.is/5Aebu#selection-835.118-835.167) for academic papers; however [the practice of listing authorship alphabetically in research](https://web.archive.org/web/20160314150541/http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf) (at least in the U.S.), especially in the fields of math and computer science, is very common:
+There are also complaints about [his name frequently being first on the list of authors](https://archive.is/5Aebu#selection-835.118-835.167) for academic papers; however [the practice of listing authorship alphabetically in research](https://web.archive.org/web/20160314150541/http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf), especially within the U.S. and in the fields of math and computer science, is very common:
 
 > For this reason, mathematicians traditionally list authors on joint papers in alphabetical order. An analysis of journal articles with at least one U.S. based author shows that nearly half were jointly authored. Of these, more than 75% listed the authors in alphabetical order. In pure mathematics, nearly all joint papers (over 90%) list authors alphabetically. 
 
