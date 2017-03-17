@@ -554,7 +554,7 @@ There are also complaints about [his name frequently being first on the list of 
 
 > While these traditions are well-known to mathematicians, they are often misunderstood by other scholars whose traditions differ. Occasionally, this works against young mathematicians — especially those with names near the end of the alphabet.
 
-Only five people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton.
+Only six of the people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton.
 
 #### Nick Farr
 
