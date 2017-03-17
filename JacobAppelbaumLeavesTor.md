@@ -9,8 +9,8 @@
 *** 
 
 1. [**THE HISTORY**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-history)
-  1. [Early Life](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#early-life)
-  2. [Career](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#career)
+   1. [Early Life](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#early-life)
+   2. [Career](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#career)
 2. [**THE RESIGNATION**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-resignation)
    1. [Removal from Core Tor](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#removal-from-core-tor)
    2. [Patterson Denounces "Gross Diservice to Tor Community"](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#patterson-denounces-gross-disservice-to-tor-community)
@@ -20,8 +20,8 @@
 3. [**THE WEBSITE AND TWITTER ACCOUNTS**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-website-and-twitter-accounts)
    1. [Leaked Tor-Internal Chat Logs](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#leaked-tor-internal-chat-logs)
 4. [**THE ALLEGATIONS**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-allegations)
-  1. [Victims](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#victims)
-  2. [Witnesses](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#witnesses)
+   1. [Victims](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#victims)
+   2. [Witnesses](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#witnesses)
 5. [**THE PUBLIC REACTION**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-public-reaction)
    1. [Cult of the Dead Cow](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#cult-of-the-dead-cow)
    2. [Freedom of the Press Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#freedom-of-the-press-foundation)
