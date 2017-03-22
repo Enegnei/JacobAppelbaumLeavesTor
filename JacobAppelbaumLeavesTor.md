@@ -720,6 +720,8 @@ Shortly after de Valence shared the Medium post, [engineering grad student](http
 
 On [March 22nd](https://web.archive.org/web/20170322222724/https://twitter.com/hyperelliptic/status/844637257294385152?lang=en), Lange [posted a short response](https://archive.fo/VDnJO) to de Valence's story. She countered that he "[never revealed the eye drop story to me](https://archive.fo/VDnJO#selection-445.3-445.53)" or "[any firsthand bad experience](https://archive.fo/VDnJO#selection-445.55-445.105)," only that "[Lovecruft felt threatened](https://archive.fo/VDnJO#selection-445.129-445.154)." After they "[had a long chat](https://archive.fo/VDnJO#selection-453.2-453.279)" at the summerschool in Croatia, he said "[he was very happy that we talked](https://archive.fo/VDnJO#selection-453.280-453.594)."
 
+> [To this date I have not seen the complaint email he says he sent to HR.](https://archive.fo/VDnJO#selection-449.3-449.74)
+
 ### Witnesses
 
 #### Yan Zhu
