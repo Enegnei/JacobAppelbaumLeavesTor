@@ -722,6 +722,8 @@ On [March 22nd](https://web.archive.org/web/20170322222724/https://twitter.com/h
 
 > [To this date I have not seen the complaint email he says he sent to HR.](https://archive.fo/VDnJO#selection-449.3-449.74)
 
+On [March 23rd](https://web.archive.org/web/20170323232644/https://twitter.com/hashbreaker/status/844939046552002560?lang=en), Bernstein also [posted a response](https://archive.fo/1Qi6K) to de Valence's story.
+
 ### Witnesses
 
 #### Yan Zhu
