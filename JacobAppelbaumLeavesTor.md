@@ -726,7 +726,7 @@ On [March 23rd](https://web.archive.org/web/20170323232644/https://twitter.com/h
 
 > [When the errors are stripped away, what we find from Mr. de Valence is a fundamental failure to focus on the facts. He's full of accusatory words and insinuations, and remarkably light on details. Does this really sound like someone "trying to blow the whistle"?](https://archive.fo/1Qi6K#selection-9.5915-9.6178)
 
-He later tweeted that de Valence's "[discomfort seemed quite serious, and I don't think it was made up.](https://web.archive.org/web/20170324032505/https://twitter.com/hashbreaker/status/845087343447085056?lang=en)" He has since [tweeted two commitment hashes](https://web.archive.org/web/20170330212357/https://twitter.com/hashbreaker?lang=en) but also claimed to have [recused himself from any further investigation](https://web.archive.org/web/20170330212713/https://twitter.com/hashbreaker/status/846121386070458368?lang=en) into the matter.
+He later tweeted that de Valence's "[discomfort seemed quite serious, and I don't think it was made up.](https://web.archive.org/web/20170324032505/https://twitter.com/hashbreaker/status/845087343447085056?lang=en)" He has since [tweeted two commitment hashes](https://web.archive.org/web/20170330212357/https://twitter.com/hashbreaker?lang=en) but also claimed to have [recused himself from any further investigation](https://web.archive.org/web/20170330212713/https://twitter.com/hashbreaker/status/846121386070458368?lang=en) into the matter. Lange has also [tweeted a commitment hash](https://web.archive.org/web/20170404181743/https://twitter.com/hyperelliptic/status/848824448484552704?lang=en).
 
 ### Witnesses
 
