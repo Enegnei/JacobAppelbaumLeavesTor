@@ -897,7 +897,9 @@ Though he also did not directly mention Appelbaum by name or the allegations, [D
 
 > ...  It's really not that hard to stay calm and say something like this: "We weren't there. At this point we can't be sure what happened. Sometimes accusations are true, and sometimes they aren't. It's important for a neutral judge to hear testimony from the accuser and from the accused."
 
-> But not everyone stays calm. Angry people continue to join these mobs. They blog and tweet and report their ill-informed speculations in favor of the accuser or the accused, confident in their own righteousness and blithely unaware of the possibility of being wrong. Ultimately the accused and the accuser are both punished, truth be damned. 
+> But not everyone stays calm. Angry people continue to join these mobs. They blog and tweet and report their ill-informed speculations in favor of the accuser or the accused, confident in their own righteousness and blithely unaware of the possibility of being wrong. Ultimately the accused and the accuser are both punished, truth be damned.
+
+*Further information can be found [here](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#henry-de-valence).*
 
 #### "Our Response"
 
@@ -935,7 +937,7 @@ On August 19th, [Shannon Cunningham](https://web.archive.org/web/20160823192331/
 
 #### Laura Poitras
 
-On May 2nd, three days before the official theatre début of '[*Risk*](https://web.archive.org/web/20170504173554/http://riskfilm.org/)' (see under '[*Appelbaum Denounces Allegations*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#appelbaum-denounces-allegations)') at the [**IFC Center** in New York City](https://web.archive.org/web/20170504173728/http://www.ifccenter.com/films/risk/), Poitras was [interviewed](https://web.archive.org/web/20170504174355/https://twitter.com/ninaburleigh/status/859528911251795970) by [**Newsweek**'s national politics correspondent](https://web.archive.org/web/20170504174245/https:/twitter.com/ninaburleigh?lang=en) [Nina Burleigh](https://web.archive.org/web/20170504174833/http://www.ninaburleigh.com/) about the documentary. When asked about her relationship with the IT community and Appelbaum, she said "[the allegations against him were made two weeks after the film was screened at Cannes](https://archive.fo/vN3Dw#selection-4781.0-4785.751)" and that they influenced her decision to remake the film, but she [did not reframe it to focus on the "gender war."](https://archive.fo/vN3Dw#selection-4717.0-4721.360)
+On May 2nd 2017, three days before the official theatre début of '[*Risk*](https://web.archive.org/web/20170504173554/http://riskfilm.org/)' (see under '[*Appelbaum Denounces Allegations*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#appelbaum-denounces-allegations)') at the [**IFC Center** in New York City](https://web.archive.org/web/20170504173728/http://www.ifccenter.com/films/risk/), Poitras was [interviewed](https://web.archive.org/web/20170504174355/https://twitter.com/ninaburleigh/status/859528911251795970) by [**Newsweek**'s national politics correspondent](https://web.archive.org/web/20170504174245/https:/twitter.com/ninaburleigh?lang=en) [Nina Burleigh](https://web.archive.org/web/20170504174833/http://www.ninaburleigh.com/) about the documentary. When asked about her relationship with the IT community and Appelbaum, she said "[the allegations against him were made two weeks after the film was screened at Cannes](https://archive.fo/vN3Dw#selection-4781.0-4785.751)" and that they influenced her decision to remake the film, but she [did not reframe it to focus on the "gender war."](https://archive.fo/vN3Dw#selection-4717.0-4721.360)
 
 > "[I defend due process, everyone deserves due process](https://archive.fo/vN3Dw#selection-4785.699-4785.751)."
 
