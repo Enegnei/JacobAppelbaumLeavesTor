@@ -949,6 +949,10 @@ On May 4th, **International Criminal Court** (ICC) lawyer [Melinda Taylor](https
 
 On May 5th, in an interview between Poitras and **The Nation**'s [Jon Wiener](https://web.archive.org/web/20170505145537/https:/twitter.com/JonWiener1), she says "[you see in the film that he stepped down](https://archive.fo/xmsF9#selection-1617.0-1619.326)" from the **Tor Project**.
 
+![Laura Poitras, Jacob Appelbaum, Sarah Harrison at Cannes Festival](https://web.archive.org/web/20170505155301/http://culturebox.francetvinfo.fr/sites/default/files/styles/asset_in_body_full_width/public/filefield_paths/assange02.jpg?itok=JKemtfXj)
+
+`Poitras, Appelbaum, Harrison at Festival de Cannes, May 19th 2016. Photo credit: © Jean-François Lixon`
+
 ### Internet Freedom Festival
 
 On June 15th, **The Daily Dot** published [information](https://archive.is/NRQB4#selection-4629.0-4629.23) from [Tom Lowenthal](https://web.archive.org/web/20150326060100/http://tomlowenthal.com/), currently staff technologist for the [**Committee to Protect Journalists** (CPJ)](https://archive.is/Pr5hq#selection-6449.0-6449.18) and a track lead for journalism & media at the [**Internet Freedom Festival**](https://archive.is/6nauY#selection-3111.0-3111.31), which in 2016 was held [March 1-6th](https://archive.is/C1tid). Lowenthal says that the organizers of the **Internet Freedom Festival** were aware of the allegations prior to the event and "[decided in advance that Appelbaum would not be allowed at the conference or inside the venue and had a contingency plan in place in case he tried to participate](https://archive.is/emaP9#selection-1057.0-1057.389)." 
