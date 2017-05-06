@@ -560,8 +560,6 @@ There are also complaints about [his name frequently being first on the list of 
 
 > While these traditions are well-known to mathematicians, they are often misunderstood by other scholars whose traditions differ. Occasionally, this works against young mathematicians — especially those with names near the end of the alphabet.
 
-Only six of the people claiming to be victims of Appelbaum have publicly come forward, outside of the allegations of plagiarism by Patterson and Norton.
-
 #### Nick Farr
 
 The [first](https://archive.is/bFXW2) was [Nick Farr](https://archive.is/9kjWs), who is one of three to claim authorship of [a story](https://archive.is/vekwa) on the victims website. His entry is now dated [January 25th, 2016](https://archive.is/qBIJV#selection-647.0-649.0). He alleges a span of incidents of verbal harassment which occurred during the [**Chaos Communication Congress** event in 2013 (30c3)](https://web.archive.org/web/20160411055714/https://events.ccc.de/congress/2013/wiki/Main_Page), where he was an organizer of the Lightning Talks; Norton [says](https://archive.is/thLMm) she witnessed it. After approving a proposal for a talk which was going to argue that Appelbaum was a US Intelligence Operative, he was chastised first via email and then in person multiple times by both Appelbaum and "important people in the CCC." 
