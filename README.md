@@ -8,7 +8,7 @@
 
 If you have questions, concerns, or information, feel free to [contact me](https://keybase.io/j9roem). Anything you send me, if it is not already publicly available, will not be published here without your consent. If you are okay with it being public, you can also submit an [Issue](https://github.com/Enegnei/JacobAppelbaumLeavesTor/issues) (if you're not familiar with GitHub, it's like a comment section). If you're wondering why I'm using GitHub for journalism, read my documentation on [**revision-controlled journalism**](https://gist.github.com/Enegnei/b6f084af026c4303e0915db4c26393e4). I receive no formal compensation for this work; if you'd like to support me, I take [tips](http://protip.is/): `1PytMk24QZB147N9oW1jA6AhAoSsyqLhkB`
 
-*I welcome & encourage you to contribute to this investigation by pull-requesting or forking this repository ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))*
+*I welcome & encourage you to contribute to this investigation by pull-requesting or forking this repository ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))*.
 
 **Media Mentions (Unaffiliated):**
 + [**Cypherpunks Mailing List**](https://cpunks.org/mailman/listinfo/cypherpunks): [Wikileaks is the Endgame](https://cpunks.org/pipermail/cypherpunks/2016-June/013672.html) ([archived](https://archive.is/s6rJr))
