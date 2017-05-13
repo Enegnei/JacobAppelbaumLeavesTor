@@ -650,7 +650,7 @@ In [September](https://web.archive.org/web/20161013143903/https:/twitter.com/isi
 
 ![Lovecruft on a Berlin panel discussion in June, source:https://web.archive.org/web/20161016033552/https:/twitter.com/gmcmullen/status/738010233499422720?lang=en](https://web.archive.org/web/20161016033552im_/https://pbs.twimg.com/media/Cj3wXZwWsAADkTL.jpg)
 
-`Lovecruft, Steiner, Stark, Wilcox at Blue Yard Capital's event in Berlin on June 1st, 2016`
+`Lovecruft, Steiner, Stark, Wilcox at BlueYard Capital's event in Berlin on June 1st, 2016`
 
 Lovecruft, having previously maintained a residence at her parents' Los Angelos home, left the U.S. to move to Berlin on [December 7th 2015](https://archive.is/Izrfi#selection-1519.0-1547.41) after [the FBI](https://web.archive.org/web/20161019014631/https:/twitter.com/isislovecruft/status/727911067318423553?lang=eng) allegedly attempted to [contact her](https://archive.is/uxlFJ) in November several times: [leaving a card](https://archive.is/uxlFJ#selection-129.36-129.215) at her family's home, [calling her mother's personal cell phone number](https://archive.is/uxlFJ#selection-175.566-179.319), [telling her lawyer that she should call them](https://archive.is/uxlFJ#selection-207.0-217.112) to [give her "opinion" on some documents](https://archive.is/uxlFJ#selection-321.259-325.40), which was [later retracted via voicemail](https://archive.is/uxlFJ#selection-375.219-383.361). They contacted her again at the end of April 2016, [with the added threat](https://archive.is/uxlFJ#selection-435.0-443.26) of a [subpoena](https://web.archive.org/web/20161019015046/https:/twitter.com/isislovecruft/status/732593939719593984?lang=en), though they claimed she was not the target of their unspecified investigation.
 
