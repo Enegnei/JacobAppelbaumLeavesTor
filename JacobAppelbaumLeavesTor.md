@@ -1027,9 +1027,7 @@ On May 13th, **Telekommunisten** members [Baruch Gottlieb](https://web.archive.o
 
 > [Telekommunisten have endured your toxic community long enough, you bring your self-importance and entitlement to us, flood our space with your dysfunctional community and then place expectations on us to police you. We owe you nothing. To be honest, we think you are a bunch of petty bourgeois assholes, who we only accommodate because we are polite.](https://archive.is/4u4BY#selection-63.0-63.350)
 
-Callendrello responded to their tweet:
-
-> [Thanks for writing this. I think you're right; my earlier tweet confused Telekommunisten and Stammtisch too much. I'm sorry for that.](https://archive.is/JHMlN#selection-4953.0-4953.133) [If you'd like me to delete it, I will.](https://archive.is/JHMlN#selection-4587.0-4587.38)
+Both [Callendrello](https://archive.is/JHMlN#selection-4953.0-4953.133) and [Reilly](https://archive.fo/pWQ16#selection-5749.0-5749.139) thanked them for their response.
 
 ### The Tor Project
 
