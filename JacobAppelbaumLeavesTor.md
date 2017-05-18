@@ -481,7 +481,7 @@ On August 8th, [another new **Twitter** account](https://web.archive.org/web/201
 
 ![Tweets responding to graphic gifs](https://pbs.twimg.com/media/CpWJmVtUkAENwxk.jpg)
 
-On August 15th, a fifth Twitter account was created called "@VictimsOfAndrea," parodying the handle @VictimsOfJake. Most of its tweets consisted of [screenshots of Shepard's tweets](https://archive.is/JLPMf) or telling people to call Shepard a "[witting US Govt agent](https://archive.is/ZCoeH#selection-5669.0-5669.106)", and its [first tweet](https://archive.is/ZCoeH#selection-12557.0-12585.1) directly referenced Jeremy Becker (see '[*Online Harassment of the Tor Project*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#online-harassment-of-the-tor-project)'). The account was [last active](https://archive.is/mrmS1#selection-3007.0-3007.10) sometime in December 2016.
+On August 15th, a fifth Twitter account was created called "[@VictimsOfAndrea](https://web.archive.org/web/20160816132341/https:/twitter.com/VictimsOfAndrea/with_replies)," parodying the handle @VictimsOfJake. Most of its tweets consisted of [screenshots of Shepard's tweets](https://archive.is/JLPMf) or telling people to call Shepard a "[witting US Govt agent](https://archive.is/ZCoeH#selection-5669.0-5669.106)", and its [first tweet](https://archive.is/ZCoeH#selection-12557.0-12585.1) directly referenced Jeremy Becker (see '[*Online Harassment of the Tor Project*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#online-harassment-of-the-tor-project)'). The account was [last active](https://archive.is/mrmS1#selection-3007.0-3007.10) sometime in December 2016.
 
 ### Leaked Tor-Internal Chat Logs
 
