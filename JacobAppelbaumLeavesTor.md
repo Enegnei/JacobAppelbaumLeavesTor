@@ -989,6 +989,8 @@ On May 17th, **WikiLeaks** lawyers [Margaret Kunstler](https://web.archive.org/w
 
 > [Instead of a documentary about the abuse of state power and WikiLeaks' important role in exposing it, the emphasis of the film is now to highlight hotly disputed claims about an ex-boyfriend.](https://archive.is/d33FY#selection-665.0-665.191)
 
+Though this was not stated in the review, the **WikiLeaks** account tweeted that their "[legal team may sue Laura Poitras](https://web.archive.org/web/20170518000751/https:/twitter.com/wikileaks/status/864991661151199232?lang=en)."
+
 ![Laura Poitras, Jacob Appelbaum, Sarah Harrison at Cannes Festival](https://web.archive.org/web/20170505155301/http://culturebox.francetvinfo.fr/sites/default/files/styles/asset_in_body_full_width/public/filefield_paths/assange02.jpg?itok=JKemtfXj)
 
 `Poitras, Appelbaum, Harrison at Festival de Cannes, May 19th 2016. Photo credit: © Jean-François Lixon`
