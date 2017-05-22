@@ -371,8 +371,6 @@ On [August 12th](https://web.archive.org/web/20160812132547/https:/twitter.com/z
 
 > “The numerous victims that this process creates are not helped at all; the innocent along with the allegedly guilty are savaged and rejected without ever getting a chance to defend themselves.”
 
-**The Guardian** was among the [media](https://archive.is/FrTlr#selection-2863.0-2923.77) Appelbaum denounced in April (see '[*Denunciation of Establishment Media*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#denunciation-of-establishment-media)').
-
 ### Replacement of Tor Project Board Members
 
 On July 13th, the **Tor Project** [announced](https://archive.is/IU6S7) that it would be [replacing all seven members on the board of directors](https://archive.is/L1iIh) "in keeping with its commitment to the best possible health of the organization." The statement was [written by the outgoing board](https://archive.is/vVYc0#selection-75.2-75.56) and [posted as a press release](https://archive.is/vVYc0#selection-75.57-75.133) by [Krauss](https://archive.is/yxqlC#selection-471.0-471.57). Though Dingledine and Mathewson stepped down from the board, they will "[continue in their roles as co-founders of the Tor Project, leading Tor's technical research and development](https://archive.is/L1iIh#selection-143.0-143.404)."
