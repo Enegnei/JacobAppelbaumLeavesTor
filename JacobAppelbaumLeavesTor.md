@@ -349,7 +349,7 @@ A [screenshot of an email](https://archive.is/No8pV) sent to [Farivar](https://a
 
 ![screenshot of Tor email](https://archive.is/No8pV/7e4307b2032a78074b35eef02d47be8506d551c4.jpg)
 
-Though the surname & email address are blacked out, 'Kate' is former [Communications and Public Policy Director](https://web.archive.org/web/20170610181210/https://technical.ly/person/kate-krauss/) [Kate Krauss](https://web.archive.org/web/20170610180628/https://twitter.com/AIDSPol?lang=en). Her only personal comment in response to Appelbaum leaving the **Tor Project** was "[tears](https://web.archive.org/web/20170610175252/https:/twitter.com/AIDSPol/status/738522824013447168?lang=en)."
+Though the surname & email address are blacked out, 'Kate' is former [Communications and Public Policy Director](https://web.archive.org/web/20170610181210/https://technical.ly/person/kate-krauss/) [Kate Krauss](https://web.archive.org/web/20170610180628/https://twitter.com/AIDSPol?lang=en). Her only personal public comment in response to Appelbaum leaving the **Tor Project** was "[tears](https://web.archive.org/web/20170610175252/https:/twitter.com/AIDSPol/status/738522824013447168?lang=en)."
 
 ### Appelbaum Denounces Allegations
 
