@@ -362,8 +362,6 @@ A [screenshot of an email](https://archive.is/No8pV) sent to [Farivar](https://a
 
 ![screenshot of Tor email](https://archive.is/No8pV/7e4307b2032a78074b35eef02d47be8506d551c4.jpg)
 
-Though the surname & email address are blacked out, 'Kate' is former [Communications and Public Policy Director](https://web.archive.org/web/20170610181210/https://technical.ly/person/kate-krauss/) [Kate Krauss](https://web.archive.org/web/20170610180628/https://twitter.com/AIDSPol?lang=en). Her only personal public comment in response to Appelbaum leaving the **Tor Project** was "[tears](https://web.archive.org/web/20170610175252/https:/twitter.com/AIDSPol/status/738522824013447168?lang=en)."
-
 ### Appelbaum Denounces Allegations
 
 Appelbaum's last message, prior to these allegations going public, was a tweet on the day he supposedly left the **Tor Project**: "[Changing of the guards](https://web.archive.org/web/20160605180001/https://twitter.com/ioerror/status/736259103790632960)." He remained silent until June 6th, when he [issued a statement](https://archive.is/YZ2co) using [TwitLonger](https://archive.is/I7Zhd), both to say that the allegations against him where "entirely false" and the "vicious and spurious" way they were delivered has made him "prepared to use legal channels, if necessary, to defend my reputation from these libelous accusations."
