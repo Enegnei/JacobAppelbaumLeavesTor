@@ -211,7 +211,7 @@ He also warned Appelbaum that he should resign if he didn't want to follow the t
 
 ![Roger Dingledine, source: https://web.archive.org/web/20160805015805/https:/twitter.com/torproject/status/671821341658509312](https://web.archive.org/web/20160805015805im_/https://pbs.twimg.com/media/CVLJ8y9XIAAYuWb.jpg)
 
-According to [**Buzzfeed**](https://archive.is/wvbwZ), one of the people who advanced a complaint around this time was then [Development Director Karen Reilly](https://archive.is/WTt5r#selection-673.0-673.34).
+According to [**Buzzfeed**](https://archive.is/wvbwZ), another person who made a complaint around this time was then [Development Director Karen Reilly](https://archive.is/WTt5r#selection-673.0-673.34).
 
 > She told [the board of the Tor Project] about Appelbaum’s public and false claims that he had sex with a specific member of the Tor community — something multiple sources have told BuzzFeed News Appelbaum has “done to too many people to count.” And she told them of darker allegations against him that had come up after a group of disgusted Tor community members gathered to share stories.
 
