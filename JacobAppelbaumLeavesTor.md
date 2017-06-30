@@ -1021,6 +1021,8 @@ On June 17th, Poitras and her fellow producers responded in [**Newsweek**](https
 
 > [In 2016, he signed an agreement to license WikiLeaks’ own footage to us and raised no objection to mailing a hard drive with footage directly to our editing room in New York City.](https://archive.is/AQkN0#selection-4779.66-4779.307)
 
+On June 29th, in an interview with [**Guardian**](https://web.archive.org/web/20170630124022/https:/twitter.com/guardian/status/880713911649128448?lang=en) feature writer [Simon Hattenstone](https://web.archive.org/web/20170630124122/https:/twitter.com/shattenstone?lang=en), Poitras said she "[knew I was being followed by intelligence agencies](https://archive.is/KIYkv#selection-3875.0-3879.334)" after making *Citizenfour*.
+
 ### Internet Freedom Festival
 
 On June 15th, **The Daily Dot** published [information](https://archive.is/NRQB4#selection-4629.0-4629.23) from [Tom Lowenthal](https://web.archive.org/web/20150326060100/http://tomlowenthal.com/), currently staff technologist for the [**Committee to Protect Journalists** (CPJ)](https://archive.is/Pr5hq#selection-6449.0-6449.18) and a track lead for journalism & media at the [**Internet Freedom Festival**](https://archive.is/6nauY#selection-3111.0-3111.31), which in 2016 was held [March 1-6th](https://archive.is/C1tid). Lowenthal says that the organizers of the **Internet Freedom Festival** were aware of the allegations prior to the event and "[decided in advance that Appelbaum would not be allowed at the conference or inside the venue and had a contingency plan in place in case he tried to participate](https://archive.is/emaP9#selection-1057.0-1057.389)." 
