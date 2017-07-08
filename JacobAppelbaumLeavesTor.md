@@ -225,9 +225,11 @@ Like Appelbaum, Reilly was also given a ten-day suspension, but for "[spreading 
 
 > If I had the power to remove the sexual harassers and misogynists from our midst, don’t you think I would have done so already? The problem is that I don’t have the power. If I worked for the sort of industry that removed awful men, I would have the power to remove awful men. If I say something, I’m the hysterical bitch who just wants to create drama. If I oppose an abuser openly, I become a target along with the people I care about.
 
+In a [Medium post](https://web.archive.org/web/20170705133010/https:/twitter.com/akareilly/status/882285615248789505?lang=en) published on July 4th 2017, she wrote in the second-person about [a conflict with an HR person at a tech organisation that led to resignation](https://archive.is/WkCGk#selection-351.1-393.279) and further employment issues. She may have been indicating that she has been under NDA with the **Tor Project**, hence the use of a detached grammatical person.
+
 **Golem.de** claims they have confirmed the authenticity of the letter ("... [die Echtheit der Mail bestätigt](https://archive.is/J7rxB#selection-547.109-547.219)"), though the submitter remains anonymous and the **Tor Project** has [not confirmed it](https://archive.is/vM92Z#selection-4191.1-4201.77). **Ars Technica** Senior Business Editor and journalist [Cyrus Farivar](https://web.archive.org/web/20160602030108/http://arstechnica.com/author/cyrus-farivar/) has [also published](https://archive.is/vVDQC) a copy of the [internal email](https://web.archive.org/web/20160610033307/https://assets.documentcloud.org/documents/2858268/Appelbaum-Wurde-Im-Jahr-2015-Ausgesetzt.pdf), which he said was [sent to him anonymously](https://archive.is/vM92Z#selection-3259.8-3259.19).
 
-Between the 17th and 18th, when Leckrone sent the suspension email, Reilly tweeted what is possibly a reference to the "[canary in the coal mine](https://en.wiktionary.org/wiki/canary_in_a_coal_mine#English)" allusion:
+Between the 17th and 18th of March 2015, when Leckrone sent the suspension email, Reilly tweeted what is possibly a reference to the "[canary in the coal mine](https://en.wiktionary.org/wiki/canary_in_a_coal_mine#English)" allusion:
 
 > Canary status: dead. -- *Karen Reilly* [@akareilly](https://twitter.com/akareilly) ([March 17th, 2015](https://web.archive.org/web/20160731214426/https:/twitter.com/akareilly/status/577828583948816384))
 
