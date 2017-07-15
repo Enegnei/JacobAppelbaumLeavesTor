@@ -862,6 +862,12 @@ Her [third and final](https://web.archive.org/web/20160811111555/https:/twitter.
 
 > Tor’s organizational hierarchy was already flat, but this didn’t help them until Shari Steele came on board. Jake had co-opted leadership so thoroughly that they retaliated against Karen Reilly for reporting his behavior.
 
+In response to the **Drupal** controversy which began with the [presumption that a "mentally handicapped" woman did not have the capacity for informed consent](https://web.archive.org/web/20170715001919/https://www.drupal.org/association/blog/drupal-association-and-project-lead-statement-regarding-larry-garfield) to a relationship, Patterson was "[furious](https://archive.is/ZRjZD#selection-4527.24-4527.31)" the **Drupal Association** leadership had assumed she was being exploited without first asking her, and used that misplaced judgement to expel the **Drupal** member she was with:
+
+> How hard is it to talk to someone you're concerned about, rather than making assumptions about whether they can act independently at all?
+
+> -- *Meredith Patterson* [@maradydd](https://web.archive.org/web/20170715000519/https:/twitter.com/maradydd/status/885936089940340737?lang=en) (July 14, 2017)
+
 #### Christopher Sheats
 
 Christopher Sheats ([@yawnbox](https://web.archive.org/web/20160908143826/https:/twitter.com/yawnbox)), [board chair](https://archive.fo/jyEEc#selection-381.25-393.18) of the [**Seattle Privacy Coalition**](https://web.archive.org/web/20160823181055/https:/twitter.com/SeattlePrivacy) and [technology & library program intern for the **American Civil Liberties Union of Washington**](https://web.archive.org/web/20160915165639/https://aclu-wa.org/blog/organizations-supporting-tor-help-us-help-you), [published](https://web.archive.org/web/20160908123714/https:/twitter.com/yawnbox/status/773716593989648384) a blog post on September 7th containing [his witness account](https://archive.is/zXpAI) regarding the allegations by "River." He described [his brief interaction with her at the Vabali Spa](https://archive.is/zXpAI#selection-77.56-77.877) and the [evening movie session at Appelbaum's apartment](https://archive.is/zXpAI#selection-81.0-169.299), where he saw "[Jacob and River were cuddling throughout the entire movie](https://archive.is/zXpAI#selection-109.0-109.58)."
