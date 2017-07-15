@@ -862,7 +862,7 @@ Her [third and final](https://web.archive.org/web/20160811111555/https:/twitter.
 
 > Tor’s organizational hierarchy was already flat, but this didn’t help them until Shari Steele came on board. Jake had co-opted leadership so thoroughly that they retaliated against Karen Reilly for reporting his behavior.
 
-In response to the **Drupal** controversy which began with the [presumption that a "mentally handicapped" woman did not have the capacity for informed consent](https://web.archive.org/web/20170715001919/https://www.drupal.org/association/blog/drupal-association-and-project-lead-statement-regarding-larry-garfield) to a relationship, Patterson was "[furious](https://archive.is/ZRjZD#selection-4527.24-4527.31)" the **Drupal Association** leadership had assumed she was being exploited without first asking her, and used that misplaced judgement to expel the **Drupal** member she was with:
+In response to the **Drupal** controversy which began with the [presumption that a "mentally handicapped" woman did not have the capacity for informed consent](https://web.archive.org/web/20170715001919/https://www.drupal.org/association/blog/drupal-association-and-project-lead-statement-regarding-larry-garfield) to a relationship, Patterson was "[furious](https://archive.is/ZRjZD#selection-4527.24-4527.31)" the **Drupal Association** leadership had assumed she was being exploited without first asking her, and used that misplaced judgement to demote a **Drupal** member:
 
 > How hard is it to talk to someone you're concerned about, rather than making assumptions about whether they can act independently at all?
 
