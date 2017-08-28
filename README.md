@@ -1,6 +1,6 @@
 # :negative_squared_cross_mark: :white_small_square: :white_medium_small_square: :white_medium_small_square: :white_medium_square: :white_large_square: :white_large_square: Jacob Appelbaum Leaves Tor :white_large_square: :white_large_square: :white_medium_square: :white_medium_small_square: :white_medium_small_square: :white_small_square: :negative_squared_cross_mark:
 
-![Jacob Appelbaum photo, from: https://www.flickr.com/photos/re-publica/13937980899/](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn0.dailydot.com%2Fcache%2Fcd%2F24%2Fcd24f8a795450f4250dac78c0edd6f83.jpg&f=1)
+![Jacob Appelbaum, from: https://www.flickr.com/photos/re-publica/13937980899/](https://www.dailydot.com/wp-content/uploads/df0/5e/cd24f8a795450f4250dac78c0edd6f83.jpg)
 
 `Jacob Appelbaum speaks at re:publica 2014 in Station-Berlin. Photo credit: DAVIDS/Gregor Fischer`
 
