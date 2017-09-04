@@ -732,6 +732,8 @@ The fourth was [Leigh Honeywell](https://archive.is/Cm3R9), a computer and netwo
 
 On June 21st, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://archive.is/3KfaP), and [Mary Gardiner](https://archive.is/5FjVu) published a list of recommendations for communities on how to "[prevent 'rock stars'](https://archive.is/GAl9X)." However there are [concerns](https://archive.is/Ciz5a#selection-3601.1-3650.1) that based on Aurora's [reaction to Kobeissi](https://archive.is/8pjdK#selection-7227.1-7227.92) and [others](https://archive.is/RhwaF#selection-4457.0-4506.1), she belongs to the same '[rock star](https://archive.is/qXNwS)' mentality she is supposedly condemning.
 
+More than a year later, [Honeywell](https://web.archive.org/web/20170718172214/https://twitter.com/hypatiadotca/status/887259564160188416) and [Aurora](https://web.archive.org/web/20170718143300/https://twitter.com/vaurorapub/status/887312978508427265) co-authored a blog post outlining what they called "[the Al Capone Theory of Sexual Harassment](https://archive.is/pnqtw)." They referenced the allegations against Appelbaum, citing that he had left the **Tor Project** due to "[sexual misconduct and plagiarism](https://archive.is/pnqtw#selection-261.74-267.1)," though no evidence of plagiarism has been presented and those allegations were not even acknowledged in [Steele's blog post on the investigation](https://archive.is/lkywt).
+
 #### Ásta Guðrún Helgadóttir
 
 The fifth was [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Icelandic politician and [Pirate Party member](https://archive.is/sGSp6), who tweeted allegations of sexual misconduct:
