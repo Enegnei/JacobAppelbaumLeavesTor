@@ -784,6 +784,10 @@ On [March 23rd](https://web.archive.org/web/20170323232644/https://twitter.com/h
 
 He later tweeted that de Valence's "[discomfort seemed quite serious, and I don't think it was made up.](https://web.archive.org/web/20170324032505/https://twitter.com/hashbreaker/status/845087343447085056?lang=en)" He has since [tweeted two commitment hashes](https://web.archive.org/web/20170330212357/https://twitter.com/hashbreaker?lang=en) but also claimed to have [recused himself from any further investigation](https://web.archive.org/web/20170330212713/https://twitter.com/hashbreaker/status/846121386070458368?lang=en) into the matter. Lange has also [tweeted a commitment hash](https://web.archive.org/web/20170404181743/https://twitter.com/hyperelliptic/status/848824448484552704?lang=en).
 
+#### Chelsea Komlo
+
+> + [River](https://archive.is/0jbVl): "I didn't know until very recently that nonconsensual sex, by a friend, is rape" ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)).
+
 ### Witnesses
 
 #### Yan Zhu
