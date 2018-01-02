@@ -173,6 +173,8 @@ A month earlier in November 2014, Appelbaum had also asked [Eleanor Saitta](http
 
 > [There are none. There's folks who're friends with specific humans, some of whom believe](http://archive.is/5ofww) [in things they disagree w/, like the occasional legitimacy of state violence, or eating meat.](http://archive.is/S0NbP) [And yes, fucked race politics](http://archive.is/AnmMY) [too]. [Because if you never talk to the other side, you lose.](http://archive.is/AnmMY) [Left purity never won anything, Jake. We're all humans and we have to live together.](http://archive.is/xZjHe)
 
+> -- *Eleanor Saitta* [@Dymaxion](https://twitter.com/Dymaxion) (November 5th, 2014)
+
 Similar comments were made again several months later when Shepard and Patterson defended [Curtis Yarvin](https://archive.is/TBD1y) (aka "[Mencius Moldbug](https://web.archive.org/web/20160406201126/https://www.blogger.com/profile/16472157249344139282)"), who is often compared to Auernheimer as a "[race troll](https://web.archive.org/web/20160811005144/https://twitter.com/rabite/status/606814595446095872)."
 
 > [I do not think it is a good thing to warp one's mind in deference to popular unreason](https://web.archive.org/web/20160811005952/https://twitter.com/puellavulnerata/status/606853549444755456) ...[I don't want to live in the world bending the knee to popular tribalism and moral panic would make.](https://web.archive.org/web/20160811005613/https://twitter.com/puellavulnerata/status/606854315140108288)
