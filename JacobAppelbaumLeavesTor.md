@@ -727,6 +727,8 @@ On December 26th, Lovecruft [released](https://web.archive.org/web/2017122622542
 
 > [Your blog post is not consistent with the Tor community process or your own stated desire for restorative justice. You've lumped someone who didn't commit rape, has shown remorse, and went through a process of rehabilitation with those who would continue to do harm.](https://web.archive.org/web/20180118171010/https:/twitter.com/ssteele1234/status/945850989113786369?lang=en)
 
+> > -- *Shari Steele* [@ssteele1234](https://twitter.com/ssteele1234) (December 26th 2017)
+
 The next day, Lovecruft [replaced Scott's name with a truncated hash](https://archive.fo/UhYAW#selection-201.0-201.126) and [reshared the blog post](https://web.archive.org/web/20171228024401/https:/twitter.com/isislovecruft/status/946128987377553409) after "[additional conversations with River](https://archive.fo/UhYAW#selection-299.0-303.667)," but did not remove the picture identifying his face in a crowd of attendees at the [**Advanced School of Cryptography**](https://web.archive.org/web/20171228040805/http://latincrypt.matcom.uh.cu/content/ascrypto-2017) ([taken](https://web.archive.org/web/20171018223233/https://twitter.com/FRHENR/status/913280679626100736) in September by [computer science professor](https://archive.is/w7D8L) [Francisco Rodríguez-Henríquez](https://web.archive.org/web/20171228031220/https://twitter.com/FRHENR)).
 
 #### Leigh Honeywell
