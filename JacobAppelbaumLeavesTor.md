@@ -485,7 +485,7 @@ Six anonymous or pseudonymous **Twitter** accounts were created in the wake of A
 
 However, based on its [first tweet](https://archive.is/8R8Ax), the @VictimsOfJake account had a very [early awareness of the site](https://web.archive.org/web/20160814183918/https:/twitter.com/search?f=tweets&q=jacobappelbaum.net%20until%3A2016-06-04&src=typd) and also has knowledge of [Patterson](https://archive.is/mhDRh) [blaming Appelbaum for Len Sassaman's suicide](https://archive.is/fP0A9). It is [unlikely](https://archive.is/W83f6) that they are a native German. On June 3rd, they shared [the site in its early stages](https://web.archive.org/web/20160603224422/https://ioerrror.github.io/jacobappelbaum.net/) (using [a link that was no longer live](https://archive.is/W5UtY)), where it very explicitly claimed to be Appelbaum. The account was [last active](https://web.archive.org/web/20170518185029/https:/twitter.com/VictimsOfJake?lang=en) on June 27th, 2016.
 
-![first version of website](https://contraspin.co.nz/wp-content/uploads/2016/06/jan.png)
+![first version of website - https://web.archive.org/web/20160620050309/https://contraspin.co.nz/wp-content/uploads/2016/06/jan.png](https://web.archive.org/web/20160620050309if_/https://contraspin.co.nz/wp-content/uploads/2016/06/jan.png)
 
 Under the 'Victims' header of the original version of the website, it at first appeared to be filled with random speeches, though it was likely default filler text since it is used on at least two other websites: [this blog](https://archive.is/1c355) and the 'Manifest' section of [this site](https://archive.is/7E2T4#selection-211.0-211.12), with nearly identical [theme code](https://archive.is/mVZ9E) that the victims' website seems to have copied.
 
