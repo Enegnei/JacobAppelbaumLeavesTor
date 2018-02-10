@@ -399,6 +399,8 @@ On [August 12th](https://web.archive.org/web/20160812132547/https:/twitter.com/z
 
 > “The numerous victims that this process creates are not helped at all; the innocent along with the allegedly guilty are savaged and rejected without ever getting a chance to defend themselves.”
 
+In November 2017, the **European Court of Human Rights** (ECHR) decided in the case of *EGILL EINARSSON v. ICELAND* that "[public persons... do not have to tolerate being publicly accused of violent criminal acts without such statements being supported by facts](https://archive.is/gCrgS#selection-8243.4-8267.21)," on the basis that such statements would violate [Article 8](https://archive.is/gCrgS#selection-7475.4-7589.266).
+
 ### Replacement of Tor Project Board Members
 
 On July 13th, the **Tor Project** [announced](https://archive.is/IU6S7) that it would be [replacing all seven members on the board of directors](https://archive.is/L1iIh) "in keeping with its commitment to the best possible health of the organization." The statement was [written by the outgoing board](https://archive.is/vVYc0#selection-75.2-75.56) and [posted as a press release](https://archive.is/vVYc0#selection-75.57-75.133) by [Krauss](https://archive.is/yxqlC#selection-471.0-471.57). Though Dingledine and Mathewson stepped down from the board, they will "[continue in their roles as co-founders of the Tor Project, leading Tor's technical research and development](https://archive.is/L1iIh#selection-143.0-143.404)."
@@ -722,8 +724,6 @@ On October 16th, Lovecruft [tweeted about being verbally and physically assaulte
 > -- *Isis Agora Lovecruft* [@isislovecruft](https://twitter.com/isislovecruft) (October 17th 2017)
 
 Gilmore is a well-known [drug policy reform advocate](https://archive.is/TeX2o#selection-2401.92-2407.106) and has a dedicated section on his [website](https://archive.is/yXqt8) for the [cause](https://archive.is/gjZ5h). There is no public evidence that any of Lovecruft's claims were investigated, confirmed, or acted upon in any way.
-
-In November, the **European Court of Human Rights** (ECHR) decided in the case of *EGILL EINARSSON v. ICELAND* that "[public persons... do not have to tolerate being publicly accused of violent criminal acts without such statements being supported by facts](https://archive.is/gCrgS#selection-8243.4-8267.21)," on the basis that such statements would violate [Article 8](https://archive.is/gCrgS#selection-7475.4-7589.266).
 
 On December 26th, Lovecruft [released](https://web.archive.org/web/20171226225421/https:/twitter.com/isislovecruft/status/945745179063062528) another blog post [alleging](https://archive.fo/qRvDF#selection-201.0-201.176) [researcher](https://archive.is/cVXoo) and [hacker](https://archive.is/4SSyT#selection-467.0-476.0) [Will Scott](https://web.archive.org/web/20171226230425/https:/twitter.com/willscott) participated in the "[gang rape](https://archive.fo/qRvDF#selection-201.103-201.112)" of [Komlo](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#chelsea-komlo) and accused the CCC of "[privately working to undermine positive change and enable rapists](https://archive.fo/qRvDF#selection-137.52-137.118)." Steele was critical of the post:
 
