@@ -747,6 +747,8 @@ On June 21st, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://ar
 
 More than a year later, [Honeywell](https://web.archive.org/web/20170718172214/https://twitter.com/hypatiadotca/status/887259564160188416) and [Aurora](https://web.archive.org/web/20170718143300/https://twitter.com/vaurorapub/status/887312978508427265) co-authored a blog post outlining what they called "[the Al Capone Theory of Sexual Harassment](https://archive.is/pnqtw)." They referenced the allegations against Appelbaum, citing that he had left the **Tor Project** due to "[sexual misconduct and plagiarism](https://archive.is/pnqtw#selection-261.74-267.1)," though no evidence of plagiarism has been presented and those allegations were not even acknowledged in [Steele's blog post on the investigation](https://archive.is/lkywt).
 
+On February 12th 2018, she [published an ACLU blog post](https://web.archive.org/web/20180212161102/https://www.aclu.org/blog/privacy-technology/internet-privacy/staying-safe-when-you-say-metoo) about "[staying safe when speaking out about harassment](https://web.archive.org/web/20180214031406/https:/twitter.com/hypatiadotca/status/963087429207928832?lang=en)," and described herself as a "[sexual-misconduct whistleblower](https://archive.is/Pf7RK#selection-817.224-821.46)."
+
 #### Ásta Guðrún Helgadóttir
 
 The fifth was [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Icelandic politician and [Pirate Party member](https://archive.is/sGSp6), who tweeted allegations of sexual misconduct:
