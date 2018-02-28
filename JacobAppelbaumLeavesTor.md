@@ -45,7 +45,9 @@
 
 ### Early Life
 
-> Highlight of today: Photoshoot at Noisebridge with the talented photographer Peter Yang for Rolling Stone; he's an absolutely awesome guy! -- *Jacob Appelbaum* [@ioerror](https://twitter.com/ioerror) ([June 21st 2010](https://archive.is/F9PBY))
+> Highlight of today: Photoshoot at Noisebridge with the talented photographer Peter Yang for Rolling Stone; he's an absolutely awesome guy! 
+>
+> -- *Jacob Appelbaum* [@ioerror](https://twitter.com/ioerror) ([June 21st 2010](https://archive.is/F9PBY))
 
 ![Appelbaum, from Rolling Stone interview](https://archive.li/9bFTl/632f8e6fa77e5b4906fefd5f8bd5a475b5a9de2b.jpg)
 
