@@ -32,7 +32,8 @@
    9. [Linux Australia](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#linux-australia)
    10. [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation)
    11. [Telekommunisten](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten)
-   12. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
+   12. [The Intercept](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-intercept)
+   13. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
 
 ### **Latest updates:** 
 [Appelbaum gives first press interview, subsequent Guardian interview](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#appelbaum-denounces-allegations); [reason for living in Berlin](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-snowden-leaks); [encryption used in Tor investigation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation); [quotes from Isaacson](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#andy-isaacson); [de Valence, Bernstein, and Lange](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#henry-de-valence); [Laura Poitras and *Risk* documentary](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#laura-poitras); [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation); [Telekommunisten meetup](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten); [Chelsea Komlo](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#chelsea-komlo)
@@ -1035,10 +1036,6 @@ Appelbaum is still listed as a [user](https://archive.is/QVDgl) on their '[Peopl
 
 ![Appelbaum wearing Noisebridge t-shirt](https://web.archive.org/web/20160727172736im_/http://cdn.arstechnica.net/wp-content/uploads/2013/02/5570505113_de1e4c01bf_o.jpg)
 
-### The Intercept
-
-On February 14th 2018, Micah Lee and [Cora Currier](https://web.archive.org/web/20180308205928/https://twitter.com/coracurrier?lang=en) of [**The Intercept**](https://web.archive.org/web/20180308205513/https://twitter.com/theintercept/status/963891162414186497?lang=en) published [an article](https://web.archive.org/web/20180308205727/https://twitter.com/theintercept/status/963852122835030017?lang=en) commenting on messages from a "private Twitter direct message group" with "an assortment of WikiLeaks’ most loyal supporters." At one point, they [incorrectly summarised the timeline of events](https://archive.fo/G5hdG#selection-977.269-981.163) relating to the allegations against Appelbaum, linking to [an article from **The Verge**](https://archive.fo/6JViQ) and listing the **Tor Project**'s two-month "external investigation" (see '[*Tor Project Concludes Investigation*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation)') as occurring and concluding prior to Appelbaum's resignation on May 25th 2016. 
-
 ### Friends and Colleagues
 
 #### M.C. McGrath
@@ -1190,6 +1187,10 @@ On May 13th, **Telekommunisten** members [Baruch Gottlieb](https://web.archive.o
 > [Telekommunisten have endured your toxic community long enough, you bring your self-importance and entitlement to us, flood our space with your dysfunctional community and then place expectations on us to police you. We owe you nothing. To be honest, we think you are a bunch of petty bourgeois assholes, who we only accommodate because we are polite.](https://archive.is/4u4BY#selection-63.0-63.350)
 
 Both [Callendrello](https://archive.is/JHMlN#selection-4953.0-4953.133) and [Reilly](https://archive.fo/pWQ16#selection-5749.0-5749.139) thanked them for their response.
+
+### The Intercept
+
+On February 14th 2018, Micah Lee and [Cora Currier](https://web.archive.org/web/20180308205928/https://twitter.com/coracurrier?lang=en) of [**The Intercept**](https://web.archive.org/web/20180308205513/https://twitter.com/theintercept/status/963891162414186497?lang=en) published [an article](https://web.archive.org/web/20180308205727/https://twitter.com/theintercept/status/963852122835030017?lang=en) commenting on messages from a "private Twitter direct message group" with "an assortment of WikiLeaks’ most loyal supporters." At one point, they [incorrectly summarised the timeline of events](https://archive.fo/G5hdG#selection-977.269-981.163) relating to the allegations against Appelbaum, linking to [an article from **The Verge**](https://archive.fo/6JViQ) and listing the **Tor Project**'s two-month "external investigation" (see '[*Tor Project Concludes Investigation*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation)') as occurring and concluding prior to Appelbaum's resignation on May 25th 2016. 
 
 ### The Tor Project
 
