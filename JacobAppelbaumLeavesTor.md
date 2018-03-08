@@ -1035,6 +1035,10 @@ Appelbaum is still listed as a [user](https://archive.is/QVDgl) on their '[Peopl
 
 ![Appelbaum wearing Noisebridge t-shirt](https://web.archive.org/web/20160727172736im_/http://cdn.arstechnica.net/wp-content/uploads/2013/02/5570505113_de1e4c01bf_o.jpg)
 
+### The Intercept
+
+On February 14th 2018, Micah Lee and [Cora Currier](https://web.archive.org/web/20180308205928/https://twitter.com/coracurrier?lang=en) of [**The Intercept**](https://web.archive.org/web/20180308205513/https://twitter.com/theintercept/status/963891162414186497?lang=en) published [an article](https://web.archive.org/web/20180308205727/https://twitter.com/theintercept/status/963852122835030017?lang=en) commenting on messages from a "private Twitter direct message group" with "an assortment of WikiLeaks’ most loyal supporters." At one point, they [incorrectly summarised the timeline of events](https://archive.fo/G5hdG#selection-977.269-981.163) relating to the allegations against Appelbaum, linking to [an article from **The Verge**](https://archive.fo/6JViQ) and listing the **Tor Project**'s two-month "external investigation" (see '[*Tor Project Concludes Investigation*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation)') as occurring and concluding prior to Appelbaum's resignation on May 25th 2016. 
+
 ### Friends and Colleagues
 
 #### M.C. McGrath
