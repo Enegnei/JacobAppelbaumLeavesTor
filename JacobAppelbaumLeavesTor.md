@@ -584,7 +584,11 @@ On May 10th 2018, [Jardin](https://web.archive.org/web/20180511124157/https://tw
 >
 > -- *David Chasteen* [@davidschasteen](https://twitter.com/davidschasteen) ([May 10th, 2018](https://web.archive.org/web/20180511124701/https://twitter.com/davidschasteen/status/994651628996186112?lang=en))
 
-Chasteen's comments somewhat conflict with those he made in 2014. According to the leaked email sent to Tor-internal, he initially claimed he was "[never involved in or aware of operations against US persons. I was never involved in or aware of operations against NGOs and/or journalists or activists, American or otherwise](https://archive.is/A1EuX#selection-717.25-735.10)," and further said that "[thankfully I never saw anything that required blowing a whistle](https://archive.is/A1EuX#selection-753.1-753.64)" even though he now claims to have been instructed to break both domestic and foreign laws, and was aware that such "curriculum" pervaded the culture of the organisation.
+Chasteen's comments somewhat conflict with those he made in 2014. According to the leaked email sent to Tor-internal, he initially claimed he was "[never involved in or aware of operations against US persons. I was never involved in or aware of operations against NGOs and/or journalists or activists, American or otherwise](https://archive.is/A1EuX#selection-717.25-735.10)," and further said that "[thankfully I never saw anything that required blowing a whistle](https://archive.is/A1EuX#selection-753.1-753.64)," even though he now claims to have been instructed to break both domestic and foreign laws, and was aware that such a "curriculum" pervaded the culture of the organisation.
+
+> I was in a meeting with [Director of the National Clandestine Service] where he asserted, angrily, that he was going to put a stop to Chiefs of Station violating the law (re: things like casual petty cash theft) and being promoted on time. ("They can't just keep paying it back and saying it's fixed.") He wasn't so naive as to think that he could sanction these officers, he just wanted to keep casual lawbreakers from being promoted as fast as their peers.
+>
+> -- *David Chasteen* [@davidschasteen](https://twitter.com/davidschasteen) ([May 11th, 2018](https://web.archive.org/web/20180512135229/https:/twitter.com/davidschasteen/status/995026543985410048?lang=en))
 
 ## The Allegations
 
