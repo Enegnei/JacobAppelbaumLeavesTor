@@ -651,7 +651,7 @@ Since at least 2006, Farr is [listed](https://archive.fo/TIIE#selection-1215.56-
 
 > The Social Engineering Department is devoted to the study of controlling large groups or societies through the use of coercion and through the subtle changing of social mores and belief over time. The department is not only devoted to the study of social engineering in history, but also in the present day as a cultural study, and as a practical application.
 
-On May 13th 2018, Farr [retroactively changed the title of his original Medium post](https://archive.is/gGE4t) from June 5th 2016 to "Restoratice Justice > Mob Justice" and replaced the contents with a new message:
+On May 13th 2018, Farr [retroactively changed the title of his original Medium post](https://archive.is/gGE4t) from June 5th 2016 to "[Restoratice Justice > Mob Justice](https://web.archive.org/web/20180514104848/https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d)" and replaced the contents with a new message:
 
 > Bringing people together is my life’s work. The text that was originally here is not an example of bringing people together, in fact, it deepened rifts in a community that I’ve spent a large part of my life trying to nourish. I apologize for deepening those rifts and am working to help repair them.
 >
