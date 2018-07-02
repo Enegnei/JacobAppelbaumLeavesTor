@@ -202,9 +202,9 @@ Patterson also argued professional work should stand on its own and preemptive b
 >
 > -- *Meredith Patterson* [@maradydd](https://twitter.com/maradydd) (June 5th, 2015)
 
-![Appelbaum and Dingledine on stage, source: https://web.archive.org/web/20160731211452/https://twitter.com/GEDSIC/status/549916611118112768](https://web.archive.org/web/20160731211452im_/https://pbs.twimg.com/media/B6GyPkCIcAAKNn9.jpg:large)
-
 In mid December, it was [reported](https://archive.is/xMF3f) by [**Motherboard**](https://archive.is/Pyh1X/image) that a small number of **Twitter** users, several of which were "connected to the Tor Project in some capacity" or "vaguely associated with the security community at large," were told that their accounts had been targeted by state-sponsored actors. **Twitter** did not respond to [requests](https://archive.is/t9XcZ) [for more information](https://archive.is/0NbCQ) or updates. Shepherd was [among those who were notified](https://web.archive.org/web/20160214023213/https://state-sponsored-actors.net/).
+
+![Appelbaum and Dingledine on stage, source: https://web.archive.org/web/20160731211452/https://twitter.com/GEDSIC/status/549916611118112768](https://web.archive.org/web/20160731211452im_/https://pbs.twimg.com/media/B6GyPkCIcAAKNn9.jpg:large)
 
 On December 30th at the CCC, Appelbaum and then [**Tor Project** director](https://archive.is/WTt5r#selection-247.0-247.54) [Roger Dingledine](https://twitter.com/RogerDingledine) presented the "[State of the Onion](https://media.ccc.de/v/31c3_-_6251_-_en_-_saal_1_-_201412301400_-_state_of_the_onion_-_jacob_-_arma)," an annual update on developments at the **Tor Project**. [Three minutes in](https://youtu.be/pRrFWwA-47U?t=3m22s), Appelbaum started speaking about the "[sustained campaign of online harassment](https://archive.is/iyJKZ)" which had been [directed](https://archive.is/ljqM4) at Shepard "for the past several months." 
 
