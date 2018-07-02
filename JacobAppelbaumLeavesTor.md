@@ -934,7 +934,7 @@ In **The Daily Dot** interview he gave a more detailed account, including what t
 
 > Tan said afterwards he spoke briefly with the woman. He asked if she wanted to file a police report, but she was unwilling. She left the hotel before any of the witnesses learned who she was. The incident was never reported to police or to the Tor Project.
 
-[Dan Hirsch](https://web.archive.org/web/20160731220858/https://twitter.com/thequux) ([@thequux](https://twitter.com/thequux)), who [married Patterson](https://www.flickr.com/photos/pinguino/sets/72157667188334564) on [June 11th](https://web.archive.org/web/20160731222612/https://twitter.com/pukingmonkey/status/741824783675883521), was also a [witness](https://web.archive.org/web/20160731182508/http://www.dailydot.com/layer8/jacob-appelbaum-tor-project-suspension-sexual-misconduct-victims/) but was not named in the **Gizmodo** interview.
+[Dan Hirsch](https://web.archive.org/web/20160731220858/https://twitter.com/thequux) ([@thequux](https://twitter.com/thequux)), who had [married Patterson](https://www.flickr.com/photos/pinguino/sets/72157667188334564) on [June 11th](https://web.archive.org/web/20160731222612/https://twitter.com/pukingmonkey/status/741824783675883521), was also a [witness](https://web.archive.org/web/20160731182508/http://www.dailydot.com/layer8/jacob-appelbaum-tor-project-suspension-sexual-misconduct-victims/) but was not named in the **Gizmodo** interview.
 
 > “Most of Jake’s attention was focused on some girl who was somewhat shorter than he was,” Hirsch said. “She was cornered against the bar, looking around I presumed to try to find an escape route or for someone she could get the attention of.”
 
@@ -995,6 +995,12 @@ After Norton was briefly [hired](https://web.archive.org/web/20180213221205/http
 She claimed her pacifism justified continuing a "friendship" with Auernheimer (see '[*Online Harassment of the Tor Project*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#online-harassment-of-the-tor-project)').
 
 > [In my pacifism, I can’t reject a friendship, even when a friend has taken such a horrifying path. I am not the judge of who is capable of improving as a person.](https://archive.is/IWFmV#selection-1721.0-1733.146)
+
+On June 18th, [Patterson](https://web.archive.org/web/20180702091826/https://twitter.com/maradydd/status/1008766723733016577?lang=en) published a [**Status451**](https://web.archive.org/web/20180702085331/https:/twitter.com/Status451Blog/status/1008766369670877184?lang=en) piece about the end of her marriage to Hirsch and resolving an "epistemic crisis" which had been building up since Sassaman's death.
+
+> [Len’s suicide plunged me into an emotional and ethical dilemma. On the one hand, I was unspeakably angry, but on the other, allowing any of that anger to settle on my memories of him brought on overwhelming waves of guilt over being unfair. I circled that Gordian knot for months, searching for a place to slice it that wouldn’t leave me hating either him or myself for the rest of my life.](https://archive.is/Je5yv#selection-847.0-851.151)
+
+> [Righteous indignation is a hell of a drug, and I imagine that for many people in bad breakups, such offers might be quite comforting. In a sense, reputation damage is just a new species in the “want me to fuck him up for you?” genus of reassurance memes.](https://archive.is/Je5yv#selection-419.12-419.266)
 
 #### Christopher Sheats
 
