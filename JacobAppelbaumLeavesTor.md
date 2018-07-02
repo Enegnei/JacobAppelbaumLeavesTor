@@ -204,6 +204,8 @@ Patterson also argued professional work should stand on its own and preemptive b
 
 ![Appelbaum and Dingledine on stage, source: https://web.archive.org/web/20160731211452/https://twitter.com/GEDSIC/status/549916611118112768](https://web.archive.org/web/20160731211452im_/https://pbs.twimg.com/media/B6GyPkCIcAAKNn9.jpg:large)
 
+In mid December, it was [reported](https://archive.is/xMF3f) by [**Motherboard**](https://archive.is/Pyh1X/image) that a small number of **Twitter** users, several of which were "connected to the Tor Project in some capacity" or "vaguely associated with the security community at large," were told that their accounts had been targeted by state-sponsored actors. **Twitter** did not respond to [requests](https://archive.is/t9XcZ) [for more information](https://archive.is/0NbCQ) or updates. Shepherd was [among those who were notified](https://web.archive.org/web/20160214023213/https://state-sponsored-actors.net/).
+
 On December 30th at the CCC, Appelbaum and then [**Tor Project** director](https://archive.is/WTt5r#selection-247.0-247.54) [Roger Dingledine](https://twitter.com/RogerDingledine) presented the "[State of the Onion](https://media.ccc.de/v/31c3_-_6251_-_en_-_saal_1_-_201412301400_-_state_of_the_onion_-_jacob_-_arma)," an annual update on developments at the **Tor Project**. [Three minutes in](https://youtu.be/pRrFWwA-47U?t=3m22s), Appelbaum started speaking about the "[sustained campaign of online harassment](https://archive.is/iyJKZ)" which had been [directed](https://archive.is/ljqM4) at Shepard "for the past several months." 
 
 > APPELBAUM: It is the case that there's a person in our community, and many persons in our community, that have come under attack and have been deeply harassed. We think that sucks and we don't like that. Even though we promote anonymity without any question, that is no backdoors ever (and we'll get back to that in a minute), it is the case that we really want to promote being excellent to each other (in the spirit of Noisebridge). [...] It isn't the case that we're saying you shouldn't have the right to say things, but we are saying "get the fuck out of our community" if you're going to be abusive to women.
@@ -1129,6 +1131,8 @@ A [tweet prompt](https://archive.is/ymmJL) was added to the website:
 > In Solidarity with Jacob Appelbaum [@ioerror](https://twitter.com/ioerror) and on the Side of Justice for All. We urge others to add their names to https://ourresponse.org/
 
 Though Nerad was [not one of the signatories](https://archive.is/8CJYx#selection-5281.1-5281.73), she expressed [a similar sentiment](https://archive.is/ae5EQ) [very early on](https://archive.is/crtyC) when the allegations were first being made, that she does not believe [shaming](https://archive.is/mghYZ#selection-4975.70-4975.77) him [so soon](https://archive.is/JeBHl#selection-5305.94-5305.123) is a "[sustainable holding pattern](https://archive.is/lwl2E#selection-4661.60-4661.87)."
+
+Another non-signatory, [whistleblower protections lawyer](https://archive.is/868Ko) [Jesselyn Radack](https://web.archive.org/web/20180702143021/https://twitter.com/JesselynRadack?lang=en), tweeted in June 2018 that she has "[always supported @wikileaks. I’ve always supported @ioerror. If anyone tells you otherwise, pls ignore.](https://web.archive.org/web/20180702134036/https:/twitter.com/JesselynRadack/status/1010520486617534465?lang=en)"
 
 #### Shannon Cunningham
 
