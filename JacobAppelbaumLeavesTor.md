@@ -792,6 +792,10 @@ The next day, Lovecruft [replaced Scott's name with a truncated hash](https://ar
 
 On February 5th 2018, [**Motherboard DE**](https://web.archive.org/web/20180210174532/https:/twitter.com/Motherboard_DE/status/960485188517101568?lang=en) editor [Theresa Locker](https://web.archive.org/web/20180210175811/https://twitter.com/ok_but_why?lang=en) interviewed people who had attended the recent [**Chaos Communication Congress**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#chaos-computer-club) and falsely reported that Scott had been involved in a "[*Gruppenvergewaltigung*](https://archive.is/PdiHf#selection-871.0-895.240)" (gang rape), citing Lovecruft's recent blog post instead of [Komlo's](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#chelsea-komlo).
 
+On July 4th, board members of the [CCC](https://archive.is/trjyC) and [Zwiebelfreunde](https://archive.is/c0M2k) simultaneously published statements regarding [coordinated police raids](https://web.archive.org/web/20180705172323/http://www.spiegel.de/netzwelt/web/hausdurchsuchungen-bei-netzaktivisten-chaos-computer-club-kritisiert-polizeivorgehen-a-1216463.html) that had occurred at their [hackerspaces](https://archive.is/buHbp) and personal homes two weeks prior. In response, Lovecruft [tweeted](https://web.archive.org/web/20180704204530/https:/twitter.com/isislovecruft/status/1014593925548371968):
+
+![Lovecruft tweet](https://archive.is/XV52o/ddf257548f8ed4697c75a73239852b9a4e183410/scr.png)
+
 #### Leigh Honeywell
 
 The fourth was [Leigh Honeywell](https://archive.is/Cm3R9), a computer and network security professional, who says [she was in an open relationship](https://archive.is/77Sx2) with Appelbaum during 2006-2007 and he "ignored my use of a [safeword](https://archive.is/xZy5n)."
