@@ -1022,7 +1022,7 @@ Christopher Sheats ([@yawnbox](https://web.archive.org/web/20160908143826/https:
 
 > [If River was under the influence of drugs or alcohol, it was not apparent. At no point did she seem distressed or abused. Nobody did. Further, no one was having sex in the living room.](https://archive.is/zXpAI#selection-133.0-133.184)
 
-On January 13th 2016, Sheats had tweeted "[goodbye Berlin](https://archive.is/dlNyz)" and tagged Macrina, Crockford, **Slate** journalist and [**Library Freedom Project** activist](https://archive.is/vpzEI#selection-1167.0-1167.37) [April Glaser](https://twitter.com/aprilaser), **Creative Commons** director [Paola Villarreal](https://twitter.com/paw), Appelbaum, Ricochet developer [John Brooks](https://twitter.com/jbrooks_), Scott, **Blockstream** chief security officer [Jonathan Wilkins](https://twitter.com/jwilkins), McGrath, and Gutbub.
+On January 13th 2016, Sheats had tweeted "[goodbye Berlin](https://archive.is/dlNyz)" and tagged [Macrina](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#alison-macrina), Crockford, **Slate** journalist and [**Library Freedom Project** activist](https://archive.is/vpzEI#selection-1167.0-1167.37) [April Glaser](https://twitter.com/aprilaser), **Creative Commons** director [Paola Villarreal](https://twitter.com/paw), Appelbaum, Ricochet developer [John Brooks](https://twitter.com/jbrooks_), Scott, **Blockstream** chief security officer [Jonathan Wilkins](https://twitter.com/jwilkins), [McGrath](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#mc-mcgrath), and Gutbub.
 
 #### Andy Isaacson
 
