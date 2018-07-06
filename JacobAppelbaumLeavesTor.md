@@ -796,6 +796,8 @@ On July 4th, board members of the [CCC](https://archive.is/trjyC) and [Zwiebelfr
 
 ![Lovecruft tweet](https://archive.is/XV52o/ddf257548f8ed4697c75a73239852b9a4e183410/scr.png)
 
+On July 5th, Steele released a statement on the [**Tor Project**](https://web.archive.org/web/20180706135629/https://twitter.com/torproject/status/1015020907033714688?lang=en) blog offering support to Zwiebelfreunde and those who had been targeted. She also indicated that someone at their company had been disciplined for "[public, verbal attacks on community members](https://archive.is/ql6do#selection-415.176-415.460)."
+
 #### Leigh Honeywell
 
 The fourth was [Leigh Honeywell](https://archive.is/Cm3R9), a computer and network security professional, who says [she was in an open relationship](https://archive.is/77Sx2) with Appelbaum during 2006-2007 and he "ignored my use of a [safeword](https://archive.is/xZy5n)."
