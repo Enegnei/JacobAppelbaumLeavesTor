@@ -665,6 +665,14 @@ On May 13th 2018, Farr [retroactively changed the title of his original Medium p
 >
 > There are powerful forces that are using personally traumatic disputes to keep people bickering instead of focusing on building community, solidarity and the tools and techniques with which we can resist and restore our freedoms.
 
+On June 5th 2018, he tweeted a thread about his own misunderstandings about consent in relationships:
+
+> [Before my first](https://archive.is/VAyi7#selection-5725.0-5725.19) [long-term relationship], [how many women had I pursued to the point of real fear? Who knew I had a lot of social capital or had reason to fear my "shady hacker friends" and thus very carefully managed me? How many women who sent strong signals of interest had I totally ignored?](https://archive.is/VAyi7#selection-5725.21-5725.273)
+>
+> [Now I look back on my](https://archive.is/VAyi7#selection-6075.0-6075.26) [long-term relationships]. [How many times was I totally shocked to be dumped? All but one. How many exes did I hijack into managing me with a "take me back" cry for help? Most. The happily ever after fairy tale makes us do dumb things too.](https://archive.is/VAyi7#selection-6075.28-6075.240)
+>
+> -- *Nick Farr* [@Nickf4rr](https:/twitter.com/Nickf4rr) ([June 5th, 2018](https://archive.is/VAyi7))
+
 #### Alison Macrina
 
 > [Sam](https://archive.is/Tn1fy): "His nonconsensual washing lasted about a minute or two before I leaped out of his bathtub and started crying in the corner of his bathroom" ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
