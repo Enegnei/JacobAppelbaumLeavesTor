@@ -812,7 +812,7 @@ On July 4th, board members of the [CCC](https://archive.is/trjyC) and [Zwiebelfr
 
 ![Lovecruft tweet](https://archive.is/XV52o/ddf257548f8ed4697c75a73239852b9a4e183410/scr.png)
 
-On July 5th, Steele released a statement on the [**Tor Project**](https://web.archive.org/web/20180706135629/https://twitter.com/torproject/status/1015020907033714688?lang=en) blog offering support to Zwiebelfreunde and those who had been targeted. She also indicated that someone at their company had been disciplined for "[public, verbal attacks on community members](https://archive.is/ql6do#selection-415.176-415.460)." Between the [6th](https://archive.is/m1FGa) and the [8th](https://web.archive.org/web/20180708200119/https:/twitter.com/isislovecruft?lang=en), Lovecruft removed the **Tor Project** from her bio.
+On July 5th, Steele released a statement on the [**Tor Project**](https://web.archive.org/web/20180706135629/https://twitter.com/torproject/status/1015020907033714688?lang=en) blog offering support to Zwiebelfreunde and those who had been targeted. She also indicated that someone at their company had been disciplined for "[public, verbal attacks on community members](https://archive.is/ql6do#selection-415.176-415.460)." Between the [6th](https://archive.is/m1FGa) and the [8th](https://web.archive.org/web/20180708200119/https:/twitter.com/isislovecruft?lang=en), the **Tor Project** was removed from Lovecruft's bio.
 
 #### Leigh Honeywell
 
