@@ -755,7 +755,7 @@ On December 12th, Kobeïssi tweeted to ask if "[having delusions of persecution]
 
 > Fact: every time a Tor developer claims they were "exiled" to Germany, a Syrian refugee facepalms themselves to death. Tor dev/crypto community so morally bankrupt, being surveilled is some sort of coveted status symbol, and being oppressed a competition.
 >
-> -- *Nadim Kobeïssi* @kaepora ([December 13th, 2015](https://archive.is/Jkl3p))
+> -- *Nadim Kobeïssi* [@kaepora](https://twitter.com/kaepora) ([December 13th, 2015](https://archive.is/Jkl3p))
 
 In the interim, lead developer [Mike Perry](https://archive.is/LEHod#selection-657.0-657.53) published a [**Tor Project**](https://web.archive.org/web/20180511160051/https:/twitter.com/torproject/status/711951909528215556?lang=en) blog post on March 21st stating that they have "[never received a legal demand to place a backdoor in its programs or source code, nor have we received any requests to hand over cryptographic signing material](https://archive.is/SqrpB#selection-423.0-423.180)" and "[several of our developers have already stated that they would rather resign than honor any request to introduce a backdoor or vulnerability](https://archive.is/SqrpB#selection-453.0-459.197)."
 
