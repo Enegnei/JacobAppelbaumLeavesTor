@@ -1109,7 +1109,7 @@ On June 10th, the educational San Francisco hackerspace [**Noisebridge**](https:
 >
 > -- *Mitch Altman* [@maltman23](https:/twitter.com/maltman23) (June 5th, 2016)
  
-Appelbaum is still listed as a [user](https://archive.is/QVDgl) on their '[People](https://archive.is/7MsIa#selection-1213.0-1213.13)' page, though it is not a membership list, and he is also the [domain owner](https://archive.is/6fMei#selection-773.17-773.32) of their website [noisebridge.net](https://archive.is/7JD6Y).
+Appelbaum is still listed as a [user](https://archive.is/QVDgl) on their '[People](https://archive.is/7MsIa#selection-1213.0-1213.13)' page, though it is not a membership list. He also remained the [domain owner](https://archive.is/6fMei#selection-773.17-773.32) of [noisebridge.net](https://archive.is/7JD6Y) until [2018](https://archive.is/wK5oZ).
 
 ![Appelbaum wearing Noisebridge t-shirt](https://web.archive.org/web/20160727172736im_/http://cdn.arstechnica.net/wp-content/uploads/2013/02/5570505113_de1e4c01bf_o.jpg)
 
