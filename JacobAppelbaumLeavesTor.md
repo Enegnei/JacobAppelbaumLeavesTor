@@ -1352,6 +1352,8 @@ Gutbub later responded to messages she had received following her departure:
 >
 > -- *Marie Gutbub* [@shiromarieke](https:/twitter.com/shiromarieke) (August 20th, 2016)
 
+The **Tor Project** did not [remove her from their website](https://archive.fo/A2QqR#selection-381.0-381.22) until [January 2017](https://web.archive.org/web/20180812231457/https://twitter.com/shiromarieke/status/823644154467155969?lang=en).
+
 ![Tor Berlin Open Hack Day Sept-Oct 2015 https://web.archive.org/web/20160902154350/https://trac.torproject.org/projects/tor/wiki/org/meetings/2015SummerDevMeeting with Shepard, Gutbub, Matthewson, source: https://web.archive.org/web/20151011210135/https://blog.torproject.org/blog/tor-open-hack-day-berlin-everyone](https://web.archive.org/web/20151011210135im_/https://people.torproject.org/~asn/blogpost/devmeetingpic.jpg)
 
 `Shepard, Gutbub, and Matthewson at Tor's Berlin developer meeting / Open Hack Day in September 2015`
