@@ -268,7 +268,8 @@ Appelbaum also tweeted:
 
 > I wonder what the best defenses are for JTRIG-ish psyops? Just buckle in and move slow? Refuse to be split? Refuse to be atomized? ([March 17th, 2015](https://archive.is/nW5Is))
 >
-> That feeling that manifests when it is time to move on. Intensely. 
+> That feeling that manifests when it is time to move on. Intensely.
+>
 > -- *Jacob Appelbaum* [@ioerror](https://twitter.com/ioerror) ([March 18th, 2015](https://archive.is/1vhhn))
 
 ![JTRIG chart](https://archive.li/kDzXc/b2a926bb585face74776c6ccd5343e831cb4dc43.png)
@@ -316,6 +317,8 @@ Following the publication of the gag order, Appelbaum tweeted about the **Tor Pr
 > [I've used many other services to draw out the DoJ's illegitimate practices. Very few have taken up a defense for me, @wikileaks or Tor.](https://web.archive.org/web/20180812161656/https://twitter.com/ioerror/status/613048503997218816?lang=en) [It is also possible that many other services were simply not allowed to have their fights unsealed - which is yet another legal travesty.](https://web.archive.org/web/20180812161825/https://twitter.com/ioerror/status/613048609265876992?lang=en) [Sonic.net , Google, Twitter are the three companies that actually fought, lost, and eventually notified me after it was over.](https://web.archive.org/web/20180812162002/https://twitter.com/ioerror/status/613049252391067648?lang=en) [I'm sad to say that Yahoo, Facebook and many other services *must* have been targeted but are so far totally silent. Did they fight? Win?](https://web.archive.org/web/20180812162201/https://twitter.com/ioerror/status/613049490065465344?lang=en) [That a provider has to spend a great deal of money for you to even have a chance of a day in court is already a lost battle at scale.](https://web.archive.org/web/20180812162342/https://twitter.com/ioerror/status/613050078975164420?lang=en) [My guess is that Yahoo went to court, they lost and the US govt has gagged them forever.](https://web.archive.org/web/20180812162510/https://twitter.com/ioerror/status/613050301092864000?lang=en) 
 >
 > [One easy test to learn if you're radioactive is to call the company lawyers and ask them to talk with you. Silence or refusal is telling.](https://web.archive.org/web/20180812162611/https:/twitter.com/ioerror/status/613050432814993408?lang=en)
+>
+> -- *Jacob Appelbaum* [@ioerror](https://twitter.com/ioerror) (June 22nd, 2015)
 
 On June 24th 2015, O'Brien and **VICE News** Senior Investigative Reporter [Jason Leopold](https://archive.is/IqpAt) [jointly filed](https://web.archive.org/web/20160722225356/https://twitter.com/JasonLeopold/status/614090844782657537) a [FOIA lawsuit](https://web.archive.org/web/20160722224006/https://www.documentcloud.org/documents/2110787-leopold-obrien-foia-lawsuit-jacob-applebaum.html) against [nineteen US federal agencies](https://web.archive.org/web/20160722222056/https://assets.documentcloud.org/documents/2110787/leopold-obrien-foia-lawsuit-jacob-applebaum.pdf) for [their documents on Appelbaum](https://web.archive.org/web/20160722231229/https:/twitter.com/ioerror/status/614028633385107456). The [first amended complaint](https://web.archive.org/web/20160722221927/https://cryptome.org/2016/06/leopold-obrien-006.pdf) was filed on August 9th. It is not publicly known whether the request has been fulfilled but it [may be nearing completion](https://web.archive.org/web/20160722225143/https:/twitter.com/Cryptomeorg/status/756434419578200064).
 
