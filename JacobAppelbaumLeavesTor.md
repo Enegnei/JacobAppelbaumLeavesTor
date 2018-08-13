@@ -699,6 +699,8 @@ On June 5th 2018, he tweeted a thread about his own misunderstandings about cons
 >
 > -- *Nick Farr* [@Nickf4rr](https:/twitter.com/Nickf4rr) ([June 5th, 2018](https://archive.is/VAyi7))
 
+On August 7th, Farr said that "[for as long as I remember, people have just always assumed I'm some kind of cop or spy or whatever.](https://web.archive.org/web/20180813002832/https:/twitter.com/Nickf4rr/status/1027017713926004736?lang=en)" On August 11th, reverting on the sentiment expressed in the retroactively changed Medium post, Farr claimed he was still "[fighting toxicity](https://web.archive.org/web/20180813001612/https:/twitter.com/Nickf4rr/status/1028461889926438912?lang=en)" regarding the allegations he had made and that "[no good fight goes unpunished](https://web.archive.org/web/20180813001612/https:/twitter.com/Nickf4rr/status/1028461889926438912?lang=en)."
+
 #### Alison Macrina
 
 > [Sam](https://archive.is/Tn1fy): "His nonconsensual washing lasted about a minute or two before I leaped out of his bathtub and started crying in the corner of his bathroom" ([February 3rd, 2016](https://archive.is/EmkCL#selection-645.1-649.0)).
