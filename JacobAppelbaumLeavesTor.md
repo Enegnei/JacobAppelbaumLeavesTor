@@ -223,7 +223,7 @@ According to [national security researcher and journalist](https://archive.is/nH
 >
 > -- *Alexa O'Brien* [@carwinb](https://twitter.com/carwinb) (June 11th, 2016)
 
-Prior to the next Congress, in mid December 2015, it was [reported](https://archive.is/xMF3f) by [**Motherboard**](https://archive.is/Pyh1X/image) that a small number of **Twitter** users, several of which were "connected to the Tor Project in some capacity" or "vaguely associated with the security community at large," were told that their accounts had been targeted by state-sponsored actors. **Twitter** did not respond to [requests](https://archive.is/t9XcZ) [for more information](https://archive.is/0NbCQ) or updates. Shepherd was [among those who were notified](https://web.archive.org/web/20160214023213/https://state-sponsored-actors.net/).
+Prior to the next Congress, in mid December 2015, it was [reported](https://archive.is/xMF3f) by [**Motherboard**](https://archive.is/Pyh1X/image) that a small number of **Twitter** users, several of which were "connected to the Tor Project in some capacity" or "vaguely associated with the security community at large," were told that their accounts had been targeted by state-sponsored actors. **Twitter** did not respond to [requests](https://archive.is/t9XcZ) [for more information](https://archive.is/0NbCQ) or updates. Shepard was [among those who were notified](https://web.archive.org/web/20160214023213/https://state-sponsored-actors.net/).
 
 #### Suspension from the Tor Project
 
