@@ -1,4 +1,4 @@
-# :negative_squared_cross_mark: :white_small_square: :white_medium_small_square: :white_medium_square: :white_large_square: Jacob Appelbaum Leaves Tor :white_large_square: :white_medium_square: :white_medium_small_square: :white_small_square: :negative_squared_cross_mark:
+# :negative_squared_cross_mark: :white_small_square: :white_medium_small_square: :white_medium_square: Jacob Appelbaum Leaves Tor :white_medium_square: :white_medium_small_square: :white_small_square: :negative_squared_cross_mark:
 
 ![Jacob Appelbaum, from: https://www.flickr.com/photos/re-publica/13937980899/](https://www.dailydot.com/wp-content/uploads/df0/5e/cd24f8a795450f4250dac78c0edd6f83.jpg)
 
