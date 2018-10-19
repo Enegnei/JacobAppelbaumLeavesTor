@@ -322,6 +322,18 @@ Following the publication of the gag order, Appelbaum tweeted about the **Tor Pr
 
 On June 24th 2015, O'Brien and **VICE News** Senior Investigative Reporter [Jason Leopold](https://archive.is/IqpAt) [jointly filed](https://web.archive.org/web/20160722225356/https://twitter.com/JasonLeopold/status/614090844782657537) a [FOIA lawsuit](https://web.archive.org/web/20160722224006/https://www.documentcloud.org/documents/2110787-leopold-obrien-foia-lawsuit-jacob-applebaum.html) against [nineteen US federal agencies](https://web.archive.org/web/20160722222056/https://assets.documentcloud.org/documents/2110787/leopold-obrien-foia-lawsuit-jacob-applebaum.pdf) for [their documents on Appelbaum](https://web.archive.org/web/20160722231229/https:/twitter.com/ioerror/status/614028633385107456). The [first amended complaint](https://web.archive.org/web/20160722221927/https://cryptome.org/2016/06/leopold-obrien-006.pdf) was filed on August 9th. It is not publicly known whether the request has been fulfilled but it [may be nearing completion](https://web.archive.org/web/20160722225143/https:/twitter.com/Cryptomeorg/status/756434419578200064).
 
+#### Denunciation of Establishment Media
+
+On [March 11th 2016](https://archive.is/ZzSg4), Appelbaum [delivered](https://web.archive.org/web/20160412180531/https://www.youtube.com/watch?v=KJValv4YQcY) a [speech](https://archive.is/FrTlr) he self-described as "journalistic career suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC), where he was an [advisor](https://archive.is/iOm5e#selection-311.0-311.15). During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists -- particularly at **The Guardian**, the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)."
+
+> Some of you have written things in papers, for example, were you call me, or Julian Assange, or Sarah Harrison, 'internet activists'. To you that have done that, I think that you do not understand potentially what you do and, in that case, I have some forgiveness for you. But for those of you that do, I understand that you think me your political enemy and I take that up quite seriously, and I will win. So, with that in mind, I don't call you a 'grammar activist'.
+
+> But I would say that it is important that if we have 'disclosure activists' in the audience, I think it's important to consider, for example, that when we have bylines together in papers and later you call me an 'internet activist', it's important to remember you should probably have disclosed in your article where you called me an 'internet activist' that, actually, we were co-authors on, for example, the equivalent of the German Pulitzer Prize, or something similar to that.
+
+> To call me a 'political activist' is to consciously put me outside of the political tent of privilege and to say: go ahead, instead of being under *journalism law*, you're under *terrorism law*.
+
+![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
+
 #### Visit to North Korea
 
 > If someone asked you on a date to go on a tour of North Korea, would you go? Asking for a friend. 
@@ -331,18 +343,6 @@ On June 24th 2015, O'Brien and **VICE News** Senior Investigative Reporter [Jaso
 In [early April 2016](https://archive.is/UNxr6), Appelbaum visited North Korea for [seven days](https://archive.is/qIWWz#selection-1113.0-1113.43) as part of a guided tour group of nine other Americans with the [Korean International Travel Company](https://archive.is/qIWWz#selection-1077.69-1077.105), supposedly after [receiving offers](https://archive.is/fXuKk) sometime in [January](https://archive.is/z4M1R). Though he never publicly announced he was going, he can be seen in the group pictures from a [personal essay](https://archive.is/qIWWz) written by [**PBS Newshour** producer](https://archive.is/4msEB) [Hannah Yi](https://archive.is/Qop6H), as well as the [tour video](https://webcache.googleusercontent.com/search?q=cache:https://vimeo.com/172360421) uploaded [anonymously](https://archive.is/uy8bI) to **Vimeo** between the 26th and 27th of June (Vimeo later took it down, but I had saved an .mp4 copy). Other than Appelbaum making an appearance, what is shown in the video matches pictures shared by Yi in the essay, such as [the soccer game at the Rungrado 1st of May stadium in Pyongyang](https://archive.is/qIWWz#selection-915.55-1193.98) and the [bronze statues at the Mansudae Grand Monument](https://archive.is/qIWWz#selection-915.55-1165.108). It has been alleged that this trip [may have threatened the **Tor Project**'s funding](https://archive.is/OIK0V#selection-215.2475-215.2578).
 
 ![North Korea tour group (Appelbaum on the far left)](https://web.archive.org/web/20171021071431if_/http://d3i6fh83elv35t.cloudfront.net/newshour/wp-content/uploads/2016/05/2016-04-18-10.30.01.jpg)
-
-#### Denunciation of Establishment Media
-
-On April 13th 2016, Appelbaum [delivered](https://www.youtube.com/watch?v=KJValv4YQcY) a [speech](https://archive.is/FrTlr) he self-described as "journalistic suicide" at the [**Logan Center for Investigative Journalism** (CIJ) Symposium](https://archive.is/ZgsyC) (where he is an [advisor](https://archive.is/iOm5e#selection-311.0-311.15)) in Berlin, Germany. During the speech he outlined how he and other investigative journalists had been betrayed by establishment journalists -- particularly at **The Guardian**, the "[shittiest publication in the English language](https://archive.is/FrTlr#selection-1729.0-1743.1)."
-
-> Some of you have written things in papers, for example, were you call me, or Julian Assange, or Sarah Harrison, 'internet activists'. To you that have done that, I think that you do not understand potentially what you do and, in that case, I have some forgiveness for you. But for those of you that do, I understand that you think me your political enemy and I take that up quite seriously, and I will win. So, with that in mind, I don't call you a 'grammar activist'.
-
-> But I would say that it is important that if we have 'disclosure activists' in the audience, I think it's important to consider, for example, that when we have bylines together in papers and later you call me an 'internet activist', it's important to remember you should probably have disclosed in your article where you called me an 'internet activist' that, actually, we were co-authors on, for example, the equivalent of the German Pulitzer Prize, or something similar to that.
-
-> To call me a 'political activist' is to consciously put me outside of the political tent of privilege and to say: go ahead, instead of being under *journalism law*, you're under *terrorism law*.
-
-![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 #### Visit to Cuba
 
