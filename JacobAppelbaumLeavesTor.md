@@ -891,6 +891,8 @@ More than a year later, [Honeywell](https://web.archive.org/web/20170718172214/h
 
 On February 12th 2018, Honeywell [published an ACLU blog post](https://web.archive.org/web/20180212161102/https://www.aclu.org/blog/privacy-technology/internet-privacy/staying-safe-when-you-say-metoo) about "[staying safe when speaking out about harassment](https://web.archive.org/web/20180214031406/https:/twitter.com/hypatiadotca/status/963087429207928832?lang=en)," and described herself as a "[sexual-misconduct whistleblower](https://archive.is/Pf7RK#selection-817.224-821.46)."
 
+In July 2018, she tweeted a [long](https://web.archive.org/web/20180725152842/https:/twitter.com/hypatiadotca/status/1020813824696365056?lang=en) [thread](https://web.archive.org/web/20180725152557/https:/twitter.com/hypatiadotca/status/1020816897518886912?lang=en) about being "diagnosed with inattentive-type ADHD" and leaving "a traumatic emotionally abusive relationship in mid 2017."
+
 #### Ásta Guðrún Helgadóttir
 
 The fifth was [Ásta Guðrún Helgadóttir](https://archive.is/sdT41), an Icelandic politician and [Pirate Party member](https://archive.is/sGSp6), who tweeted allegations of sexual misconduct:
