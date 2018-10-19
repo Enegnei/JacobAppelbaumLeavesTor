@@ -1163,6 +1163,8 @@ Appelbaum is still listed as a [user](https://archive.is/QVDgl) on their '[Peopl
 
 ![Appelbaum wearing Noisebridge t-shirt](https://web.archive.org/web/20160727172736im_/http://cdn.arstechnica.net/wp-content/uploads/2013/02/5570505113_de1e4c01bf_o.jpg)
 
+On September 23rd 2018, Altman tweeted that he had "[quietly left Noisebridge in May](https://web.archive.org/web/20180924150217/https:/twitter.com/maltman23/status/1044097448224993280?lang=en)."
+
 ### Friends and Colleagues
 
 #### M.C. McGrath
