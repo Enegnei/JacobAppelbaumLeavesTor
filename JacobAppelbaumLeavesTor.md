@@ -733,6 +733,8 @@ In response to worries about how the **Tor Project** would handle the investigat
 >
 > -- *Alison Macrina* [@flexlibris](https:/twitter.com/flexlibris) ([June 9th, 2016](https://web.archive.org/web/20160801155736/https:/twitter.com/flexlibris/status/741057715561234433))
 
+On August 15th 2016, Bynum called Mondial "[a stenographer for a psychopath](https://web.archive.org/web/20160816124956/https:/twitter.com/frabyn/status/765349906718482432)."
+
 #### Isis Lovecruft
 
 > [Forest](https://archive.is/bUw87): "Sometime around 5 o'clock in the morning, I woke up very confused and startled
@@ -881,7 +883,9 @@ The fourth was [Leigh Honeywell](https://archive.is/Cm3R9), a computer and netwo
 
 > For example, on several occasions in professional situations, he told other people that I was good at a particular sex act. On another occasion where my primary romantic partner at the time, [Paul Wouters](https://archive.is/yi79U), was also present, Jacob ignored my use of a safeword when his sexual behavior turned into violent behavior that violated my limits. Paul and I both had to repeatedly tell Jacob to stop, and the experience was profoundly upsetting.
 
-On June 21st, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://archive.is/3KfaP), and [Mary Gardiner](https://archive.is/5FjVu) published a list of recommendations for communities on how to "[prevent 'rock stars'](https://archive.is/GAl9X)." However there are [concerns](https://archive.is/Ciz5a#selection-3601.1-3650.1) that based on Aurora's [own](https://archive.is/8pjdK#selection-7227.1-7227.92) [behaviour](https://archive.is/RhwaF#selection-4457.0-4506.1), she belongs to the same '[rock star](https://archive.is/qXNwS)' mentality she is supposedly condemning.
+However, they appeared to be on friendly terms between [2008](https://archive.is/ojseG) and 2011. In January 2010, she [offered him a ticket](https://archive.is/HdQeN) to attend the sixth annual [ShmooCon](https://archive.org/details/shmoocon-2010), a [three-day hacker convention](https://web.archive.org/web/20100201011752/https://seclists.org/fulldisclosure/2009/Sep/114) in Washington DC. In August 2014, Honeywell stated that she was "[not interested in 'fixing' abusive people. I just want them not in my life](https://web.archive.org/web/20181019120958/https:/twitter.com/hypatiadotca/status/499241556495183872?lang=en)."
+
+On June 21st 2016, [Honeywell](https://archive.is/uslBP), [Valerie Aurora](https://archive.is/3KfaP), and [Mary Gardiner](https://archive.is/5FjVu) published a list of recommendations for communities on how to "[prevent 'rock stars'](https://archive.is/GAl9X)." However there are [concerns](https://archive.is/Ciz5a#selection-3601.1-3650.1) that based on Aurora's [own](https://archive.is/8pjdK#selection-7227.1-7227.92) [behaviour](https://archive.is/RhwaF#selection-4457.0-4506.1), she belongs to the same '[rock star](https://archive.is/qXNwS)' mentality she is supposedly condemning.
 
 More than a year later, [Honeywell](https://web.archive.org/web/20170718172214/https://twitter.com/hypatiadotca/status/887259564160188416) and [Aurora](https://web.archive.org/web/20170718143300/https://twitter.com/vaurorapub/status/887312978508427265) co-authored a blog post outlining what they called "[the Al Capone Theory of Sexual Harassment](https://archive.is/pnqtw)." They referenced the allegations against Appelbaum, citing that he had left the **Tor Project** due to "[sexual misconduct and plagiarism](https://archive.is/pnqtw#selection-261.74-267.1)," though no evidence of plagiarism has been presented and those allegations were not even acknowledged in [Steele's blog post on the investigation](https://archive.is/lkywt).
 
