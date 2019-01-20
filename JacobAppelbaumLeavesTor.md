@@ -392,7 +392,7 @@ On June 2nd, 2016, Steele posted a ["transition" update](https://web.archive.org
 
 > Long time digital advocate, security researcher, and developer Jacob Appelbaum stepped down from his position at The Tor Project on May 25, 2016.
 
-Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash](https://archive.is/V0hZw#selection-26133.0-26133.78):
+Within the same day that Steele announced Appelbaum's departure, Shepard [revealed the hash input](https://archive.is/V0hZw#selection-26133.0-26133.78):
 
 > Precommitment revealed: sha256("It seems one rapist is one rapist too many\n") ([June 2nd, 2016](https://web.archive.org/web/20160609070443/https:/twitter.com/puellavulnerata/status/738581432893743104))
 
