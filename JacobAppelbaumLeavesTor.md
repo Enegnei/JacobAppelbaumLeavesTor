@@ -1335,6 +1335,10 @@ On August 28th 2018, senior staff technologist [Cooper Quintin](https://web.arch
 
 The **Electronic Frontier Foundation** has not publicly commented on whether they are still assisting with [pro-bono legal counsel](https://web.archive.org/web/20171221233604/https://www.eff.org/pages/legal-assistance) for [Appelbaum](https://web.archive.org/web/20180101161454/https:/twitter.com/ioerror/status/540956543131586561?lang=en) related to the [Grand Jury investigation](https://web.archive.org/web/20120103185444/https://www.eff.org/press/releases/privacy-loses-twitterwikileaks-records-battle) (see '[*The Snowden Leaks*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-snowden-leaks)' and '[*Freedom of Information (FOI) Lawsuit*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#freedom-of-information-foi-lawsuit)').
 
+On January 23rd 2019, **Reuters** reported that Appelbaum had recently been contacted by prosecutors as part of an effort to "[pressure witnesses to testify against WikiLeaks founder Julian Assange](https://archive.fo/uhJCN#selection-353.75-353.145)," and was named in an [application by Assange's legal team to the Washington-based Inter-American Commission on Human Rights (IACHR)](https://archive.fo/EoDvs#selection-1429.11-2049.229).
+
+> Appelbaum told Reuters that while prosecutors offered him broad immunity from prosecution, he had no interest in cooperating or testifying before a grand jury.
+
 ### Telekommunisten
 
 > [I used to recommend that my friends visit](https://web.archive.org/web/20170512140104/https:/twitter.com/squeed/status/862281997967929345) [@telekommunisten](https://web.archive.org/web/20170512140149/https:/twitter.com/telekommunisten) [when in Berlin, but no longer. Their refusal to eject abusers is inexcusable.](https://web.archive.org/web/20170512140104/https:/twitter.com/squeed/status/862281997967929345) You will never see me at another [Stammtisch] again. And [I'm] not the only one.
