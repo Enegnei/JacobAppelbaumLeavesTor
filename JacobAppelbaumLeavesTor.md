@@ -1372,7 +1372,7 @@ Both [Callendrello](https://archive.is/JHMlN#selection-4953.0-4953.133) and [Rei
 
 ### DEF CON
 
-On July 30th 2017, the '[Transparency Report](https://archive.fo/Eo5Mi#selection-547.0-551.231)' for **DEF CON 25** noted that Appelbaum was banned from the conference, not based on any reported incident at their own event but "news reports and community forums" about "potential bad actors."
+On July 30th 2017, the '[Transparency Report](https://archive.fo/Eo5Mi#selection-547.0-551.231)' for **DEF CON 25** noted that Appelbaum was banned from the conference, not based on an incident report at their event but "news reports and community forums" about "potential bad actors."
 
 ### The Intercept
 
