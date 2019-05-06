@@ -32,8 +32,9 @@
    9. [Linux Australia](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#linux-australia)
    10. [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation)
    11. [Telekommunisten](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten)
-   12. [The Intercept](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-intercept)
-   13. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
+   12. [DEF CON](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#def-con)
+   13. [The Intercept](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-intercept)
+   14. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
 
 ### **Latest updates:** 
 [Appelbaum gives first press interview, subsequent Guardian interview](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#appelbaum-denounces-allegations); [reason for living in Berlin](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-snowden-leaks); [encryption used in Tor investigation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#tor-project-concludes-investigation); [quotes from David Chasteen](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#leaked-tor-internal-chat-logs); [quotes from Isaacson](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#andy-isaacson); [de Valence, Bernstein, and Lange](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#henry-de-valence); [Laura Poitras and *Risk* documentary](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#laura-poitras); [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation); [Telekommunisten meetup](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten); [Chelsea Komlo](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#chelsea-komlo)
@@ -1371,7 +1372,7 @@ Both [Callendrello](https://archive.is/JHMlN#selection-4953.0-4953.133) and [Rei
 
 ### DEF CON
 
-On July 30th 2017, it was noted in the '[Transparency Report](https://archive.fo/Eo5Mi#selection-547.0-551.231)' for **DEF CON 25** that Appelbaum had been banned from the conference.
+On July 30th 2017, the '[Transparency Report](https://archive.fo/Eo5Mi#selection-547.0-551.231)' for **DEF CON 25** noted that Appelbaum was banned from the conference.
 
 ### The Intercept
 
