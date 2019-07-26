@@ -158,7 +158,7 @@ On [July 2nd](https://web.archive.org/web/20151014043013/https://digitalegesells
 
 > Here's a great dread: I don't actually trust that my country is a safe enough place, that I should wait around and see if justice still exists. So I came to Berlin, because I thought it would be a much better place to write about some of the things that are taking place now, to work with people that are interested in understanding the surveillance. Because for a decade I have worked on these issues and finally we have the information, as you've seen in **Der Spiegel** recently and as you've seen in the **Guardian**.
 
-On August 30th, Appelbaum [delivered an acceptance speech on behalf of Snowden](https://youtu.be/cW8lRCqYI6U) for the [Whistleblower Award](https://web.archive.org/web/20140829155057/https://edwardsnowden.com/2013/07/26/transparency-international-germany-whistleblower-prize/), organized by Transparency International Deutschland, the *Vereinigung Deutscher Wissenschaftler*, and the German Section of the International Association Of Lawyers Against Nuclear Arms (IALAN).
+On August 30th, Appelbaum [delivered an acceptance speech on behalf of Snowden](https://youtu.be/cW8lRCqYI6U) for the [Whistleblower Award](https://web.archive.org/web/20140829155057/https://edwardsnowden.com/2013/07/26/transparency-international-germany-whistleblower-prize/), organized by Transparency International Deutschland, the *Vereinigung Deutscher Wissenschaftler*, and the German Section of the International Association of Lawyers against Nuclear Arms (IALANA).
 
 #### Online Harassment of the Tor Project
 
