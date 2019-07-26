@@ -158,6 +158,8 @@ On [July 2nd](https://web.archive.org/web/20151014043013/https://digitalegesells
 
 > Here's a great dread: I don't actually trust that my country is a safe enough place, that I should wait around and see if justice still exists. So I came to Berlin, because I thought it would be a much better place to write about some of the things that are taking place now, to work with people that are interested in understanding the surveillance. Because for a decade I have worked on these issues and finally we have the information, as you've seen in **Der Spiegel** recently and as you've seen in the **Guardian**.
 
+On August 30th, Appelbaum [delivered an acceptance speech on behalf of Snowden](https://youtu.be/cW8lRCqYI6U) for the [Whistleblower Award](https://web.archive.org/web/20140829155057/https://edwardsnowden.com/2013/07/26/transparency-international-germany-whistleblower-prize/), organized by Transparency International Deutschland, the *Vereinigung Deutscher Wissenschaftler*, and the German Section of the International Association Of Lawyers Against Nuclear Arms (IALAN).
+
 #### Online Harassment of the Tor Project
 
 Over a span of several months prior to the [**Chaos Communication Congress**](https://archive.is/FQsDm) (31c3) in December 2014, [core Tor developer](https://archive.is/Q2TTK#selection-739.0-739.25) [Andrea Shepard](https://archive.is/yF1cg) was the target of repeated online harassment. On Thanksgiving Day, she [doxxed the alleged lead troll Jeremy Becker](https://web.archive.org/web/20160902180938/https://motherboard.vice.com/read/that-time-a-tor-developer-doxxed-a-troll) (aka '[JbJabroni10](https://web.archive.org/web/20141017222250/https://twitter.com/JbJabroni10)').
