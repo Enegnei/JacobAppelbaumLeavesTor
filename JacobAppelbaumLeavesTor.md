@@ -38,7 +38,7 @@
 6. [**TODD V. REICHWEIN**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#todd-v-reichwein)
 
 ### **Latest updates:** 
-[Nick Farr revokes allegation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#nick-farr); [Shepard](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project) and [Lovecruft leave the Tor Project; lawsuit from Peter Todd](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft)
+[Nick Farr revokes allegation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#nick-farr); [Shepard](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project) and [Lovecruft leave the Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft); [lawsuit from Peter Todd](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#todd-v-reichwein)
 
 ***
 
