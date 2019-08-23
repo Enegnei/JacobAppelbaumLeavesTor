@@ -1555,3 +1555,5 @@ A second declaration from '[Jane Doe](https://web.archive.org/web/20190806234203
 
 | Precommitment hash: `a65f36da4849a9ef722cfa169e98acba3649036e927c758c8f1b075aaefa2d23` [August 7th 2019] |
 |:--------------------------------------------------------------------------------------------------------:|
+
+On August 20th, Todd filed a proposed order for [changing the case name](https://web.archive.org/web/20190821010140/https://www.courtlistener.com/recap/gov.uscourts.cand.340308/gov.uscourts.cand.340308.41.0.pdf) to "[Peter Todd v. Isis Agora Lovecruft](https://www.courtlistener.com/docket/14868600/todd-v-lovecruft/)," since Lovecruft had [recently changed their legal name and gender](https://archive.is/3uFWw). Judge Ryu [accepted](https://web.archive.org/web/20190823183655/https://www.courtlistener.com/recap/gov.uscourts.cand.340308/gov.uscourts.cand.340308.44.0.pdf) the motion the next day, just before [the](https://web.archive.org/web/20190822111944/https:/twitter.com/isislovecruft/status/1164346144941432834?lang=en) [hearing](https://web.archive.org/web/20190823172251/https:/twitter.com/akareilly/status/1164535975109976064?lang=en).
