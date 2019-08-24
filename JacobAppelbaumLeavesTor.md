@@ -1555,3 +1555,5 @@ A second declaration from '[Jane Doe](https://web.archive.org/web/20190806234203
 
 | Precommitment hash: `a65f36da4849a9ef722cfa169e98acba3649036e927c758c8f1b075aaefa2d23` [August 7th 2019] |
 |:--------------------------------------------------------------------------------------------------------:|
+
+On August 22nd, after [the hearing](https://web.archive.org/web/20190824020143/https://www.courtlistener.com/recap/gov.uscourts.cand.340308/gov.uscourts.cand.340308.46.0.pdf), "the court indicated that it would consider Defendant’s legal challenges... but that their factual challenges would need to be raised in a summary judgment motion after the parties had the opportunity to conduct discovery," based on the precedent of *Planned Parenthood v. Center for Medical Progress*. It was requested that "each side must submit an opening brief" on the merits and standards of the case by September 12th, and submit replies by September 19th."
