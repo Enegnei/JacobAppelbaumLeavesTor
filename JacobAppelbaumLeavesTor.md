@@ -895,6 +895,8 @@ On August 17th, [Lovecruft](https://web.archive.org/web/20180819134341/https://t
 
 On January 25th 2019, Lovecruft tweeted that they "[love not working for a terribly shitty and abusive non profit who punished me for speaking up about Famous Men they perpetually court and enable](https://archive.fo/ix3uU)." Months later, after [announcing](https://web.archive.org/web/20190912212435/https:/twitter.com/isislovecruft/status/1172245935939817473?lang=en) that they had been hired elsewhere, Lovecruft claimed that the **Tor Project** had "[constantly requested that I delete posts and alter blogs (and I didn’t obey)](https://web.archive.org/web/20190913103018/https:/twitter.com/isislovecruft/status/1172340590626758656?lang=en)."
 
+In October, in response to a conference questionaire about 'a bit of trivia that is unique or unusual about you,' Lovecruft replied that "[the FBI once tried to kidnap me and failed.](https://web.archive.org/web/20191016002927/https:/twitter.com/isislovecruft/status/1184229349807087617?lang=en)" They added "I have another good piece of trivia but my lawyers won't let me share it yet."
+
 *Further information about the Todd v. Lovecruft lawsuit can be found [here](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#todd-v-lovecruft).*
 
 #### Leigh Honeywell
