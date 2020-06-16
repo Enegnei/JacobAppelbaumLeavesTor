@@ -1596,4 +1596,4 @@ On or around June 15th, Lovecruft tweeted, "[While Peter Todd and I were involve
 
 ![crowdfund update](https://archive.is/xdoSL/4da949f28a45ab460aee69f57f07d432ab33a01e.jpg)
 
-Todd [confirmed](https://archive.is/FcI1Y) that this "ridiculously expensive" lawsuit had been settled, and further remarked that he would be "checking with my lawyers about what I can say about it and the evidence we got in discovery. No NDA, so should be able to do a full writeup."
+Todd [confirmed](https://archive.is/FcI1Y) that this "ridiculously expensive" lawsuit had been [settled](https://archive.is/kxWjf) and shared [the](https://archive.is/bis0D) [pages](https://archive.vn/xcmfc) [of](https://archive.vn/ZEWCh) [the](https://archive.vn/95yJd) [agreement](https://archive.vn/08OuX). He noted that he would be "checking with my lawyers about what I can say about it and the evidence we got in discovery. No NDA, so should be able to do a full writeup."
