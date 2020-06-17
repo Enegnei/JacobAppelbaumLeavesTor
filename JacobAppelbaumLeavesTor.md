@@ -1607,6 +1607,7 @@ Less than [one day](https://archive.is/9lEwH) after the settlement was publicy a
 > hi! are you a cis man? ally here. have you been CREDIBLY ACCUSED OF RAPE? i’m here to let you know you have OPTIONS to FIX YOUR REPUTATION:
 > 1) apologise to your survivors, get therapy, strive to be a better person
 > 2) KILL YOURSELF
+>
 > that’s it. those are the options.
 
 When someone pointed out that reputations could not be fixed through suicide, they replied, "[this is a feature, not a bug](https://archive.is/rnCMQ)."
