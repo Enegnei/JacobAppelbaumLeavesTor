@@ -1487,6 +1487,11 @@ On August 16th, journalist and [Tor advocate](https://archive.is/rotkk#selection
 
 > I cannot even point all the details (from the blogposts to all the refusals to talk on tor-internal) where Tor showed a worrying lack of transparency. I am extremely worried about the direction taken by the organization. This is, to be clear, not a version of the Tor Project I want to be associated with.
 
+On August 19th, Stephan Seitz wrote to the mailing list that he would be "[shutting down my tor relay fsingtor now](https://lists.torproject.org/pipermail/tor-talk/2016-August/042032.html)."
+
+> The situation how the affair about Jake was handled by the Tor project has made me feel very uneasy. After digging through several material (for example 
+https://shiromarieke.github.io/tor) I find that I am no longer believing in this project or trust it. That’s why I’m shutting down my tor relay fsingtor now. As long as the project stays that way it is I will no longer recommend Tor or support it in any ways. And I don’t think that such a project should have any future.
+
 Gutbub later responded to messages she had received following her departure:
 
 > [In the last days, I have recieved a lot of support messages. Thank you everyone.](https://web.archive.org/web/20160821010509/https:/twitter.com/shiromarieke/status/767077303230705664) [But reading all these kind messages from people calling me "courageous", "brave", etc., made me really sad.](https://web.archive.org/web/20160821010608/https:/twitter.com/shiromarieke/status/767077346356498432) [I'm ready to take risks, but I wish I wouldn't have to be brave by taking actions against an organization I used to respect.](https://web.archive.org/web/20160821010706/https:/twitter.com/shiromarieke/status/767077376089960448) [I wish I would have taken risks speaking with/for Tor, not against them. We should be united in our fight against surveillance.](https://web.archive.org/web/20160821010803/https:/twitter.com/shiromarieke/status/767077416330141696) [I hope some day we will be able to fight together again. People need Tor. Let's not forget our common goals.](https://web.archive.org/web/20160821010920/https:/twitter.com/shiromarieke/status/767077443467292672)
