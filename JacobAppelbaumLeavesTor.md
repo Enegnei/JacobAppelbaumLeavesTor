@@ -469,7 +469,7 @@ In November 2017, the **European Court of Human Rights** (ECHR) decided in the c
 
 ![Source: https://www.instagram.com/p/Bw9LAVQFqOF/](https://archive.is/GXHEF/3d56f8d7813d6f5746a974d00b3db5ebd98fcabb.jpg)
 
-`Ai Weiwei, Srećko Horvat, and Appelbaum during a rally for Assange at Brandenburger Tor, May 2nd 2019. Photo credit: Ai Weiwei`
+`Ai Weiwei, Srećko Horvat, and Appelbaum at Brandenburger Tor rally for Assange, May 2nd 2019. Photo credit: Ai Weiwei`
 
 In November 2019, [Appelbaum](https://archive.is/XiAqe) participated in the "[*Resistências*](https://archive.is/f2I9C)" program of the Lisbon & Sintra Film Festival (LEFFEST'19), curated by Franco-Spanish lawyer and journalist [Juan Branco](https://web.archive.org/web/20191121163333/https://twitter.com/anatolium). On the 16th, during a discussion with Branco, Appelbaum spoke about Assange's case, his regrets about the 'internet freedom' movement, and his experience being targeted by the surveillance state.
 
