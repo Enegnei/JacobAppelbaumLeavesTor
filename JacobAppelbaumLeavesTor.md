@@ -467,6 +467,10 @@ On [August 12th](https://web.archive.org/web/20160812132547/https:/twitter.com/z
 
 In November 2017, the **European Court of Human Rights** (ECHR) decided in the case of *EGILL EINARSSON v. ICELAND* that "[public persons... do not have to tolerate being publicly accused of violent criminal acts without such statements being supported by facts](https://archive.is/gCrgS#selection-8243.4-8267.21)," on the basis that such statements would violate [Article 8](https://archive.is/gCrgS#selection-7475.4-7589.266).
 
+![Source: https://www.instagram.com/p/Bw9LAVQFqOF/](https://archive.is/GXHEF/3d56f8d7813d6f5746a974d00b3db5ebd98fcabb.jpg)
+
+`Ai Weiwei, Srećko Horvat, and Appelbaum during a rally for Assange at Brandenburger Tor.`
+
 In November 2019, [Appelbaum](https://archive.is/XiAqe) participated in the "[*Resistências*](https://archive.is/f2I9C)" program of the Lisbon & Sintra Film Festival (LEFFEST'19), curated by Franco-Spanish lawyer and journalist [Juan Branco](https://web.archive.org/web/20191121163333/https://twitter.com/anatolium). On the 16th, during a discussion with Branco, Appelbaum spoke about Assange's case, his regrets about the 'internet freedom' movement, and his experience being targeted by the surveillance state.
 
 > "[Having proof is a lot like being innocent of a thing. You think that matters in this context, and it doesn't. Actually, having evidence doesn't change one bit about those people who suggested it wasn't real and that we deserve it. The evidence didn't change their opinion because they're authoritarians, often pretending to not be fascists, but who in fact are supporting things like the death penalty, very clearly for Julian and for other people](https://youtu.be/r9qkNzlzSQM?t=243)."
