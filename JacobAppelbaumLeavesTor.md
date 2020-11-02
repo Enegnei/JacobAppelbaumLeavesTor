@@ -479,6 +479,18 @@ A few days later, Reilly still mocked the idea that he was a "[political exile](
 
 Branco, as a legal advisor, had visited Assange at the Ecuadorian Embassy, particularly in relation to [an attempt to seek asylum in France](https://archive.is/Gw9xf). Since November 21st, Branco has been [sharing surveillance footage](https://web.archive.org/web/20191201134220/https:/twitter.com/anatolium/status/1197500181291393024?lang=en) of the embassy that had been made available through [the exposure of Spanish security company **UC Global**](https://archive.is/LXlzc). According to the French online journal [**Mediapart**](https://archive.is/DKUgP), Branco plans to file a compliant. "[Not one, but dozens of hours of meetings filmed, recorded and transmitted daily to the CIA. Including in the kitchen. Meetings protected by attorney-client privilege](https://web.archive.org/web/20191201134656/https://twitter.com/anatolium/status/1200746603289677826?lang=en)," he explained.
 
+Reilly would continue to reference the allegations against Appelbaum and [Assange](https://archive.is/Csns1).
+
+> ÖPNV-Mitarbeiter, die Unterstützung von Die Zeit wollen: Tut mir leid, sie unterstützen nur Vergewaltiger. [Public transport employees who want support from Die Zeit: Sorry, they only support rapists.]
+>
+> -- Karen Reilly [@akareilly](https://archive.is/LJCeJ) (September 29th 2020)
+
+On October 3rd, during the seventh annual [Hackers Congress](https://digital-totality.hcpp.cz/) at Paralelni Polis, [Appelbaum](https://youtu.be/9Yolhny77BQ?t=7421) again spoke about Assange's case, the grand jury, and the fallout from the **Tor Project**:
+
+> For example, to give you an idea of his character: when I understood that the grand jury wanted me to testify against Julian Assange, I called Julian and I told him. I told him, "I have been told that if I do not testify against you, they will come and extradite me from Europe, and I will probably die in an American prison or be locked up indefinitely," as Chelsea Manning at the time was. I told him, "I have not been home in many years. I do not want to do this." 
+>
+> You would expect a selfish jerk to do something like telling me what to do in that situation, something that is in his best interest. But that's not what he did. He made a moral appeal, not to me but to the standard that we should all set. He said, "The Tor Project has taken away your reputation and name. They have tried to say that you have no right to speak in public anymore, that you have no moral standing, that you are nobody, that you are nothing. And now the Department of Justice has given you a chance to show the world who you really are. So it's up to you to decide what choice you want to make. It's up to you to decide what you want to live with, and what you can't live with."
+
 ### Replacement of Tor Project Board Members
 
 On July 13th 2016, the **Tor Project** [announced](https://archive.is/IU6S7) that it would be [replacing all seven members on the board of directors](https://archive.is/L1iIh) "in keeping with its commitment to the best possible health of the organization." The statement was [written by the outgoing board](https://archive.is/vVYc0#selection-75.2-75.56) and [posted as a press release](https://archive.is/vVYc0#selection-75.57-75.133) by [Krauss](https://archive.is/yxqlC#selection-471.0-471.57). Though Dingledine and Mathewson stepped down from the board, they will "[continue in their roles as co-founders of the Tor Project, leading Tor's technical research and development](https://archive.is/L1iIh#selection-143.0-143.404)."
