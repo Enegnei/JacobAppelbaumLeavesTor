@@ -499,7 +499,7 @@ Reilly would continue to reference the allegations against Appelbaum and [Assang
 >
 > -- Karen Reilly [@akareilly](https://archive.is/LJCeJ) (September 29th 2020)
 
-On October 3rd 2020, during the seventh annual [Hackers Congress](https://digital-totality.hcpp.cz/) at Paralelni Polis, [Appelbaum](https://youtu.be/9Yolhny77BQ?t=7421) again spoke about Assange's case, the grand jury, and the fallout from the **Tor Project**:
+On October 3rd 2020, during the seventh annual [Hackers Congress](https://web.archive.org/web/20201005044840/https://digital-totality.hcpp.cz/) at Paralelni Polis, [Appelbaum](https://youtu.be/9Yolhny77BQ?t=7421) again spoke about Assange's case, the grand jury, and the fallout from the **Tor Project**:
 
 > For example, to give you an idea of his character: when I understood that the grand jury wanted me to testify against Julian Assange, I called Julian and I told him. I told him, "I have been told that if I do not testify against you, they will come and extradite me from Europe, and I will probably die in an American prison or be locked up indefinitely," as Chelsea Manning at the time was. I told him, "I have not been home in many years. I do not want to do this." 
 >
