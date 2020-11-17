@@ -358,6 +358,8 @@ On [March 11th 2016](https://archive.is/ZzSg4), Appelbaum [delivered](https://we
 
 > To call me a 'political activist' is to consciously put me outside of the political tent of privilege and to say: go ahead, instead of being under *journalism law*, you're under *terrorism law*.
 
+At a previous [CIJ Symposium](https://archive.is/zUnVw) in December 2014, he had similarly said "[every effective journalist is an activist... for the truth](https://youtu.be/Azha-9ocdbU?t=132)."
+
 ![Appelbaum at CIJ event](https://pbs.twimg.com/media/CdTV8ArUIAAmpSk.jpg:large)
 
 #### Visit to North Korea
@@ -974,6 +976,8 @@ He later tweeted that de Valence's "[discomfort seemed quite serious, and I don'
 
 On July 10th 2018, de Valence tweeted that Bernstein should go through "[Title IX training](https://web.archive.org/web/20180711093649/https:/twitter.com/hdevalence/status/1016904825269702656?lang=en)," referencing a [U.S. federal civil rights statute](https://web.archive.org/web/20180703171920/https://www2.ed.gov/about/offices/list/ocr/docs/tix_dis.html) which requires educational institutions to investigate and resolve complaints of sexual discrimination and harassment, or risk losing access to federal funds. While he is subject to Title IX as a research professor at the [**University of Illionis at Chicago** (UIC)](https://web.archive.org/web/20180711163656/https://www.cs.uic.edu/k-teacher/daniel-j-bernsteinphd/), that [process](https://web.archive.org/web/20180711164747/https://oae.uic.edu/sexual-misconduct/title-ix/) is not internationally applicable to his position or incidents at Eindhoven.
 
+In November 2019, de Valence claimed that Appelbaum was "[pretending to do a phd](https://archive.is/Qoexg)."
+
 #### Chelsea Komlo
 
 > [River](https://archive.is/0jbVl): "I didn't know until very recently that nonconsensual sex, by a friend, is rape" ([February 2nd, 2016](https://archive.is/tsKaK#selection-647.0-649.0)).
@@ -1423,6 +1427,8 @@ On May 13th, **Telekommunisten** members [Baruch Gottlieb](https://web.archive.o
 > [Telekommunisten have endured your toxic community long enough, you bring your self-importance and entitlement to us, flood our space with your dysfunctional community and then place expectations on us to police you. We owe you nothing. To be honest, we think you are a bunch of petty bourgeois assholes, who we only accommodate because we are polite.](https://archive.is/4u4BY#selection-63.0-63.350)
 
 Both [Callendrello](https://archive.is/JHMlN#selection-4953.0-4953.133) and [Reilly](https://archive.fo/pWQ16#selection-5749.0-5749.139) thanked them for their response.
+
+Machine-learning-design researcher and artist [Caroline Sinders](https://web.archive.org/web/20201031215955/https://carolinesinders.com/) said she had almost attended the meetup and was "[glad that I didn't. What Jake did to my friends and how he treats ppl is inexcusable. No space for abusers](https://archive.is/cVlnD)." Yet like many, Sinders was on friendly terms with Appelbaum until sometime in [February 2016](https://archive.is/u2B24), including responding to his questions about whether to "[buy a telepresence robot](https://archive.is/O9UkB)" and "[the most interesting place in Japan to visit](https://archive.is/9zVGu)." In 2015, she had promoted his art projects with [Ai Weiwei](https://archive.is/qYGkP) and [Laura Poitras](https://archive.is/OvfXT), [complimented](https://archive.is/bDueM) a [photo](https://archive.is/K8l73) of him, expressed [sympathy](https://archive.is/mN2h3) about his exile, and [covered](https://archive.is/p3N13) his talk at Congress. In January 2016, she had asked Appelbaum and Macrina for help to find "[American South Tor communities](https://archive.is/753NO)." In June 2016, after he was accused, she told people to "[Believe victims first, always](https://archive.is/Ztsy9)," and subsequently [criticised](https://archive.is/lHQla) [events](https://web.archive.org/web/20171207194228if_/https://twitter.com/cijournalism/status/938769505492365312) and [media outlets](https://archive.is/x95lC) which continued to share his work.
 
 ### DEF CON
 
