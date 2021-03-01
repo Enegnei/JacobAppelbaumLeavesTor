@@ -997,7 +997,7 @@ On July 10th 2018, de Valence tweeted that Bernstein should go through "[Title I
 
 In November 2019, de Valence claimed that Appelbaum was "[pretending to do a phd](https://archive.is/Qoexg)."
 
-On January 6th 2021, the [**Zcash Foundation**](https://archive.is/4oACP) announced that de Valence was "[stepping down](https://archive.is/oUzJT)" as principle cryptographic researcher, without specifying a reason. In February 2021, Lovecruft vaguely [accused](https://web.archive.org/web/20210213021728/https://github.com/dalek-cryptography/curve25519-dalek/pull/338) de Valence of "violations of the Rust Community Code of Conduct" and "repeatedly displaying unacceptable behaviours towards several people" (see '[*Isis Lovecruft*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft)').
+On January 6th 2021, the [**Zcash Foundation**](https://archive.is/4oACP) announced that de Valence was "[stepping down](https://archive.is/oUzJT)" as principal cryptographic researcher, without specifying a reason. In February, Lovecruft vaguely [accused](https://web.archive.org/web/20210213021728/https://github.com/dalek-cryptography/curve25519-dalek/pull/338) de Valence of "violations of the Rust Community Code of Conduct" and "repeatedly displaying unacceptable behaviours towards several people" (see '[*Isis Lovecruft*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#isis-lovecruft)').
 
 #### Chelsea Komlo
 
