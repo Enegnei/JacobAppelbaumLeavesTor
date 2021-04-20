@@ -1365,6 +1365,8 @@ Snowden [tweeted](https://archive.is/rFntX) that he believed her allegations and
 
 **First Look Media** [responded](https://archive.is/ACM36) that they "did not renew Laura Poitras’s independent contractor agreement because, despite our financial arrangement, she has not been active in any capacity with our company for more than two years." In [a co-authored article](https://archive.is/mUCZc) from November 2014, exactly six years prior to her termination and about nine months into [**The Intercept**'s launch](https://archive.is/SOkR5), it was noted that "Greenwald, Poitras, and Scahill all opted to be independent contractors rather than First Look employees in order to maximize their freedom to speak out and act."
 
+On March 23rd, Poitras updated the open letter with audio clips and stated "[I continue to maintain, as I have done from the start, that my firing was the culmination of the company’s retaliation against me](https://archive.is/S7jVW)."
+
 #### Ancilla van de Leest
 
 On August 6th 2017, privacy advocate and [former Dutch **Pirate Party** front-runner](https://archive.fo/gQQDf) [Ancilla van de Leest](https://web.archive.org/web/20160928094139/https://twitter.com/ncilla?lang=en) gave a talk at the [SHA2017 conference](https://web.archive.org/web/20180813094247/https://sha2017.org/) in the [Netherlands](https://archive.is/36Ts6), titled "[Smart, Safe & Happy: Ensuring Civil Rights in the Digital Era](https://archive.is/D9ES3)." Towards the end of the talk ([36:43 - 38:14](https://media.ccc.de/v/SHA2017-242-smart_safe_happy)), she spoke up about [how the allegations had been handled](https://web.archive.org/web/20180812195834/https://twitter.com/ncilla/status/738775174422630400?lang=en).
