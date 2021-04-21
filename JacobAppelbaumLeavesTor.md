@@ -32,11 +32,12 @@
    7. [Internet Freedom Festival](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#internet-freedom-festival)
    8. [Debian Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#debian-project)
    9. [Linux Australia](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#linux-australia)
-   10. [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation)
-   11. [Telekommunisten](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten)
-   12. [DEF CON](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#def-con)
-   13. [The Intercept](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-intercept)
-   14. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
+   10. [Hackers On Planet Earth](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#hackers-on-planet-earth-hope)
+   11. [Electronic Frontier Foundation](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#electronic-frontier-foundation)
+   12. [Telekommunisten](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#telekommunisten)
+   13. [DEF CON](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#def-con)
+   14. [The Intercept](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-intercept)
+   15. [The Tor Project](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-tor-project)
 6. [**THE AFTERMATH**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#the-aftermath)
 7. [**TODD V. LOVECRUFT**](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#todd-v-lovecruft)
 
@@ -1401,9 +1402,9 @@ On July 1st, Blemings released a [second statement officially banning Appelbaum]
 
 ### Hackers On Planet Earth (HOPE)
 
-On July 22nd, for [**The Eleventh HOPE**](https://archive.is/tAodu), [Comet Crowbar](https://archive.is/FFwkV#selection-541.0-541.13) ([@paper_waves](https://archive.is/YzUk2)) mentioned Appelbaum during her talk on "[How to Start a Crypto Party](https://youtu.be/iGQD8LX5OaE?t=1205)."
+The **Hackers On Planet Earth** (HOPE) conference did not make any public statements on the matter; their code of conduct remained largely the same for the [10th](https://archive.is/tdh26), [11th](https://archive.ph/siZpn), and [12th](https://archive.is/Y9ayl) HOPE, with the latest adding the option to file incident reports via an online form. On July 22nd, for [**The Eleventh HOPE**](https://archive.is/tAodu), [Comet Crowbar](https://archive.is/FFwkV#selection-541.0-541.13) ([@paper_waves](https://archive.is/YzUk2)) mentioned Appelbaum during her talk on "[How to Start a Crypto Party](https://youtu.be/iGQD8LX5OaE?t=1205)."
 
-> Dropping the 'A-baum.' Some of us have heard that Jacob Appelbaum has been called out as an abuser, not nice person. I was heavily influenced by his excitement for crypto work. He has contributed a ton. I'm sure people here have loved the work he's done. But also, he's not treated women and other people very nice. When I heard about this last month or so, I was really shocked, hurt, confused, and just angry that it went on for years apparently. Someone I know personally was affected by him. Right now this is a call-out to everyone here at HOPE, to say: we need more intentionally radical, safter spaces that take a solid stance against oppression of any kind. We need to call out the abusers so that other people like me... I've met him, I've been with him in situations in Berlin. I could have been one of those people. If I knew about that beforehand, I could have been safer. That's why it is important to make it public. I appreciate the work he's done, but, like... rapist. I don't want to be that guy's friend. He says he's an anarchist; that's not anarchy, that's oppression.
+> Dropping the 'A-baum.' Some of us have heard that Jacob Appelbaum has been called out as an abuser, not nice person. I was heavily influenced by his excitement for crypto work. He has contributed a ton. I'm sure people here have loved the work he's done. But also, he's not treated women and other people very nice. When I heard about this last month or so, I was really shocked, hurt, confused, and just angry that it went on for years apparently. Someone I know personally was affected by him. Right now this is a call-out to everyone here at HOPE, to say: we need more intentionally radical, safer spaces that take a solid stance against oppression of any kind. We need to call out the abusers so that other people like me... I've met him, I've been with him in situations in Berlin. I could have been one of those people. If I knew about that beforehand, I could have been safer. That's why it is important to make it public. I appreciate the work he's done, but, like... rapist. I don't want to be that guy's friend. He says he's an anarchist; that's not anarchy, that's oppression.
 
 On July 21st 2018, for [**The Circle of HOPE**](https://archive.is/Ck56I), [Gillian "Gus" Andrews](https://archive.ph/qP8qr#selection-245.0-245.11) ([@gusandrews](https://twitter.com/gusandrews)) also mentioned Appelbaum during her talk on "[The Problem With The Hacker Mystique](https://youtu.be/6D7boOIHrc8?t=741)."
 
