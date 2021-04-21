@@ -1399,7 +1399,7 @@ On June 18th, Appelbaum was [removed](https://archive.is/XHMBl) as a [developer 
 
 On July 1st, Blemings released a [second statement officially banning Appelbaum](https://archive.is/YiEM5#selection-59.749-59.962) from Linux Australia events.
 
-## HOPE Conference
+### Hackers On Planet Earth (HOPE)
 
 On July 22nd, for [**The Eleventh HOPE**](https://archive.is/tAodu), [Comet Crowbar](https://archive.is/FFwkV#selection-541.0-541.13) ([@paper_waves](https://archive.is/YzUk2)) mentioned Appelbaum during her talk on "[How to Start a Crypto Party](https://youtu.be/iGQD8LX5OaE?t=1205)."
 
