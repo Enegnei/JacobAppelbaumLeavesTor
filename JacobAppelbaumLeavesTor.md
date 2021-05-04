@@ -1456,14 +1456,6 @@ In a special report by the [Army Counterintelligence Center](https://web.archive
 
 > Wikileaks.org staff members and various authors and contributors have written numerous news articles and posted the raw data in spreadsheets or Structured Query Language (SQL) data base so anyone can examine the information, conduct research, comment upon, discuss the various units, see the items of equipment, see what they do, and draw their own conclusions about the strategic, political, military, and human rights significance of the information.
 
-On September 24th, an online magazine of [Heise Gruppe](https://archive.is/sQQUS) published [an article](https://archive.is/cmhtB) exploring how the U.S. prosecution criminalised talks at events in Germany -- Chaos Computer Club in December 2013, re:publica in May 2014, a Rosa Luxemburg Foundation conference in June 2015 -- as part of the conspiracy.
-
-> Die Nennung von drei Events zwischen den Jahren 2013 und 2015 ist nicht nur beachtlich, weil die netzpolitische Szene in Deutschland von US-Stellen beobachtet wurde. [The mention of three events between 2013 and 2015 is remarkable, not only because the net-politics scene in Germany was monitored by U.S. agencies.] Die erweiterte Anklageschrift weist vor allem darauf hin, dass die US-Justiz die Strafverfolgung neben Assange offenbar auf weitere WikiLeaks-Mitarbeiter ausweiten will. [The superceding indictment indicates above all that the U.S. justice system apparently seeks to extend the criminal prosecution beyond Assange to other WikiLeaks staff.]
-
-The article was also accompanied by [a statement](https://archive.is/4YkfD) by Appelbaum himself:
-
-> Diese Anklage ist nichts als ein Lawfare und Teil einer umfassenderen Strategie politischer Angriffe auf WikiLeaks, auf Personen im Umfeld von WikiLeaks und auf den investigativen Journalismus als Ganzes. [This indictment is nothing more than lawfare and part of a broader strategy of political attacks on WikiLeaks, on individuals associated with WikiLeaks, and on investigative journalism as a whole.]
-
 On October 1st, York published an [article](https://archive.vn/6CgnQ) about "[online harassment and what I've gotten wrong in the past](https://archive.is/Il5wD)."
 
 > Our societies are increasingly divided, a fact that leads to more vitriol, more anger, and more hate. Social media is part of the problem, but it isn't the whole problem. What we need is to take the holistic view, to see that social media, its architecture and design, maximize controversy for profit, and that there will never be a technological solution to stop online hate and harassment, because it is rooted not in code, but in human behavior. We cannot separate "real life" from "online." And so, whatever approach we take to combat that which ails us must be rooted in compassion.
@@ -1670,6 +1662,14 @@ Reilly would continue to reference the allegations against Appelbaum and [Assang
 > ÖPNV-Mitarbeiter, die Unterstützung von Die Zeit wollen: Tut mir leid, sie unterstützen nur Vergewaltiger. [Public transport employees who want support from Die Zeit: Sorry, they only support rapists.]
 >
 > -- Karen Reilly [@akareilly](https://archive.is/LJCeJ) (September 29th 2020)
+
+On September 24th 2020, an online magazine of [Heise Gruppe](https://archive.is/sQQUS) published [an article](https://archive.is/cmhtB) exploring how the U.S. prosecution criminalised talks at events in Germany -- Chaos Computer Club in December 2013, re:publica in May 2014, a Rosa Luxemburg Foundation conference in June 2015 -- as part of the conspiracy.
+
+> Die Nennung von drei Events zwischen den Jahren 2013 und 2015 ist nicht nur beachtlich, weil die netzpolitische Szene in Deutschland von US-Stellen beobachtet wurde. [The mention of three events between 2013 and 2015 is remarkable, not only because the net-politics scene in Germany was monitored by U.S. agencies.] Die erweiterte Anklageschrift weist vor allem darauf hin, dass die US-Justiz die Strafverfolgung neben Assange offenbar auf weitere WikiLeaks-Mitarbeiter ausweiten will. [The superceding indictment indicates above all that the U.S. justice system apparently seeks to extend the criminal prosecution beyond Assange to other WikiLeaks staff.]
+
+The article was also accompanied by [a statement](https://archive.is/4YkfD) by Appelbaum himself:
+
+> Diese Anklage ist nichts als ein Lawfare und Teil einer umfassenderen Strategie politischer Angriffe auf WikiLeaks, auf Personen im Umfeld von WikiLeaks und auf den investigativen Journalismus als Ganzes. [This indictment is nothing more than lawfare and part of a broader strategy of political attacks on WikiLeaks, on individuals associated with WikiLeaks, and on investigative journalism as a whole.]
 
 On October 3rd 2020, during the seventh annual [Hackers Congress](https://web.archive.org/web/20201005044840/https://digital-totality.hcpp.cz/) at Paralelni Polis, [Appelbaum](https://youtu.be/9Yolhny77BQ?t=7421) again spoke about Assange's case, the grand jury, and the fallout from the **Tor Project**:
 
