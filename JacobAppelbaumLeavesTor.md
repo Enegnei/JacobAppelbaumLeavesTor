@@ -781,6 +781,8 @@ In March 2021, commenting on the [**Free Software Foundation**](https://archive.
 
 > [I still get contacted by people who J•c•b App•lb••m raped, in case anyone was wondering about the extent of that man's harm. literally someone contacted me this month. I'm reminded of this because I recently heard he's been sniffing around at a comeback. June 2016 - January 2017 was a wild fucking ride for me, but no regrets](https://archive.is/pJYBe).
 
+On February 10th 2022, Macrina tweeted "[someday I'm gonna write a 'so you wanna expose a sexual predator' field guide](https://archive.is/fX55j)," referencing Appelbaum and those who expressed support for him (see '[*Our Response*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#our-response)').
+
 #### Isis Lovecruft
 
 > [Forest](https://archive.is/bUw87): "Sometime around 5 o'clock in the morning, I woke up very confused and startled because my pants were unzipped and Jake's arm was wrapped around me, his hands in my underwear" ([February 1st, 2016](https://archive.is/1x40b#selection-647.0-649.0)).
@@ -941,6 +943,8 @@ On November 23rd, while attending the '[Bread&Net](https://archive.is/tnUcS)' ev
 > -- *Isis Lovecruft* [@isislovecruft](https://twitter.com/isislovecruft) ([February 5th, 2021](https://archive.is/4uhXT))
 
 In February 2021, after it was noted that [de Valence](https://web.archive.org/web/20210213112211/https://twitter.com/hdevalence/status/1356778933677563905?lang=en) and other co-maintainers [had been removed of admin priviledges](https://web.archive.org/web/20210213021728/https://github.com/dalek-cryptography/curve25519-dalek/pull/338) in their joint [curve25519-dalek](https://archive.is/mVHCV#selection-1059.7-1059.23) Rust library project, Lovecruft publicly accused him of "repeatedly displaying unacceptable behaviours towards several people who spoke to me privately." The Rust community subreddit moderators [removed](https://archive.is/FeDuk) at least one [post](https://web.archive.org/web/20210203053531if_/https://www.reddit.com/r/rust/comments/lbgmb4/ownership_and_maintenance_struggles_in/) on the matter. A few people have [expressed concern](https://web.archive.org/web/20210213121730/https://github.com/dalek-cryptography/curve25519-dalek/issues/345) about [the lack of transparency](https://web.archive.org/web/20210213141205/https://github.com/brycx/orion/issues/176).
+
+In January 2022, Lovecruft tweeted, "[if cancel culture were real djb would’ve been gone a long time ago](https://archive.is/Xs9t5)," referring to Bernstein (see '[*Daniel Bernstein*](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#daniel-bernstein)').
 
 *Further information about the Todd v. Lovecruft lawsuit can be found [here](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md#todd-v-lovecruft).*
 
@@ -1785,7 +1789,7 @@ On May 20th, [a joint letter](https://web.archive.org/web/20200527112614/https:/
 
 ![crowdfund update](https://archive.is/xdoSL/4da949f28a45ab460aee69f57f07d432ab33a01e.jpg)
 
-On or around June 15th, Lovecruft tweeted, "[While Peter Todd and I were involved in litigation, to be clear, Peter Todd never raped me or sexually assaulted me](https://archive.is/9lb1y)." They also published [an update](https://archive.is/Nfh3a) to the [**GoFundMe** campaign](https://archive.is/azxX2), which specified that both parties had "settled the case" on June 3rd, "reaching final written agreement on June 10, 2020." They intend on "renewing this fundraiser campaign... seeking donations sufficient to cover Lovecruft’s legal expenses," amounting to nearly $22,000. Six days before the settlement, on May 28th, they announced that they had "[proposed to one of my partners and we just bought and moved into our first house](https://archive.is/FqGyd)."
+On or around June 15th, Lovecruft tweeted, "[While Peter Todd and I were involved in litigation, to be clear, Peter Todd never raped me or sexually assaulted me](https://archive.is/9lb1y)." They also published [an update](https://archive.is/Nfh3a) to the [**GoFundMe** campaign](https://archive.is/azxX2), which specified that both parties had "settled the case" on June 3rd, "reaching final written agreement on June 10, 2020." They were still seeking nearly $22,000 to "cover Lovecruft’s legal expenses." Six days before the settlement, on May 28th, they announced that they had "[proposed to one of my partners and we just bought and moved into our first house](https://archive.is/FqGyd)."
 
 On June 16th, Todd [confirmed](https://archive.is/FcI1Y) that this "ridiculously expensive" lawsuit had been [settled](https://archive.is/kxWjf) and shared [the](https://archive.is/bis0D) [pages](https://archive.vn/xcmfc) [of](https://archive.vn/ZEWCh) [the](https://archive.vn/95yJd) [agreement](https://archive.vn/08OuX). He noted that he would be "checking with my lawyers about what I can say about it and the evidence we got in discovery. No NDA, so should be able to do a full writeup." The [stipulation for dismissal](https://web.archive.org/web/20200617010034/https://www.courtlistener.com/recap/gov.uscourts.cand.340308/gov.uscourts.cand.340308.77.0.pdf) was entered into the docket.
 
